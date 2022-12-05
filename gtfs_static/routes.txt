@@ -1,0 +1,31 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,Metro Canterbury,1,Rangiora/Cashmere,,3,,3EBCED,3B3C1D
+100,Metro Canterbury,100,Wigram/The Palms,,3,,88807E,3B3C1D
+107,Metro Canterbury,107,Styx Mill/Northlands,,3,,46A299,3B3C1D
+120,Metro Canterbury,120,Burnside/Spreydon,,3,,FAA61A,3B3C1D
+125,Metro Canterbury,125,Redwood/Westlake,,3,,5F9937,3B3C1D
+130,Metro Canterbury,130,Hei Hei/Avonhead,,3,,9F3925,3B3C1D
+135,Metro Canterbury,135,The Palms/New Brighton,,3,,0DB14B,3B3C1D
+140,Metro Canterbury,140,Russley/Mt Pleasant,,3,,00929E,3B3C1D
+155,Metro Canterbury,155,Eastgate/Lyttelton,,3,,9D6DA9,3B3C1D
+17,Metro Canterbury,17,Bryndwr/Huntsbury,,3,,EC008C,3B3C1D
+28,Metro Canterbury,28,Casebrook/Lyttelton,,3,,F79328,3B3C1D
+29,Metro Canterbury,29,Airport/City via Fendalton,,3,,00539F,3B3C1D
+3,Metro Canterbury,3,Airport/Sumner,,3,,554588,3B3C1D
+44,Metro Canterbury,44,Shirley/Westmorland,,3,,0074AD,3B3C1D
+5,Metro Canterbury,5,Rolleston/New Brighton,,3,,FFC20E,3B3C1D
+60,Metro Canterbury,60,Hillmorton/Southshore,,3,,DA6FAB,3B3C1D
+7,Metro Canterbury,7,Halswell/Queenspark,,3,,F37021,3B3C1D
+80,Metro Canterbury,80,Lincoln/Parklands,,3,,717DBD,3B3C1D
+81,Metro Canterbury,81,Lincoln/City direct,,3,,F05B7C,3B3C1D
+820,Metro Canterbury,820,Burnham/Lincoln via Rolleston,,3,,46BA7C,3B3C1D
+85,Metro Canterbury,85,Rolleston/City direct,,3,,F05A4E,3B3C1D
+86,Metro Canterbury,86,Darfield/City,,3,,CBDB2A,3B3C1D
+87,Metro Canterbury,87,Leeston/City,,3,,C34074,3B3C1D
+91,Metro Canterbury,91,Rangiora/City direct,,3,,008644,3B3C1D
+92,Metro Canterbury,92,Kaiapoi/City direct,,3,,946338,3B3C1D
+95,Metro Canterbury,95,City/Pegasus and Waikuku,,3,,C41039,3B3C1D
+97,Metro Canterbury,97,Rangiora/Pegasus,,3,,906FA1,3B3C1D
+F,Metro Canterbury,F,Diamond Harbour Ferry,,4,,005899,3B3C1D
+Oa,Metro Canterbury,Oa,Orbiter,,3,,79BC43,FFFFFF
+Oc,Metro Canterbury,Oc,Orbiter,,3,,79BC43,3B3C1D

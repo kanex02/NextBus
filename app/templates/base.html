@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+    <head>
+        <title>NextBus</title>
+        <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Mono:wght@400"/>
+        <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='stylesheets/style.css') }}" />
+    </head>
+    <body>
+        <div id="nav">
+            <h1>Christchurch Metro Buses</h1>
+            <h5>An unofficial site</h5>
+        </div>
+        <div id="content_wrapper">
+            <!-- <img id="content_background" src="{{ url_for('static', filename='images/wave.svg') }}"> -->
+            {% block content %}{% endblock content %}
+        </div>
+        <div id="credits">
+            <p>Data provided by <a href="https://www.metroinfo.co.nz/" target="_blank" rel="noopener">Metro</a></p>
+            <P>Website by <a href="https://github.com/kanex02" target="_blank" rel="noopener">Kane Xie</a></P>
+        </div>
+    </body>
+    {% block scripts %}{% endblock scripts %}
+</html>

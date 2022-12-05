@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div id="nextbus">
+        <p id="search_label">Enter a stop id: </p>
+        <form id="search_form" action="javascript:run_search()" method="get" novalidate>
+            <input id="stop_id" type="number">
+            <input type="button" id="search" onclick="" value="Search"><br>
+        </form>
+        <div id="buses"></div>
+    </div>
+{% endblock content %}
+
+{% block scripts %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script>
+        if ( window.history.replaceState ) {
+            window.history.replaceState( null, null, window.location.href );
+        }
+
+        function run_search() {
+            var search = $("#stop_id").val()
+            $("#buses").html("<h4>Loading...</h4>")
+            $.ajax({
+                url: "/search",
+                type: "get",
+                data: {jsdata: search},
+                success: function(response) {
+                $("#buses").html(response);
+                },
+                error: function(xhr) {
+                //Leave it alone
+                }
+            })
+        }
+
+        $("#search").click(run_search)
+
+    </script>
+{% endblock scripts %}
