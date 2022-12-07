@@ -1,10 +1,12 @@
 html {
     font-family: 'montserrat', sans-serif;
+    height: 100%;
+
 }
 
 body {
-    margin: 0;
-    height: 100vh;
+    margin: 0px;
+    height: 100%;
     display: flex;
     flex-direction: column;
     background: #e7e8ee;
@@ -26,22 +28,25 @@ buses::-webkit-scrollbar-button {
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
     -webkit-appearance: none;
-    margin: 0;
+    margin: 0px;
+    appearance: textfield;
 }
 
 input[type=number] {
     -moz-appearance: textfield;
+    appearance: textfield;
   }
 
 .route_id_wrapper {
     display: inline-block;
     vertical-align: middle;
-    margin: auto 0;
+    margin: auto 0px;
     margin-right: 0.5rem;
 }
 
 .route_id {
     width: 2.4rem; 
+    min-width: 2.4rem;
     height: 2.4rem; 
     text-align: center; 
     border-radius: 2.4rem; 
@@ -60,46 +65,58 @@ input[type=number] {
 }
 
 .arrival_time {
+    min-width: 93px;
     display: inline-block;
     margin: auto;
-    margin-right: 0;
+    margin-right: 0px;
     font-family: 'roboto mono', monospace;
+    text-align: right;
 }
 
 #nextbus {
-    margin: 0 auto;
+    margin: 0px auto;
     width: 45rem;
     padding: 2.5rem;
     display: inline-flex;
     flex-direction: column;
     border-radius: 15px;
     background: #e7e8ee;
-    border: 0.5px solid #c2c2c2
+    border: 0.5px solid #c2c2c2;
+    min-width: 0px;
 }
 
 #nextbus input {
     font-family: 'roboto mono', sans-serif;
 }
 
+#search {
+    min-width: 120px;
+}
+
 #search_label {
-    margin: 0 2rem;
-    font-size: 1.3rem;
+    margin: 0px 2rem;
+    font-size: 1.8rem;
 }
 
 #search_form {
-    margin-left: 2rem;
+    margin: 0px 2rem;
     height: 10%;
     flex: 0;
+    min-height: 38px;
+}
+
+#stop_id {
+    min-width: 0px;
 }
 
 #buses {
     margin-left: 2rem;
-    margin-right: 0.8rem;
     font-size: 1.2rem;
     flex: 1 0 0;
     margin-top: 2rem;
     display: flex;
     flex-direction: column;
+    min-height: 500px;
 }
 
 #bus_list {
@@ -110,46 +127,56 @@ input[type=number] {
 }
 
 #buses h4 {
-    margin-top: 0;
+    margin-top: 0px;
     margin-bottom: 0.5rem;
+    font-size: 1.8rem;
+    margin-right: 2.5rem;
+}
+
+#buses hr {
+    border: none;
+    height: 1px;
+    color: #999;
+    background-color: #999;
 }
 
 #nav {
-    margin: 0;
-    height: 8rem;
+    margin: 0px;
     text-align: center;
+    padding: 2.5rem;
 }
 
 #nav h1 {
-    margin-top: 2rem;
-    margin-bottom: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 3rem;
 }
 
 #nav h5{
-    margin: 0;
+    margin: 0px;
+    font-size: 1.5rem;
 }
 
 #credits {
-    position: absolute;
-    bottom: 0;
-    right: 0;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
     padding: 0.3rem 0.5rem;
     margin: 0.5rem;
     background-color: white;
 }
 
 #credits p {
-    margin: 0;
+    margin: 0px;
 }
 
 #content_wrapper {
-    flex: 1;
+    flex: 1 1;
     padding: 2.5rem;
-    padding-top: 0;
+    padding-top: 0px;
     flex-direction: row;
     display: flex;
     position: relative;
-    overflow: hidden;
 }
 
 #content_background {
@@ -160,5 +187,71 @@ input[type=number] {
 }
 
 #search_form input {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
+}
+
+a:visited { color:blue; }
+
+
+@media screen and (max-width: 768px) {
+#content_wrapper {
+    padding: 0px;
+}
+
+#nav {
+    padding: 1rem;
+}
+
+#nav h1 {
+    font-size: 2.3rem;
+}
+
+#nav h5 {
+    font-size: 1.5rem;
+}
+
+#nextbus {
+    border-radius: 0px;
+    padding: 2.5rem 0px;
+    width: 100%;
+}
+
+#bus_list {
+    padding-right: 1.5rem;
+    margin-right: 0.8rem;
+}
+
+
+@media screen and (max-width: 530px) {
+    #search_form {
+        display: flex;
+        gap: 1%;
+    }
+
+    #stop_id {
+        flex: 1 1 70%;
+    }
+
+    #search {
+        flex: 1 1 28%;
+    }
+    
+    #buses {
+        margin-left: 0.8rem;
+    }
+
+    #bus_list {
+        padding-right: 0.8rem;
+        margin-right: 0px;
+    }
+
+    #search_label {
+        margin: 0px 0.8rem;
+    }
+
+    #search_form {
+        margin: 0px 0.8rem;
+    }
+}
+
 }

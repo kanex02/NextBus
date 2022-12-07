@@ -1,4 +1,4 @@
-from flask import render_template, request
+from flask import render_template, request, url_for, redirect
 from realtime import nextBus
 from app import app
 
@@ -13,3 +13,7 @@ def search():
     data = nextBus(query)
 
     return render_template('buses.html', stop=data[0], buses=data[1])
+
+@app.errorhandler(404)
+def not_found(e):
+    return redirect(url_for('index'))

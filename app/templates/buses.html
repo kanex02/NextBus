@@ -1,6 +1,7 @@
 <h4>{{ stop }}</h4>
 <div id="bus_list">
     {% for bus in buses %}
+    <hr>
     <div class="bus">
         <div class="route_id_wrapper">
             <p class="route_id" style="border: 3px #{{ bus.bus_line.colour }} solid;">{{ bus.bus_line.id }}</p> 
@@ -8,5 +9,6 @@
         <p class="route_name">{{ bus.bus_line.name }}</p>
         <p class="arrival_time">{{ bus.arrival_time }}</p><br>
     </div>
-        {% endfor %}
+    {% endfor %}
+    <hr>
 </div>

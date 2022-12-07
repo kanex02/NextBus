@@ -3,6 +3,9 @@ from urllib import request
 from google.transit import gtfs_realtime_pb2
 from datetime import datetime, timedelta
 from dateutil import tz
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 
 NZ_TIMEZONE = tz.gettz('Pacific/Auckland')
@@ -51,7 +54,7 @@ def nextBus(stop_id):
     buses = []
     canceled = []
     to_delete = []
-    data = [None, buses]
+    data = ["Stop not found", []]
 
     "Returns a list of the next buses to arrive at the stop."
     stop_id = str(stop_id)
@@ -74,7 +77,7 @@ def nextBus(stop_id):
         hdr ={
         # Request headers
         'Cache-Control': 'no-cache',
-        'Ocp-Apim-Subscription-Key': 'e07580007da54afb8647568c731548bd',
+        'Ocp-Apim-Subscription-Key': os.environ.get('metro_api_token'),
         }
 
         # Request data and parse to feed message
@@ -102,8 +105,8 @@ def nextBus(stop_id):
                         buses.append(bus)
 
     except Exception as e:
-        print(e.with_traceback())
-
+        print(e)
+        return data
         
     # Get scheduled buses
     with open('./gtfs_static/stop_times.txt', 'r') as trips:

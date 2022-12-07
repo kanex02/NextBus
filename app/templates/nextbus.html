@@ -5,7 +5,7 @@
         <p id="search_label">Enter a stop id: </p>
         <form id="search_form" action="javascript:run_search()" method="get" novalidate>
             <input id="stop_id" type="number">
-            <input type="button" id="search" onclick="" value="Search"><br>
+            <input type="submit" id="search" value="Search"><br>
         </form>
         <div id="buses"></div>
     </div>
@@ -18,8 +18,14 @@
             window.history.replaceState( null, null, window.location.href );
         }
 
+        if (sessionStorage.getItem("station")) {
+            $("#stop_id").val = sessionStorage.getItem("station")
+            sessionStorage.removeItem("station")
+        }
+
         function run_search() {
             var search = $("#stop_id").val()
+            sessionStorage.setItem("station", search)
             $("#buses").html("<h4>Loading...</h4>")
             $.ajax({
                 url: "/search",
@@ -29,12 +35,11 @@
                 $("#buses").html(response);
                 },
                 error: function(xhr) {
-                //Leave it alone
-                }
+                    $("#buses").html("<h4>An error ocurred</h4>")
+                },
+                timeout: 5000
             })
         }
-
-        $("#search").click(run_search)
 
     </script>
 {% endblock scripts %}

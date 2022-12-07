@@ -1,5 +1,8 @@
-########### Python 3.2 #############
 import urllib.request, json, zipfile
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 
 try:
     url = "https://apis.metroinfo.co.nz/rti/gtfs/v1/gtfs.zip"
@@ -7,7 +10,7 @@ try:
     hdr ={
     # Request headers
     'Cache-Control': 'no-cache',
-    'Ocp-Apim-Subscription-Key': 'e07580007da54afb8647568c731548bd',
+    'Ocp-Apim-Subscription-Key': os.environ.get('metro_api_token'),
     }
 
     req = urllib.request.Request(url, headers=hdr)
@@ -22,4 +25,3 @@ try:
     zip.extractall('./gtfs_static')
 except Exception as e:
     print(e)
-####################################

@@ -1,1 +1,2 @@
-FLASK_APP=nextbus.py
+FLASK_APP=index.py
+FLASK_DEBUG=false
