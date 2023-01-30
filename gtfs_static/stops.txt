@@ -237,7 +237,7 @@
 43117,43117,Rocking Horse Rd near Heron St,,-43.54209,172.74386,,,,,,1
 44448,44448,Main Nth Rd near Gressons Rd,,-43.29512,172.68422,,,,,,1
 24833,24833,Yaldhurst Rd near Corfe St,,-43.52874,172.5612,,,,,,1
-33798,33798,Halswell Rd nearHalswell Junction Rd,,-43.58633,172.57065,,,,,,1
+33798,33798,Halswell Rd near Halswell Junction Rd,,-43.58633,172.57065,,,,,,1
 51188,51188,Gardiners Rd near Sawyers Arms Rd,,-43.4776,172.58537,,,,,,1
 33311,33311,Cashmere Rd near Kaiwara St,,-43.57449,172.61043,,,,,,1
 54698,54698,Acacia Avenue near Beech Dr,,-43.30952,172.57384,,,,,,1
@@ -350,7 +350,7 @@
 23014,23014,Hay St near Kuaka Cres,,-43.53285,172.6853,,,,,,1
 24345,24345,Emmett St near Shirley Rd,,-43.50783,172.65586,,,,,,1
 40807,40807,Wairakei Rd near Greers Rd,,-43.49972,172.58663,,,,,,1
-22160,22160,Halswell Rd nearHalswell Junction Rd,,-43.58587,172.57053,,,,,,1
+22160,22160,Halswell Rd near Halswell Junction Rd,,-43.58587,172.57053,,,,,,1
 51573,51573,Wharenui Rd near Riccarton Rd,,-43.53164,172.58639,,,,,,1
 53752,53752,Marine Parade near Beresford Street,,-43.50666,172.73065,,,,,,1
 25673,25673,Westlake,,-43.56793,172.55637,,,,,,1
@@ -494,7 +494,6 @@
 24397,24397,Gerald St near Murray Pl,,-43.64115,172.47711,,,,,,1
 43908,43908,The Palms (Shirley Rd),,-43.50811,172.66154,,,,,,1
 26574,26574,Oram Ave near Rodney St,,-43.51316,172.73156,,,,,,1
-14599,14599,Hei Hei Rd near Buchanans Rd,,-43.53026,172.52701,,,,,,1
 30603,30603,Moorhouse Ave near Manchester St,,-43.53978,172.64139,,,,,,1
 38567,38567,Springfield Rd near St Albans St,,-43.5097,172.63015,,,,,,1
 51502,51502,Corsair Dr near Grebe Pl,,-43.54779,172.54436,,,,,,1
@@ -592,7 +591,7 @@
 39144,39144,Keyes Rd near Gresham Tce,,-43.5013,172.71857,,,,,,1
 17379,17379,Memorial Ave near Spitfire Square,,-43.49048,172.54582,,,,,,1
 18226,18226,Marine Pde near Lonsdale St,,-43.50238,172.729,,,,,,1
-40135,40135,Cavendish Rd near Barnes Rd,,-43.47375,172.60682,,,,,,1
+40135,40135,Cavendish Rd near Barnes Rd,,-43.47332,172.60687,,,,,,1
 24908,24908,Yaldhurst Rd near Curletts Rd,,-43.53081,172.56868,,,,,,1
 15199,15199,Main North Rd,,-43.44004,172.63587,,,,,,1
 42793,42793,Nayland St near Head St,,-43.57403,172.76658,,,,,,1
@@ -936,7 +935,7 @@
 26284,26284,Rocking Horse Rd near Tern St,,-43.55143,172.74813,,,,,,1
 10706,10706,Sir William Pickering Dr (NB),,-43.49479,172.55915,,,,,,1
 39589,39589,Travis Rd near Atlantis St,,-43.49365,172.70353,,,,,,1
-32957,32957,Opawa Rd near Manatu Ln,,-43.54968,172.65783,,,,,,1
+32957,32957,Opawa Rd near Manatu Ln,,-43.54982,172.65819,,,,,,1
 19999,19999,Cavendish Rd near Sturrocks Rd,,-43.47397,172.60695,,,,,,1
 30776,30776,Major Hornbrook Rd near Billys Trk,,-43.56307,172.71602,,,,,,1
 18668,18668,Mairehau Rd near Inwoods Rd,,-43.48231,172.699,,,,,,1
@@ -1359,7 +1358,6 @@
 38757,38757,Clyde Rd near Totara St,,-43.52895,172.58705,,,,,,1
 54826,54826,Fuller Street near Akaroa St,,-43.38134,172.65171,,,,,,1
 17834,17834,Burnham,,-43.61636,172.29863,,,,,,1
-14770,14770,Hei Hei Rd near Buchanans Rd,,-43.53012,172.52691,,,,,,1
 22398,22398,Barrington Mall (Athelstan St),,-43.55713,172.62007,,,,,,1
 17806,17806,Masefield Dr near Durrell Wy,,-43.59701,172.3921,,,,,,1
 26751,26751,Central Park and Ride (White St),,-43.30669,172.58626,,,,,,1
@@ -1622,7 +1620,7 @@
 17125,17125,Memorial Ave near Otara St,,-43.51672,172.58747,,,,,,1
 39396,39396,New Brighton Rd near Locksley Ave,,-43.50401,172.68201,,,,,,1
 40381,40381,Union St near Tovey St,,-43.51796,172.73046,,,,,,1
-23804,23804,Garlands Rd near Tanner St,,-43.55622,172.67753,,,,,,1
+23804,23804,Garlands Rd near Tanner St,,-43.55625,172.67786,,,,,,1
 20771,20771,Bower Ave near Thurso Pl,,-43.49981,172.71031,,,,,,1
 38068,38068,Halswell Junction Rd near Kinrara Pl,,-43.58265,172.56485,,,,,,1
 43418,43418,Ferry Rd near Rutherford St,,-43.55128,172.68654,,,,,,1
@@ -2069,7 +2067,6 @@
 42937,42937,Opawa Rd near Brabourne St,,-43.56173,172.67511,,,,,,1
 42928,42928,Wairakei Rd near Pitcairn Cres,,-43.50436,172.59644,,,,,,1
 29971,29971,Grimseys Rd near Prestons Rd,,-43.4738,172.62745,,,,,,1
-54900,54900,East Maddisons Rd near Ledbury Dr,,-43.6221,172.3832,,,,,,1
 15335,15335,Northwood Blvd near O'Neill Ave,,-43.46023,172.61975,,,,,,1
 13157,13157,Woodbury St near Glenharrow Ave,,-43.5181,172.54907,,,,,,1
 18843,18843,Wainoni Rd near Pannell Ave,,-43.52022,172.68304,,,,,,1

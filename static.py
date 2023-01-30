@@ -1,9 +1,11 @@
-import urllib.request, json, zipfile
+import urllib.request, zipfile
 import os
+import time
 from dotenv import load_dotenv
 load_dotenv()
 
-
+# TODO run this once a day for route changes
+# Get static route info
 try:
     url = "https://apis.metroinfo.co.nz/rti/gtfs/v1/gtfs.zip"
 
@@ -23,5 +25,7 @@ try:
         f.write(response.read())
     zip = zipfile.ZipFile('static.zip')
     zip.extractall('./gtfs_static')
+    zip.close()
+    os.remove('static.zip')
 except Exception as e:
     print(e)

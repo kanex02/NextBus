@@ -49,7 +49,8 @@ class Bus:
     def __str__(self):
         return f'{{trip id: {self.trip_id}, route: {self.bus_line}, arrival time: {self.arrival_time}}}'
     
-
+# Gets the buses incoming
+# TODO limit the number of buses returned
 def nextBus(stop_id):
     buses = []
     canceled = []
@@ -114,7 +115,8 @@ def nextBus(stop_id):
         lines = list(line.split(',') for line in stripped if line)
         for line in lines:
             if line[3] == stop_id:
-                # Custom comparison, as Metro provides times such as '24:18:41' to denote the same day
+
+                # Custom comparison, as Metro provides times such as '24:18:41' to denote bus times after midnight
                 current_time = datetime.now(tz=tz.gettz('Pacific/Auckland')).time()
                 if ((int(line[1][0:2]) > current_time.hour) or 
                     ((int(line[1][0:2]) == current_time.hour) and (int(line[1][3:5]) > current_time.minute)) or 
@@ -123,6 +125,8 @@ def nextBus(stop_id):
                     bus.trip_id = line[0]
                     arrival_time = list(map(int, line[1].split(':')))
                     now = datetime.now(NZ_TIMEZONE)
+
+                    # If the arrival hour is greater or equal to 24, take away 24 hours and add a day
                     if arrival_time[0] >= 24:
                         arrival_time[0] -= 24
                         arrival_time = datetime(now.year, now.month, now.day, arrival_time[0], arrival_time[1], arrival_time[2], 0, NZ_TIMEZONE)
@@ -131,17 +135,24 @@ def nextBus(stop_id):
                         arrival_time = datetime(now.year, now.month, now.day, arrival_time[0], arrival_time[1], arrival_time[2], 0, NZ_TIMEZONE)
 
                     bus.arrival_time = arrival_time
+
+                    # Add trip to scheduled buses if it is not already in the list (from the realtime data)
                     if bus.trip_id not in [b.trip_id for b in buses]:
                         buses.append(bus)
 
+    # Remove scheduled buses not on the right day. Note: this is not done when getting the scheduled buses as it requires two other files
     if buses:
         buses.sort(key=lambda x: x.arrival_time)
+
+        # Get the day of the week,
         weekdate = int(datetime.now(tz=tz.gettz('Pacific/Auckland')).weekday()) + 1
         with open('./gtfs_static/trips.txt', 'r') as trips:
             stripped = (line.strip() for line in trips)
             lines = list(line.split(',') for line in stripped if line)
             for bus in buses:
                 i = 0
+
+                # Find the line in trips.txt that matches the current scheduled bus
                 while lines[i][2] != bus.trip_id and i < len(lines):
                     i+=1
                 with open('./gtfs_static/calendar.txt', 'r') as calendar:
@@ -152,6 +163,8 @@ def nextBus(stop_id):
                     else:
                         to_delete.append(bus)
         
+        # Change arrival times into strings. DUE for arrival within a minute, minute count for 
+        # arrival within half an hour, and HOUR:MINUTE otherwise. 
         for bus in buses:
             difference = (bus.arrival_time - datetime.now(NZ_TIMEZONE)).total_seconds()
             if difference <= 60:
@@ -164,6 +177,7 @@ def nextBus(stop_id):
     data[1] = [bus for bus in buses if bus not in to_delete]
     return data
 
+# Debug code
 if __name__ == '__main__':
-    for bus in nextBus(17461)[0:10]:
+    for bus in nextBus(51824)[0:10]:
         print(bus)

@@ -2,7 +2,7 @@
 F,1,7121,Diamond Harbour,,1,8888,2207,1,1
 F,1,7120,Lyttelton,,0,8888,2206,1,1
 80,2,1661,Parklands via City,,0,8008,2176,1,1
-5,2,2897,Rolleston Express,,1,5025,2611,1,1
+5,2,2897,Rolleston Express,,1,5025,2707,1,1
 3,2,4146,Airport via University,,1,3007,2418,1,1
 Oc,2,18103,Orbiter via St Martins,,1,89007,2524,1,1
 1,2,1250,Belfast via City,,1,129,2504,1,1
@@ -23,7 +23,7 @@ F,2,7026,Diamond Harbour,,1,5555,2207,1,1
 80,2,1720,Lincoln via City,,1,8011,2180,1,1
 80,2,1724,Lincoln via City,,1,8015,2180,1,1
 80,2,1677,Parklands via City,,0,8015,2176,1,1
-28,2,7163,Lyttelton,,0,2821,2516,1,1
+28,2,7163,Lyttelton,,0,2821,2805,1,1
 85,2,1638,City & Ara Institute,,0,8501,2187,1,1
 1,2,1333,Princess Margaret Hospital & Cashmere,,0,103,2108,1,1
 5,2,2901,Hornby via City,,1,5018,2163,1,1
@@ -32,7 +32,7 @@ Oa,2,18051,Orbiter via The Palms,,0,99008,2615,1,1
 1,2,1315,Princess Margaret Hospital,,0,136,2408,1,1
 107,2,7369,Styx Mill & Supa Centa,,1,10701,2119,1,1
 1,2,1266,Rangiora via City,,1,113,2503,1,1
-130,2,3490,Hei Hei & Hornby,,0,1304,2602,1,1
+130,2,3490,Hei Hei & Hornby,,0,1304,2702,1,1
 3,2,4181,Airport via University,,1,3004,2418,1,1
 44,2,3425,Shirley & Dallington,,1,4401,2162,1,1
 125,2,3727,Westlake & Halswell via Hornby,,0,2504,2124,1,1
@@ -57,7 +57,7 @@ Oa,2,18054,Orbiter via The Palms,,0,99001,2615,1,1
 100,2,4822,The Palms,,0,10008,2114,1,1
 1,2,1259,Belfast via City,,1,137,2502,1,1
 120,2,4049,Spreydon & Barrington,,0,1204,2508,1,1
-28,2,7133,Lyttelton,,0,2808,2516,1,1
+28,2,7133,Lyttelton,,0,2808,2805,1,1
 44,2,3371,Shirley & Dallington,,1,4401,2162,1,1
 Oc,2,18110,Orbiter via St Martins,,1,89004,2524,1,1
 1,2,1302,Princess Margaret Hospital & Cashmere,,0,112,2108,1,1
@@ -81,27 +81,27 @@ Oc,2,18102,Orbiter via St Martins,,1,89004,2524,1,1
 100,2,4855,The Palms,,0,10005,2114,1,1
 5,2,2883,Rolleston via City,,1,5008,2610,1,1
 60,2,3163,Hillmorton & Wigram via City,,1,6001,2421,1,1
-28,2,7193,Northwood via City,,1,2802,2410,1,1
+28,2,7193,Northwood via City,,1,2802,2803,1,1
 5,2,2810,New Brighton via City,,0,5018,2612,1,1
 95,2,1849,Pegasus & Waikuku Express,,1,9508,2521,1,1
 60,2,3173,Hillmorton & Wigram via City,,1,6014,2421,1,1
 107,2,7379,Styx Mill & Supa Centa,,1,10701,2119,1,1
 1,2,1316,Princess Margaret Hospital & Cashmere,,0,117,2108,1,1
 140,2,2581,Russley & Hornby,,0,1406,2133,1,1
-820,2,3932,Lincoln,,0,8201,2184,1,1
+820,2,3932,Lincoln,,0,8201,2709,1,1
 135,2,7574,The Palms via Prestons,,1,1351,2302,1,1
 3,2,4185,Sheffield Cres via University,,1,3023,2417,1,1
 44,2,3409,Shirley & Dallington,,1,4406,2162,1,1
 80,2,1716,Lincoln via City,,1,8010,2180,1,1
 17,2,6906,Huntsbury via City,,0,1701,2137,1,1
 3,2,4163,Sheffield Cres via University,,1,3005,2417,1,1
-28,2,7208,Northwood via City,,1,2815,2410,1,1
+28,2,7208,Northwood via City,,1,2815,2803,1,1
 Oc,2,18119,Orbiter via St Martins,,1,89007,2524,1,1
 Oc,2,18115,Orbiter via St Martins,,1,89001,2524,1,1
 F,2,7030,Diamond Harbour,,1,5555,2207,1,1
 80,2,1648,Parklands,,0,8012,2177,1,1
 7,2,5278,Queenspark via City,,1,7003,2518,1,1
-820,2,3941,Lincoln,,0,8202,2184,1,1
+820,2,3941,Lincoln,,0,8202,2709,1,1
 28,2,7181,City & Manchester Street,,1,2813,2144,1,1
 3,2,4168,Sheffield Cres via University,,1,3010,2417,1,1
 7,2,5227,Queenspark via City,,1,7002,2518,1,1
@@ -110,7 +110,7 @@ F,2,7030,Diamond Harbour,,1,5555,2207,1,1
 F,2,7038,Diamond Harbour,,1,5555,2207,1,1
 5,2,2914,Rolleston via City,,1,5018,2610,1,1
 5,2,2815,New Brighton via City,,0,5002,2166,1,1
-130,2,3523,Hei Hei & Hornby,,0,1306,2602,1,1
+130,2,3523,Hei Hei & Hornby,,0,1306,2702,1,1
 5,2,2822,New Brighton via City,,0,5018,2166,1,1
 Oc,2,18135,Orbiter via St Martins,,1,89008,2524,1,1
 81,2,1721,Lincoln direct,,1,8104,2182,1,1
@@ -120,22 +120,22 @@ Oc,2,18135,Orbiter via St Martins,,1,89008,2524,1,1
 120,2,4045,Spreydon & Barrington,,0,1201,2508,1,1
 7,2,5294,Halswell via City,,0,7012,2519,1,1
 1,2,1326,Princess Margaret Hospital & Cashmere,,0,137,2108,1,1
-130,2,3527,Avonhead & Burnside High School,,1,1301,2515,1,1
+130,2,3527,Avonhead & Burnside High School,,1,1301,2706,1,1
 5,2,2782,New Brighton via City,,0,5002,2612,1,1
 7,2,5254,Queenspark via City,,1,7003,2518,1,1
-28,2,7191,Northwood via City,,1,2808,2410,1,1
-130,2,3557,Avonhead,,1,1303,2514,1,1
+28,2,7191,Northwood via City,,1,2808,2803,1,1
+130,2,3557,Avonhead,,1,1303,2705,1,1
 5,2,2780,New Brighton via City,,0,5001,2166,1,1
 5,2,2891,Hornby via City,,1,9106,2163,1,1
 100,2,4839,The Palms,,0,10009,2114,1,1
-130,2,3489,Hei Hei & Hornby,,0,1303,2602,1,1
+130,2,3489,Hei Hei & Hornby,,0,1303,2702,1,1
 100,2,4788,Halswell,,1,10004,2116,1,1
-130,2,3506,Hei Hei & Hornby,,0,8505,2604,1,1
+130,2,3506,Hei Hei & Hornby,,0,8505,2704,1,1
 100,2,4841,The Palms,,0,10002,2114,1,1
 125,2,3735,Redwood via Hornby,,1,2501,2510,1,1
 80,2,1673,Parklands via City,,0,8017,2176,1,1
 3,2,4237,Sumner via City,,0,3001,2415,1,1
-28,2,7196,Northwood via City,,1,2814,2410,1,1
+28,2,7196,Northwood via City,,1,2814,2803,1,1
 3,2,4266,Sumner via City,,0,3010,2153,1,1
 7,2,5313,Halswell via City,,0,7005,2519,1,1
 Oa,2,18063,Orbiter via The Palms,,0,99003,2615,1,1
@@ -145,7 +145,7 @@ Oa,2,18063,Orbiter via The Palms,,0,99003,2615,1,1
 3,2,4128,Sheffield Cres via University,,1,3009,2417,1,1
 F,2,7010,Lyttelton,,0,5555,2206,1,1
 80,2,1700,Lincoln via City,,1,8001,2180,1,1
-28,2,7142,Lyttelton,,0,2809,2516,1,1
+28,2,7142,Lyttelton,,0,2809,2805,1,1
 7,2,5271,Queenspark via City,,1,7008,2518,1,1
 1,2,1289,Princess Margaret Hospital,,0,122,2110,1,1
 80,2,1668,Parklands via City,,0,8008,2176,1,1
@@ -153,7 +153,7 @@ Oc,2,18077,Orbiter via St Martins,,1,89006,2524,1,1
 F,2,7024,Diamond Harbour,,1,5555,2207,1,1
 140,2,2555,Mt Pleasant via Eastgate,,1,1404,2134,1,1
 3,2,4268,Sumner via City,,0,3012,2415,1,1
-130,2,3554,Avonhead,,1,1306,2514,1,1
+130,2,3554,Avonhead,,1,1306,2705,1,1
 3,2,4139,Sheffield Cres via University,,1,3019,2417,1,1
 1,2,1292,City & Ara Institute Express,,0,102,2409,1,1
 Oc,2,18095,Orbiter via St Martins,,1,89004,2524,1,1
@@ -169,9 +169,9 @@ Oc,2,18095,Orbiter via St Martins,,1,89004,2524,1,1
 5,2,2834,New Brighton via City,,0,5021,2166,1,1
 Oa,2,18029,Orbiter via The Palms,,0,99006,2615,1,1
 7,2,5232,Queenspark via City,,1,7008,2518,1,1
-130,2,3525,Avonhead,,1,1303,2514,1,1
+130,2,3525,Avonhead,,1,1303,2705,1,1
 125,2,3751,Redwood via Hornby,,1,2505,2510,1,1
-130,2,3541,Avonhead,,1,1303,2514,1,1
+130,2,3541,Avonhead,,1,1303,2705,1,1
 7,2,5341,Halswell via City,,0,7008,2519,1,1
 60,2,3210,Southshore via City,,0,6003,2170,1,1
 107,2,7365,Northlands,,0,10701,2120,1,1
@@ -184,7 +184,7 @@ Oc,2,18124,Orbiter via St Martins,,1,89002,2524,1,1
 Oc,2,18087,Orbiter via St Martins,,1,89003,2524,1,1
 80,2,1685,Parklands via City,,0,8013,2176,1,1
 107,2,7366,Northlands,,0,10701,2120,1,1
-28,2,7199,Northwood via City,,1,2808,2410,1,1
+28,2,7199,Northwood via City,,1,2808,2803,1,1
 5,2,2855,Rolleston via City,,1,5008,2610,1,1
 125,2,3698,Westlake & Halswell via Hornby,,0,2501,2124,1,1
 3,2,4201,Airport via University,,1,3003,2418,1,1
@@ -217,14 +217,14 @@ F,2,7037,Diamond Harbour,,1,5555,2207,1,1
 97,2,1959,Acacia Ave Rangiora,,1,9508,2204,1,1
 125,2,3744,Redwood via Hornby,,1,2504,2510,1,1
 44,2,3403,Shirley & Dallington,,1,4405,2162,1,1
-28,2,7197,Northwood via City,,1,2820,2410,1,1
-130,2,3513,Hei Hei & Hornby,,0,1303,2602,1,1
+28,2,7197,Northwood via City,,1,2820,2803,1,1
+130,2,3513,Hei Hei & Hornby,,0,1303,2702,1,1
 1,2,1252,Belfast via City,,1,124,2504,1,1
-130,2,3542,Avonhead,,1,8505,2514,1,1
+130,2,3542,Avonhead,,1,8505,2705,1,1
 95,2,1866,City & Ara Institute,,0,9501,2200,1,1
 17,2,6905,Bryndwr,,1,1706,2138,1,1
 3,2,4290,Sumner via City,,0,3013,2153,1,1
-130,2,3498,Hei Hei & Hornby,,0,1301,2602,1,1
+130,2,3498,Hei Hei & Hornby,,0,1301,2702,1,1
 3,2,4293,Sumner via City,,0,3022,2415,1,1
 60,2,3195,Southshore via City,,0,6005,2170,1,1
 1,2,1320,Princess Margaret Hospital,,0,138,2408,1,1
@@ -238,20 +238,20 @@ Oc,2,18075,Orbiter via Burnside High School,,1,89007,2525,1,1
 7,2,5282,Queenspark via City,,1,7011,2518,1,1
 Oa,2,18066,Orbiter via The Palms,,0,99002,2615,1,1
 60,2,3172,Hillmorton & Wigram via City,,1,6001,2421,1,1
-820,2,3933,Lincoln,,0,8202,2184,1,1
+820,2,3933,Lincoln,,0,8202,2709,1,1
 29,2,2414,Airport via Fendalton,,1,2902,2151,1,1
 17,2,6896,Bryndwr,,1,1704,2138,1,1
-130,2,3552,Avonhead,,1,1307,2514,1,1
+130,2,3552,Avonhead,,1,1307,2705,1,1
 5,2,2857,Rolleston via City,,1,5001,2610,1,1
 1,2,1207,Belfast via City,,1,117,2502,1,1
 3,2,4173,Airport via University,,1,3015,2418,1,1
 29,2,2386,City via Fendalton,,0,2901,2150,1,1
 3,2,4152,Airport via University,,1,3013,2418,1,1
-28,2,7159,Lyttelton,,0,2814,2516,1,1
+28,2,7159,Lyttelton,,0,2814,2805,1,1
 140,2,2598,Russley & Hornby via Eastgate,,0,1402,2132,1,1
 107,2,7368,Northlands,,0,10701,2120,1,1
 17,2,6881,Bryndwr,,1,1703,2138,1,1
-820,2,3918,Burnham,,1,8202,2185,1,1
+820,2,3918,Burnham,,1,8202,2710,1,1
 Oc,2,18096,Orbiter via St Martins,,1,89007,2524,1,1
 140,2,2566,Mt Pleasant via Eastgate,,1,1401,2134,1,1
 3,2,4203,Airport via University,,1,3023,2418,1,1
@@ -260,7 +260,7 @@ Oc,2,18096,Orbiter via St Martins,,1,89007,2524,1,1
 97,2,1960,Acacia Ave Rangiora,,1,9509,2204,1,1
 3,2,4219,Sumner via City,,0,3002,2415,1,1
 F,2,7001,Lyttelton,,0,5555,2206,1,1
-130,2,3536,Avonhead,,1,1303,2514,1,1
+130,2,3536,Avonhead,,1,1303,2705,1,1
 5,2,2802,New Brighton via City,,0,5013,2612,1,1
 1,2,1222,Belfast via City,,1,114,2502,1,1
 1,2,1238,Belfast via City,,1,112,2502,1,1
@@ -274,7 +274,7 @@ F,2,7034,Diamond Harbour,,1,5555,2207,1,1
 1,2,1199,Rangiora via City,,1,102,2503,1,1
 80,2,1658,City & Ara Institute,,0,8003,2179,1,1
 7,2,5312,Halswell via City,,0,7004,2519,1,1
-130,2,3493,Hei Hei & Hornby,,0,1301,2602,1,1
+130,2,3493,Hei Hei & Hornby,,0,1301,2702,1,1
 Oc,2,18097,Orbiter via St Martins,,1,89005,2524,1,1
 100,2,4840,The Palms,,0,10014,2114,1,1
 5,2,2912,Hornby via City,,1,5021,2163,1,1
@@ -282,7 +282,7 @@ Oc,2,18097,Orbiter via St Martins,,1,89005,2524,1,1
 95,2,1841,Pegasus,,1,9503,2520,1,1
 3,2,4295,Sumner via City,,0,3003,2415,1,1
 60,2,3203,Southshore via City,,0,6009,2170,1,1
-130,2,3549,Avonhead,,1,1309,2514,1,1
+130,2,3549,Avonhead,,1,1309,2705,1,1
 3,2,4204,Sheffield Cres via University,,1,3009,2417,1,1
 80,2,1730,Lincoln via City,,1,8014,2180,1,1
 5,2,2837,New Brighton via City,,0,5018,2166,1,1
@@ -291,23 +291,23 @@ Oc,2,18097,Orbiter via St Martins,,1,89005,2524,1,1
 3,2,4166,Sheffield Cres via University,,1,3008,2417,1,1
 120,2,4012,Burnside,,1,1202,2509,1,1
 1,2,1234,Belfast via City,,1,103,2502,1,1
-5,2,2796,City & Ara Institute Express,,0,5003,2613,1,1
+5,2,2796,City & Ara Institute Express,,0,5003,2708,1,1
 125,2,3763,Redwood via Hornby,,1,2505,2510,1,1
 5,2,2858,Hornby via City,,1,5015,2163,1,1
 3,2,4277,Sumner via City,,0,3001,2415,1,1
 5,2,2880,Hornby via City,,1,5017,2163,1,1
-28,2,7151,Lyttelton,,0,2809,2516,1,1
+28,2,7151,Lyttelton,,0,2809,2805,1,1
 100,2,4805,Halswell,,1,10004,2116,1,1
 Oc,2,18109,Orbiter via St Martins,,1,89003,2524,1,1
 125,2,3741,Redwood via Hornby,,1,2501,2510,1,1
 1,2,1269,Belfast via City,,1,104,2504,1,1
 125,2,3746,Redwood via Hornby,,1,2506,2510,1,1
 Oa,2,18040,Orbiter via The Palms,,0,99003,2615,1,1
-28,2,7186,Northwood via City,,1,2802,2410,1,1
+28,2,7186,Northwood via City,,1,2802,2803,1,1
 29,2,2378,City via Fendalton,,0,2903,2150,1,1
 29,2,2371,City via Fendalton,,0,2901,2150,1,1
 60,2,3160,Hillmorton & Wigram via City,,1,6005,2421,1,1
-130,2,3551,Avonhead,,1,1301,2514,1,1
+130,2,3551,Avonhead,,1,1301,2705,1,1
 7,2,5264,Queenspark via City,,1,7017,2518,1,1
 Oa,2,18022,Orbiter via The Palms,,0,99006,2615,1,1
 3,2,4223,Sumner via City,,0,3006,2153,1,1
@@ -320,21 +320,21 @@ Oa,2,18046,Orbiter via The Palms,,0,99001,2615,1,1
 92,2,1592,City & Public Hospital,,0,9202,2426,1,1
 140,2,2554,Mt Pleasant via Eastgate,,1,1403,2134,1,1
 17,2,6883,Bryndwr,,1,1704,2138,1,1
-28,2,7174,Northwood via City,,1,2802,2606,1,1
+28,2,7174,Northwood via City,,1,2802,2804,1,1
 60,2,3151,Hillmorton & Wigram via City,,1,6006,2421,1,1
 Oa,2,18014,Orbiter via The Palms,,0,99005,2615,1,1
-28,2,7198,Northwood via City,,1,2815,2410,1,1
+28,2,7198,Northwood via City,,1,2815,2803,1,1
 5,2,2793,New Brighton via City,,0,5011,2166,1,1
 80,2,1660,Parklands via City,,0,8007,2176,1,1
 Oa,2,18036,Orbiter via The Palms,,0,99005,2615,1,1
-130,2,3538,Avonhead,,1,1306,2514,1,1
-130,2,3550,Avonhead,,1,1306,2514,1,1
+130,2,3538,Avonhead,,1,1306,2705,1,1
+130,2,3550,Avonhead,,1,1306,2705,1,1
 60,2,3226,Southshore via City,,0,6017,2170,1,1
 7,2,5245,Queenspark via City,,1,7006,2518,1,1
 3,2,4301,Sumner via City,,0,3023,2415,1,1
 Oc,2,18127,Orbiter via St Martins,,1,89008,2524,1,1
 7,2,5290,Halswell via City,,0,7008,2519,1,1
-130,2,3519,Hei Hei & Hornby,,0,1306,2602,1,1
+130,2,3519,Hei Hei & Hornby,,0,1306,2702,1,1
 60,2,3170,Hillmorton & Wigram via City,,1,6010,2421,1,1
 17,2,6931,Huntsbury via City,,0,1706,2137,1,1
 3,2,4272,Sumner via City,,0,3016,2153,1,1
@@ -355,7 +355,7 @@ Oc,2,18120,Orbiter via St Martins,,1,89008,2524,1,1
 5,2,2863,Hornby via City,,1,5007,2163,1,1
 7,2,5248,Queenspark via City,,1,7010,2518,1,1
 80,2,1687,Parklands via City,,0,8014,2176,1,1
-130,2,3544,Avonhead,,1,1301,2514,1,1
+130,2,3544,Avonhead,,1,1301,2705,1,1
 1,2,1233,Rangiora via City,,1,116,2503,1,1
 F,2,7021,Lyttelton,,0,5555,2206,1,1
 100,2,4859,The Palms,,0,10016,2114,1,1
@@ -383,22 +383,22 @@ Oa,2,18053,Orbiter via The Palms,,0,99006,2615,1,1
 29,2,2374,City via Fendalton,,0,2901,2150,1,1
 Oa,2,18061,Orbiter via The Palms,,0,99001,2615,1,1
 95,2,1862,City & Ara Institute Express,,0,9505,2203,1,1
-820,2,3923,Burnham,,1,8201,2185,1,1
+820,2,3923,Burnham,,1,8201,2710,1,1
 100,2,4828,The Palms,,0,10002,2114,1,1
 28,2,7214,Northlands via City,,1,2815,2411,1,1
-130,2,3508,Hei Hei & Hornby,,0,1309,2602,1,1
+130,2,3508,Hei Hei & Hornby,,0,1309,2702,1,1
 7,2,5336,Halswell via City,,0,7001,2519,1,1
 120,2,4034,Spreydon & Barrington,,0,1203,2508,1,1
-130,2,3516,Hei Hei & Hornby,,0,1301,2602,1,1
+130,2,3516,Hei Hei & Hornby,,0,1301,2702,1,1
 17,2,6894,Bryndwr,,1,1706,2138,1,1
 Oa,2,18062,Orbiter via The Palms,,0,99002,2615,1,1
 17,2,6934,Huntsbury via City,,0,1701,2137,1,1
 80,2,1728,Lincoln via City,,1,8013,2180,1,1
-130,2,3530,Avonhead,,1,9101,2514,1,1
-28,2,7213,Northwood via City,,1,2814,2410,1,1
+130,2,3530,Avonhead,,1,9101,2705,1,1
+28,2,7213,Northwood via City,,1,2814,2803,1,1
 7,2,5345,Halswell via City,,0,7012,2519,1,1
 3,2,4176,Airport via University,,1,3018,2418,1,1
-130,2,3526,Avonhead,,1,1304,2514,1,1
+130,2,3526,Avonhead,,1,1304,2705,1,1
 3,2,4241,Sumner via City,,0,3005,2153,1,1
 3,2,4153,Sheffield Cres via University,,1,3014,2417,1,1
 Oc,2,18094,Orbiter via St Martins,,1,89003,2524,1,1
@@ -450,11 +450,11 @@ Oa,2,18059,Orbiter via The Palms,,0,99005,2615,1,1
 5,2,2818,New Brighton via City,,0,5009,2612,1,1
 5,2,2879,Rolleston via City,,1,5011,2610,1,1
 1,2,1229,Rangiora via City,,1,124,2503,1,1
-820,2,3939,Lincoln,,0,8202,2184,1,1
+820,2,3939,Lincoln,,0,8202,2709,1,1
 17,2,6888,Bryndwr,,1,1701,2138,1,1
 100,2,4801,Halswell,,1,10009,2116,1,1
 125,2,3708,Westlake & Halswell via Hornby,,0,2504,2124,1,1
-130,2,3560,Avonhead,,1,1307,2514,1,1
+130,2,3560,Avonhead,,1,1307,2705,1,1
 7,2,5323,Halswell via City,,0,7003,2519,1,1
 107,2,7364,Northlands,,0,10701,2120,1,1
 100,2,4829,The Palms,,0,10004,2114,1,1
@@ -464,7 +464,7 @@ Oc,2,18106,Orbiter via St Martins,,1,89006,2524,1,1
 125,2,3710,Westlake & Halswell via Hornby,,0,2506,2124,1,1
 3,2,4199,Sheffield Cres via University,,1,3001,2417,1,1
 97,2,1961,Acacia Ave Rangiora,,1,9510,2204,1,1
-28,2,7171,Lyttelton,,0,2817,2516,1,1
+28,2,7171,Lyttelton,,0,2817,2805,1,1
 3,2,4249,Sumner via City,,0,3013,2415,1,1
 5,2,2852,New Brighton via City,,0,5018,2166,1,1
 3,2,4227,Sumner via City,,0,3010,2153,1,1
@@ -482,9 +482,9 @@ Oc,2,18106,Orbiter via St Martins,,1,89006,2524,1,1
 7,2,5281,Queenspark via City,,1,7018,2518,1,1
 29,2,2400,Airport via Fendalton,,1,2901,2151,1,1
 29,2,2411,Airport via Fendalton,,1,2902,2151,1,1
-28,2,7207,Northwood via City,,1,2814,2410,1,1
+28,2,7207,Northwood via City,,1,2814,2803,1,1
 95,2,1840,Pegasus,,1,9501,2520,1,1
-820,2,3927,Burnham,,1,8201,2185,1,1
+820,2,3927,Burnham,,1,8201,2710,1,1
 140,2,2608,Russley & Hornby via Eastgate,,0,1406,2132,1,1
 7,2,5293,Halswell via City,,0,7011,2519,1,1
 3,2,4247,Sumner via City,,0,3011,2153,1,1
@@ -501,17 +501,17 @@ Oa,2,18013,Orbiter via The Palms,,0,99007,2615,1,1
 29,2,2389,City via Fendalton,,0,2901,2150,1,1
 97,2,1951,Pegasus,,0,9508,2205,1,1
 3,2,4205,Airport via University,,1,3011,2418,1,1
-130,2,3545,Avonhead,,1,1307,2514,1,1
+130,2,3545,Avonhead,,1,1307,2705,1,1
 F,2,7002,Lyttelton,,0,5555,2206,1,1
-820,2,3922,Burnham,,1,8202,2185,1,1
+820,2,3922,Burnham,,1,8202,2710,1,1
 5,2,2820,New Brighton via City,,0,5021,2166,1,1
-130,2,3503,Hei Hei & Hornby,,0,1301,2602,1,1
+130,2,3503,Hei Hei & Hornby,,0,1301,2702,1,1
 125,2,3764,Redwood via Hornby,,1,2501,2510,1,1
 3,2,4271,Sumner via City,,0,3015,2415,1,1
 95,2,1843,Pegasus,,1,9509,2520,1,1
 140,2,2582,Russley & Hornby via Eastgate,,0,1407,2132,1,1
 1,2,1300,Princess Margaret Hospital & Cashmere,,0,103,2108,1,1
-28,2,7192,Northwood via City,,1,2809,2410,1,1
+28,2,7192,Northwood via City,,1,2809,2803,1,1
 125,2,3762,Redwood via Hornby,,1,2504,2510,1,1
 140,2,2580,Russley & Hornby via Eastgate,,0,1405,2132,1,1
 60,2,3156,Hillmorton & Wigram via City,,1,6001,2421,1,1
@@ -519,15 +519,15 @@ F,2,7002,Lyttelton,,0,5555,2206,1,1
 1,2,1264,Rangiora via City,,1,133,2505,1,1
 29,2,2383,City via Fendalton,,0,2901,2150,1,1
 17,2,6908,Huntsbury via City,,0,1703,2137,1,1
-155,2,1189,Lyttelton,,0,1551,2135,1,1
+155,2,1189,Lyttelton,,0,1551,2802,1,1
 44,2,3408,Westmorland via City,,0,4406,2161,1,1
 1,2,1301,Princess Margaret Hospital,,0,107,2408,1,1
-130,2,3546,Avonhead,,1,1302,2514,1,1
+130,2,3546,Avonhead,,1,1302,2705,1,1
 5,2,2807,New Brighton via City,,0,5015,2166,1,1
 100,2,4779,Halswell,,1,10004,2116,1,1
 120,2,4023,Burnside,,1,1206,2509,1,1
 3,2,4246,Sumner via City,,0,3010,2415,1,1
-130,2,3520,Hei Hei & Hornby,,0,1301,2602,1,1
+130,2,3520,Hei Hei & Hornby,,0,1301,2702,1,1
 7,2,5266,Queenspark via City,,1,7014,2518,1,1
 1,2,1254,Rangiora Express,,1,117,2506,1,1
 1,2,1243,Rangiora Express,,1,130,2506,1,1
@@ -535,7 +535,7 @@ F,2,7002,Lyttelton,,0,5555,2206,1,1
 3,2,4228,Sumner via City,,0,3011,2415,1,1
 F,2,7018,Lyttelton,,0,5555,2206,1,1
 7,2,5306,Halswell via City,,0,7011,2519,1,1
-28,2,7162,Lyttelton,,0,2815,2516,1,1
+28,2,7162,Lyttelton,,0,2815,2805,1,1
 97,2,1963,Acacia Ave Rangiora,,1,9512,2204,1,1
 120,2,3997,Burnside,,1,1201,2509,1,1
 7,2,5352,Halswell via City,,0,7004,2519,1,1
@@ -545,9 +545,9 @@ F,2,7018,Lyttelton,,0,5555,2206,1,1
 60,2,3180,Hillmorton & Wigram via City,,1,6016,2421,1,1
 107,2,7374,Styx Mill & Supa Centa,,1,10701,2119,1,1
 80,2,1709,Lincoln via City,,1,8013,2180,1,1
-130,2,3500,Hei Hei & Hornby,,0,1303,2602,1,1
-820,2,3928,Burnham,,1,8202,2185,1,1
-28,2,7187,Northwood via City,,1,2810,2410,1,1
+130,2,3500,Hei Hei & Hornby,,0,1303,2702,1,1
+820,2,3928,Burnham,,1,8202,2710,1,1
+28,2,7187,Northwood via City,,1,2810,2803,1,1
 5,2,2885,Rolleston via City,,1,5001,2610,1,1
 80,2,1688,Parklands via City,,0,8013,2176,1,1
 29,2,2424,Airport via Fendalton,,1,2901,2151,1,1
@@ -568,7 +568,7 @@ Oa,2,18008,Orbiter via The Palms,,0,99001,2615,1,1
 29,2,2426,Airport via Fendalton,,1,2901,2151,1,1
 97,2,1965,Acacia Ave Rangiora,,1,9508,2204,1,1
 Oc,2,18133,Orbiter via St Martins,,1,89005,2524,1,1
-820,2,3919,Burnham,,1,8201,2185,1,1
+820,2,3919,Burnham,,1,8201,2710,1,1
 17,2,6910,Huntsbury via City,,0,1704,2137,1,1
 80,2,1693,Lincoln via City,,1,8004,2180,1,1
 100,2,4825,The Palms,,0,10007,2114,1,1
@@ -578,16 +578,16 @@ F,2,7040,Diamond Harbour,,1,5555,2207,1,1
 100,2,4844,The Palms,,0,10011,2114,1,1
 100,2,4778,Halswell,,1,10002,2116,1,1
 135,2,7568,The Palms via Prestons,,1,1351,2302,1,1
-130,2,3492,Hei Hei & Hornby,,0,9202,2602,1,1
+130,2,3492,Hei Hei & Hornby,,0,9202,2702,1,1
 1,2,1329,Princess Margaret Hospital,,0,125,2408,1,1
 Oc,2,18112,Orbiter via St Martins,,1,89008,2524,1,1
-820,2,3926,Burnham,,1,8202,2185,1,1
+820,2,3926,Burnham,,1,8202,2710,1,1
 60,2,3169,Hillmorton & Wigram via City,,1,6009,2421,1,1
 95,2,1867,City & Ara Institute,,0,9503,2200,1,1
 7,2,5296,Halswell via City,,0,7001,2519,1,1
 60,2,3206,Southshore via New Brighton,,0,6014,2171,1,1
 95,2,1850,Pegasus & Waikuku Express,,1,9510,2521,1,1
-28,2,7172,Lyttelton,,0,2818,2516,1,1
+28,2,7172,Lyttelton,,0,2818,2805,1,1
 107,2,7361,Northlands,,0,10701,2120,1,1
 3,2,4182,Sheffield Cres via University,,1,3005,2417,1,1
 5,2,2882,Hornby via City,,1,5019,2163,1,1
@@ -602,7 +602,7 @@ Oc,2,18112,Orbiter via St Martins,,1,89008,2524,1,1
 3,2,4233,Sumner via City,,0,3016,2153,1,1
 100,2,4815,Halswell,,1,10009,2116,1,1
 60,2,3208,Southshore via City,,0,6012,2170,1,1
-28,2,7189,Northwood via City,,1,2814,2410,1,1
+28,2,7189,Northwood via City,,1,2814,2803,1,1
 95,2,1868,City & Ara Institute,,0,9508,2200,1,1
 1,2,1332,Princess Margaret Hospital,,0,128,2408,1,1
 60,2,3214,Southshore via City,,0,6009,2170,1,1
@@ -624,7 +624,7 @@ Oa,2,18001,Orbiter via The Palms,,0,99001,2615,1,1
 97,2,1946,Pegasus,,0,9509,2205,1,1
 7,2,5301,Halswell via City,,0,7005,2519,1,1
 140,2,2547,Mt Pleasant via Eastgate,,1,1403,2134,1,1
-130,2,3561,Avonhead,,1,1303,2514,1,1
+130,2,3561,Avonhead,,1,1303,2705,1,1
 120,2,4006,Burnside,,1,1201,2509,1,1
 97,2,1956,Acacia Ave Rangiora,,1,9507,2204,1,1
 17,2,6898,Bryndwr,,1,1703,2138,1,1
@@ -640,18 +640,18 @@ F,2,7025,Diamond Harbour,,1,5555,2207,1,1
 3,2,4174,Sheffield Cres via University,,1,3016,2417,1,1
 5,2,2786,New Brighton via City,,0,5019,2166,1,1
 1,2,1213,Rangiora via City,,1,118,2503,1,1
-130,2,3537,Avonhead,,1,1304,2514,1,1
+130,2,3537,Avonhead,,1,1304,2705,1,1
 44,2,3401,Shirley & Dallington,,1,4403,2162,1,1
 135,2,7575,The Palms via Prestons,,1,1352,2302,1,1
-130,2,3499,Hei Hei & Hornby,,0,1302,2602,1,1
+130,2,3499,Hei Hei & Hornby,,0,1302,2702,1,1
 120,2,4019,Burnside,,1,1201,2509,1,1
 107,2,7373,Styx Mill & Supa Centa,,1,10701,2119,1,1
-130,2,3529,Avonhead,,1,1302,2514,1,1
+130,2,3529,Avonhead,,1,1302,2705,1,1
 120,2,4004,Burnside,,1,1202,2509,1,1
 120,2,4051,Spreydon & Barrington,,0,1206,2508,1,1
-28,2,7134,Lyttelton,,0,2809,2516,1,1
+28,2,7134,Lyttelton,,0,2809,2805,1,1
 125,2,3722,Westlake & Halswell via Hornby,,0,2505,2124,1,1
-28,2,7160,Lyttelton & Rapaki,,0,2807,2608,1,1
+28,2,7160,Lyttelton & Rapaki,,0,2807,2807,1,1
 7,2,5270,Queenspark via City,,1,7016,2518,1,1
 3,2,4126,Sheffield Cres via University,,1,3007,2417,1,1
 92,2,1593,City & Public Hospital,,0,9203,2426,1,1
@@ -659,7 +659,7 @@ F,2,7025,Diamond Harbour,,1,5555,2207,1,1
 125,2,3738,Redwood via Hornby,,1,2504,2510,1,1
 95,2,1846,Pegasus,,1,9512,2520,1,1
 5,2,2800,New Brighton via City,,0,5001,2612,1,1
-28,2,7141,Lyttelton,,0,2808,2516,1,1
+28,2,7141,Lyttelton,,0,2808,2805,1,1
 29,2,2408,Airport via Fendalton,,1,2902,2151,1,1
 80,2,1727,Lincoln via City,,1,8014,2180,1,1
 7,2,5231,Queenspark via City,,1,7006,2518,1,1
@@ -667,8 +667,8 @@ F,2,7025,Diamond Harbour,,1,5555,2207,1,1
 80,2,1723,Lincoln via City,,1,8013,2180,1,1
 3,2,4299,Sumner via City,,0,3018,2415,1,1
 120,2,4021,Burnside,,1,1203,2509,1,1
-820,2,3940,Lincoln,,0,8201,2184,1,1
-130,2,3534,Avonhead,,1,1301,2514,1,1
+820,2,3940,Lincoln,,0,8201,2709,1,1
+130,2,3534,Avonhead,,1,1301,2705,1,1
 17,2,6916,Huntsbury via City,,0,1701,2137,1,1
 125,2,3702,Westlake & Halswell via Hornby,,0,2505,2124,1,1
 5,2,2814,New Brighton via City,,0,5016,2612,1,1
@@ -678,16 +678,16 @@ F,2,7025,Diamond Harbour,,1,5555,2207,1,1
 120,2,4011,Burnside,,1,1203,2509,1,1
 91,2,1587,Rangiora direct,,1,9106,2423,1,1
 80,2,1715,Lincoln via City,,1,8019,2180,1,1
-28,2,7136,Lyttelton,,0,2802,2516,1,1
-28,2,7169,Lyttelton,,0,2821,2516,1,1
+28,2,7136,Lyttelton,,0,2802,2805,1,1
+28,2,7169,Lyttelton,,0,2821,2805,1,1
 7,2,5333,Halswell via City,,0,7012,2519,1,1
 3,2,4234,Sumner via City,,0,3017,2415,1,1
 91,2,1582,City & Public Hospital,,0,9101,2424,1,1
 Oa,2,18055,Orbiter via The Palms,,0,99002,2615,1,1
 17,2,6909,Huntsbury via City,,0,1705,2137,1,1
 3,2,4212,Sumner via City,,0,3020,2153,1,1
-28,2,7184,Northwood via City,,1,2808,2410,1,1
-130,2,3522,Hei Hei & Hornby,,0,1303,2602,1,1
+28,2,7184,Northwood via City,,1,2808,2803,1,1
+130,2,3522,Hei Hei & Hornby,,0,1303,2702,1,1
 7,2,5339,Halswell via City,,0,7005,2519,1,1
 F,2,7032,Diamond Harbour,,1,5555,2207,1,1
 60,2,3223,Southshore via City,,0,6016,2170,1,1
@@ -714,7 +714,7 @@ Oc,2,18079,Orbiter via St Martins,,1,89002,2524,1,1
 F,2,7003,Lyttelton,,0,5555,2206,1,1
 7,2,5320,Halswell via City,,0,7013,2519,1,1
 140,2,2586,Russley & Hornby via Eastgate,,0,1404,2132,1,1
-130,2,3515,Hei Hei & Hornby,,0,1306,2602,1,1
+130,2,3515,Hei Hei & Hornby,,0,1306,2702,1,1
 97,2,1943,Pegasus,,0,9501,2205,1,1
 7,2,5343,Halswell via City,,0,7010,2519,1,1
 60,2,3222,Southshore via City,,0,6009,2170,1,1
@@ -742,8 +742,8 @@ Oc,2,18137,Orbiter via St Martins,,1,89004,2524,1,1
 5,2,2846,New Brighton via City,,0,5025,2166,1,1
 7,2,5226,Queenspark via City,,1,7001,2518,1,1
 125,2,3750,Redwood via Hornby,,1,2504,2510,1,1
-130,2,3488,Hei Hei & Hornby,,0,1305,2602,1,1
-28,2,7166,Lyttelton,,0,2818,2516,1,1
+130,2,3488,Hei Hei & Hornby,,0,1305,2702,1,1
+28,2,7166,Lyttelton,,0,2818,2805,1,1
 29,2,2381,City via Fendalton,,0,2903,2150,1,1
 Oa,2,18033,Orbiter via The Palms,,0,99004,2615,1,1
 7,2,5353,Halswell via City,,0,7016,2519,1,1
@@ -752,7 +752,7 @@ Oa,2,18033,Orbiter via The Palms,,0,99004,2615,1,1
 29,2,2369,City via Fendalton,,0,2903,2150,1,1
 29,2,2398,Airport via Fendalton,,1,2903,2151,1,1
 3,2,4294,Sumner via City,,0,3001,2153,1,1
-130,2,3507,Hei Hei & Hornby,,0,1308,2603,1,1
+130,2,3507,Hei Hei & Hornby,,0,1308,2703,1,1
 Oa,2,18060,Orbiter via The Palms,,0,99006,2615,1,1
 80,2,1701,Lincoln via City,,1,8011,2180,1,1
 3,2,4160,Sheffield Cres via University,,1,3002,2417,1,1
@@ -760,17 +760,17 @@ Oa,2,18060,Orbiter via The Palms,,0,99006,2615,1,1
 1,2,1345,Princess Margaret Hospital,,0,134,2110,1,1
 Oa,2,18024,Orbiter via The Palms,,0,99002,2615,1,1
 1,2,1228,Belfast via City,,1,113,2502,1,1
-820,2,3920,Burnham,,1,8202,2185,1,1
+820,2,3920,Burnham,,1,8202,2710,1,1
 Oc,2,18090,Orbiter via St Martins,,1,89005,2524,1,1
 7,2,5265,Queenspark via City,,1,7001,2518,1,1
-28,2,7188,Northwood via City,,1,2805,2410,1,1
+28,2,7188,Northwood via City,,1,2805,2803,1,1
 44,2,3411,Shirley & Dallington,,1,4403,2162,1,1
 3,2,4250,Sumner via City,,0,3014,2153,1,1
 1,2,1283,Princess Margaret Hospital & Cashmere,,0,103,2108,1,1
 17,2,6925,Huntsbury via City,,0,1703,2137,1,1
 F,2,7041,Diamond Harbour,,1,5555,2207,1,1
 1,2,1201,Rangiora via City,,1,104,2503,1,1
-130,2,3501,Hei Hei & Hornby,,0,1304,2602,1,1
+130,2,3501,Hei Hei & Hornby,,0,1304,2702,1,1
 Oc,2,18076,Orbiter via St Martins,,1,89005,2524,1,1
 100,2,4852,The Palms,,0,10002,2114,1,1
 107,2,7380,Styx Mill & Supa Centa,,1,10701,2119,1,1
@@ -778,7 +778,7 @@ Oc,2,18076,Orbiter via St Martins,,1,89005,2524,1,1
 Oa,2,18002,Orbiter via The Palms,,0,99002,2615,1,1
 100,2,4821,The Palms,,0,10010,2114,1,1
 1,2,1230,Belfast via City,,1,117,2502,1,1
-130,2,3494,Hei Hei & Hornby,,0,1302,2602,1,1
+130,2,3494,Hei Hei & Hornby,,0,1302,2702,1,1
 60,2,3179,Hillmorton & Wigram via City,,1,6009,2421,1,1
 125,2,3713,Westlake & Halswell via Hornby,,0,2503,2124,1,1
 1,2,1271,Belfast via City,,1,134,2504,1,1
@@ -822,24 +822,24 @@ F,2,7013,Lyttelton,,0,5555,2206,1,1
 1,2,1212,Belfast via City,,1,114,2502,1,1
 3,2,4240,Sumner via City,,0,3004,2415,1,1
 100,2,4861,The Palms,,0,10009,2114,1,1
-130,2,3509,Hei Hei & Hornby,,0,1306,2602,1,1
+130,2,3509,Hei Hei & Hornby,,0,1306,2702,1,1
 120,2,4026,Spreydon & Barrington,,0,1202,2508,1,1
 107,2,7359,Northlands,,0,10701,2120,1,1
 91,2,1590,Rangiora direct,,1,9108,2423,1,1
 29,2,2380,City via Fendalton,,0,2901,2150,1,1
 3,2,4150,Sheffield Cres via University,,1,3011,2417,1,1
-28,2,7185,Northwood via City,,1,2809,2410,1,1
+28,2,7185,Northwood via City,,1,2809,2803,1,1
 120,2,4003,Burnside,,1,1203,2509,1,1
-820,2,3931,Lincoln,,0,8202,2184,1,1
+820,2,3931,Lincoln,,0,8202,2709,1,1
 3,2,4214,Sumner via City,,0,3021,2153,1,1
 5,2,2868,Hornby via City,,1,5011,2163,1,1
 140,2,2556,Mt Pleasant via Eastgate,,1,1405,2134,1,1
 44,2,3370,Westmorland via City,,0,4401,2161,1,1
 1,2,1217,Rangiora via City,,1,116,2503,1,1
-820,2,3925,Burnham,,1,8201,2185,1,1
+820,2,3925,Burnham,,1,8201,2710,1,1
 60,2,3183,Hillmorton & Wigram via City,,1,6017,2421,1,1
 3,2,4167,Airport via University,,1,3009,2418,1,1
-820,2,3917,Burnham,,1,8201,2185,1,1
+820,2,3917,Burnham,,1,8201,2710,1,1
 3,2,4196,Sheffield Cres via University,,1,3018,2417,1,1
 5,2,2847,New Brighton via City,,0,5018,2612,1,1
 5,2,2830,New Brighton via City,,0,5004,2612,1,1
@@ -858,9 +858,9 @@ Oa,2,18021,Orbiter via The Palms,,0,99005,2615,1,1
 3,2,4131,Sheffield Cres via University,,1,3012,2417,1,1
 7,2,5279,Queenspark via City,,1,7004,2518,1,1
 5,2,2876,Hornby via City,,1,5013,2163,1,1
-28,2,7209,Northwood via City,,1,2821,2410,1,1
+28,2,7209,Northwood via City,,1,2821,2803,1,1
 125,2,3711,Westlake & Halswell via Hornby,,0,2501,2124,1,1
-130,2,3548,Avonhead,,1,1308,2514,1,1
+130,2,3548,Avonhead,,1,1308,2705,1,1
 17,2,6901,Bryndwr,,1,1704,2138,1,1
 120,2,4005,Burnside,,1,1204,2509,1,1
 1,2,1318,Princess Margaret Hospital,,0,127,2110,1,1
@@ -872,7 +872,7 @@ Oa,2,18021,Orbiter via The Palms,,0,99005,2615,1,1
 3,2,4248,Sumner via City,,0,3012,2153,1,1
 5,2,2799,New Brighton via City,,0,5016,2166,1,1
 3,2,4129,Airport via University,,1,3011,2418,1,1
-28,2,7212,Northwood via City,,1,2818,2410,1,1
+28,2,7212,Northwood via City,,1,2818,2803,1,1
 5,2,2841,New Brighton via City,,0,5026,2612,1,1
 125,2,3721,Westlake & Halswell via Hornby,,0,2504,2124,1,1
 1,2,1249,Belfast via City,,1,114,2502,1,1
@@ -881,10 +881,10 @@ F,2,7005,Lyttelton,,0,5555,2206,1,1
 7,2,5327,Halswell via City,,0,7006,2519,1,1
 1,2,1306,Princess Margaret Hospital & Cashmere,,0,117,2108,1,1
 Oa,2,18041,Orbiter via The Palms,,0,99004,2615,1,1
-28,2,7140,Lyttelton,,0,2807,2516,1,1
+28,2,7140,Lyttelton,,0,2807,2805,1,1
 60,2,3186,Hillmorton & Wigram via City,,1,6016,2421,1,1
 17,2,6923,Huntsbury via City,,0,1704,2137,1,1
-28,2,7202,Northwood via City,,1,2809,2410,1,1
+28,2,7202,Northwood via City,,1,2809,2803,1,1
 3,2,4161,Airport via University,,1,3003,2418,1,1
 125,2,3755,Redwood via Hornby,,1,2502,2510,1,1
 44,2,3390,Westmorland via City,,0,4402,2161,1,1
@@ -903,22 +903,22 @@ Oa,2,18057,Orbiter via The Palms,,0,99007,2615,1,1
 120,2,4007,Burnside,,1,1203,2509,1,1
 60,2,3219,Southshore via City,,0,6012,2170,1,1
 100,2,4782,Halswell,,1,9102,2116,1,1
-28,2,7155,Lyttelton,,0,2810,2516,1,1
+28,2,7155,Lyttelton,,0,2810,2805,1,1
 Oa,2,18011,Orbiter via The Palms,,0,99003,2615,1,1
-130,2,3491,Hei Hei & Hornby,,0,8502,2602,1,1
+130,2,3491,Hei Hei & Hornby,,0,8502,2702,1,1
 125,2,3706,Westlake & Halswell via Hornby,,0,2502,2124,1,1
 Oc,2,18071,Orbiter via St Martins,,1,89001,2524,1,1
-28,2,7194,Northwood via City,,1,2810,2410,1,1
+28,2,7194,Northwood via City,,1,2810,2803,1,1
 140,2,2563,Mt Pleasant via Eastgate,,1,1405,2134,1,1
 60,2,3191,Southshore via City,,0,6011,2170,1,1
 7,2,5242,Queenspark via City,,1,7003,2518,1,1
 60,2,3224,Southshore via City,,0,6014,2170,1,1
 91,2,1583,City & Public Hospital,,0,9102,2424,1,1
 1,2,1241,Belfast via City,,1,113,2502,1,1
-5,2,2791,City & Ara Institute Express,,0,5012,2613,1,1
-28,2,7153,Lyttelton,,0,2802,2516,1,1
+5,2,2791,City & Ara Institute Express,,0,5012,2708,1,1
+28,2,7153,Lyttelton,,0,2802,2805,1,1
 120,2,4046,Spreydon & Barrington,,0,1206,2508,1,1
-28,2,7158,Lyttelton,,0,2805,2516,1,1
+28,2,7158,Lyttelton,,0,2805,2805,1,1
 60,2,3193,Southshore via City,,0,6012,2170,1,1
 140,2,2596,Russley & Hornby via Eastgate,,0,1407,2132,1,1
 5,2,2816,New Brighton via City,,0,5005,2612,1,1
@@ -930,7 +930,7 @@ Oa,2,18018,Orbiter via The Palms,,0,99003,2615,1,1
 44,2,3416,Westmorland via City,,0,4402,2161,1,1
 Oc,2,18085,Orbiter via St Martins,,1,89001,2524,1,1
 3,2,4230,Sumner via City,,0,3013,2153,1,1
-28,2,7143,Lyttelton,,0,2802,2516,1,1
+28,2,7143,Lyttelton,,0,2802,2805,1,1
 120,2,4008,Burnside,,1,1202,2509,1,1
 7,2,5249,Queenspark via City,,1,7011,2518,1,1
 125,2,3728,Westlake & Halswell via Hornby,,0,2505,2124,1,1
@@ -943,7 +943,7 @@ Oc,2,18085,Orbiter via St Martins,,1,89001,2524,1,1
 95,2,1873,City & Ara Institute,,0,9513,2200,1,1
 7,2,5319,Halswell via City,,0,7012,2519,1,1
 1,2,1270,Rangiora via City,,1,133,2503,1,1
-130,2,3497,Hei Hei & Hornby,,0,1306,2602,1,1
+130,2,3497,Hei Hei & Hornby,,0,1306,2702,1,1
 100,2,4860,The Palms,,0,10005,2114,1,1
 60,2,3201,Southshore via City,,0,6003,2170,1,1
 81,2,1717,Lincoln direct,,1,8103,2182,1,1
@@ -977,7 +977,7 @@ F,2,7008,Lyttelton,,0,5555,2206,1,1
 5,2,2861,Hornby via City,,1,5016,2163,1,1
 5,2,2831,New Brighton via City,,0,5027,2166,1,1
 5,2,2869,Rolleston via City,,1,5018,2610,1,1
-155,2,1190,Lyttelton,,0,2820,2135,1,1
+155,2,1190,Lyttelton,,0,2820,2802,1,1
 100,2,4814,Halswell,,1,10005,2116,1,1
 120,2,4047,Spreydon & Barrington,,0,1203,2508,1,1
 3,2,4284,Sumner via City,,0,3023,2153,1,1
@@ -990,23 +990,23 @@ Oa,2,18015,Orbiter via The Palms,,0,99006,2615,1,1
 1,2,1263,Belfast via City,,1,114,2502,1,1
 3,2,4170,Airport via University,,1,3012,2418,1,1
 Oa,2,18058,Orbiter via The Palms,,0,99008,2615,1,1
-130,2,3558,Avonhead,,1,1306,2514,1,1
+130,2,3558,Avonhead,,1,1306,2705,1,1
 125,2,3759,Redwood via Hornby,,1,2506,2510,1,1
 29,2,2423,Airport via Fendalton,,1,2902,2151,1,1
 3,2,4283,Sumner via City,,0,3007,2415,1,1
 3,2,4221,Sumner via City,,0,3004,2153,1,1
 95,2,1847,Pegasus Express,,1,9513,2523,1,1
-820,2,3916,Burnham,,1,8202,2185,1,1
+820,2,3916,Burnham,,1,8202,2710,1,1
 100,2,4811,Halswell,,1,10002,2116,1,1
-28,2,7145,Lyttelton,,0,2805,2516,1,1
+28,2,7145,Lyttelton,,0,2805,2805,1,1
 Oa,2,18032,Orbiter via The Palms,,0,99003,2615,1,1
 5,2,2887,Hornby via City,,1,5013,2163,1,1
 60,2,3216,Southshore via City,,0,6016,2170,1,1
 7,2,5229,Queenspark via City,,1,7004,2518,1,1
 5,2,2792,New Brighton via City,,0,5015,2166,1,1
 100,2,4857,The Palms,,0,10002,2114,1,1
-28,2,7168,Lyttelton,,0,2815,2516,1,1
-5,2,2784,City & Ara Institute Express,,0,5010,2613,1,1
+28,2,7168,Lyttelton,,0,2815,2805,1,1
+5,2,2784,City & Ara Institute Express,,0,5010,2708,1,1
 1,2,1298,Princess Margaret Hospital & Cashmere,,0,114,2108,1,1
 1,2,1261,Belfast via City,,1,136,2502,1,1
 100,2,4800,Halswell,,1,10007,2116,1,1
@@ -1038,8 +1038,8 @@ Oa,2,18032,Orbiter via The Palms,,0,99003,2615,1,1
 Oc,2,18128,Orbiter via St Martins,,1,89005,2524,1,1
 60,2,3189,Southshore via City,,0,6010,2170,1,1
 1,2,1227,Rangiora via City,,1,138,2503,1,1
-28,2,7131,Lyttelton,,0,2806,2516,1,1
-130,2,3528,Avonhead,,1,1305,2514,1,1
+28,2,7131,Lyttelton,,0,2806,2805,1,1
+130,2,3528,Avonhead,,1,1305,2705,1,1
 5,2,2899,Hornby via City,,1,5011,2163,1,1
 1,2,1327,Princess Margaret Hospital,,0,116,2408,1,1
 Oa,2,18030,Orbiter via The Palms,,0,99001,2615,1,1
@@ -1068,7 +1068,7 @@ Oa,2,18028,Orbiter via The Palms,,0,99005,2615,1,1
 97,2,1948,Pegasus,,0,9511,2205,1,1
 3,2,4276,Sumner via City,,0,3022,2154,1,1
 1,2,1247,Rangiora Express,,1,112,2506,1,1
-28,2,7138,Lyttelton,,0,2805,2516,1,1
+28,2,7138,Lyttelton,,0,2805,2805,1,1
 7,2,5316,Halswell via City,,0,7009,2519,1,1
 125,2,3699,Westlake & Halswell via Hornby,,0,2502,2124,1,1
 Oa,2,18068,Orbiter via The Palms,,0,99006,2615,1,1
@@ -1086,7 +1086,7 @@ Oa,2,18010,Orbiter via The Palms,,0,99002,2615,1,1
 Oc,2,18100,Orbiter via St Martins,,1,89002,2524,1,1
 100,2,4816,Halswell,,1,10002,2116,1,1
 80,2,1697,Lincoln via City,,1,8008,2180,1,1
-130,2,3559,Avonhead,,1,1301,2514,1,1
+130,2,3559,Avonhead,,1,1301,2705,1,1
 7,2,5286,Queenspark via City,,1,7018,2518,1,1
 60,2,3209,Southshore via City,,0,6015,2170,1,1
 7,2,5342,Halswell via City,,0,7018,2519,1,1
@@ -1095,7 +1095,7 @@ Oc,2,18100,Orbiter via St Martins,,1,89002,2524,1,1
 100,2,4791,Halswell,,1,10007,2116,1,1
 100,2,4830,The Palms,,0,9102,2114,1,1
 92,2,1596,Kaiapoi direct,,1,9206,2425,1,1
-5,2,2890,Rolleston Express,,1,5022,2611,1,1
+5,2,2890,Rolleston Express,,1,5022,2707,1,1
 5,2,2886,Rolleston via City,,1,5004,2610,1,1
 92,2,1594,City & Public Hospital,,0,9201,2426,1,1
 95,2,1860,City & Ara Institute Express,,0,9502,2203,1,1
@@ -1142,7 +1142,7 @@ Oa,2,18039,Orbiter via The Palms,,0,99002,2615,1,1
 Oa,2,18017,Orbiter via The Palms,,0,99002,2615,1,1
 80,2,1708,Lincoln via City,,1,8011,2180,1,1
 3,2,4263,Sumner via City,,0,3023,2153,1,1
-130,2,3521,Hei Hei & Hornby,,0,1307,2602,1,1
+130,2,3521,Hei Hei & Hornby,,0,1307,2702,1,1
 1,2,1278,Princess Margaret Hospital & Cashmere,,0,111,2108,1,1
 5,2,2923,Hornby via City,,1,5026,2163,1,1
 7,2,5273,Queenspark via City,,1,7010,2518,1,1
@@ -1163,9 +1163,9 @@ Oa,2,18017,Orbiter via The Palms,,0,99002,2615,1,1
 60,2,3218,Southshore via City,,0,6011,2170,1,1
 80,2,1689,City,,0,8016,2178,1,1
 1,2,1284,Princess Margaret Hospital,,0,118,2110,1,1
-28,2,7132,Lyttelton,,0,2807,2516,1,1
+28,2,7132,Lyttelton,,0,2807,2805,1,1
 7,2,5233,Queenspark via City,,1,7007,2518,1,1
-5,2,2900,Rolleston Express,,1,5026,2611,1,1
+5,2,2900,Rolleston Express,,1,5026,2707,1,1
 80,2,1722,Lincoln via City,,1,8017,2180,1,1
 1,2,1294,Princess Margaret Hospital,,0,116,2110,1,1
 60,2,3157,Hillmorton & Wigram via City,,1,6011,2421,1,1
@@ -1175,10 +1175,10 @@ Oa,2,18043,Orbiter via The Palms,,0,99008,2615,1,1
 7,2,5261,Queenspark via City,,1,7011,2518,1,1
 7,2,5318,Halswell via City,,0,7011,2519,1,1
 80,2,1696,Lincoln via City,,1,8012,2180,1,1
-28,2,7211,Northwood via City,,1,2817,2410,1,1
+28,2,7211,Northwood via City,,1,2817,2803,1,1
 7,2,5252,Queenspark via City,,1,7001,2518,1,1
 107,2,7375,Styx Mill & Supa Centa,,1,10701,2119,1,1
-28,2,7203,Northwood via City,,1,2802,2410,1,1
+28,2,7203,Northwood via City,,1,2802,2803,1,1
 120,2,4033,Spreydon & Barrington,,0,1201,2508,1,1
 7,2,5246,Queenspark via City,,1,7008,2518,1,1
 44,2,3428,Westmorland via City,,0,4405,2161,1,1
@@ -1198,7 +1198,7 @@ Oc,2,18125,Orbiter via St Martins,,1,89004,2524,1,1
 80,2,1695,Lincoln via City,,1,8007,2180,1,1
 125,2,3712,Westlake & Halswell via Hornby,,0,2502,2124,1,1
 125,2,3745,Redwood via Hornby,,1,2505,2510,1,1
-28,2,7201,Northwood via City,,1,2816,2410,1,1
+28,2,7201,Northwood via City,,1,2816,2803,1,1
 44,2,3419,Shirley & Dallington,,1,4406,2162,1,1
 1,2,1335,Princess Margaret Hospital & Cashmere,,0,104,2108,1,1
 7,2,5268,Queenspark via City,,1,7004,2518,1,1
@@ -1213,19 +1213,19 @@ Oc,2,18125,Orbiter via St Martins,,1,89004,2524,1,1
 1,2,1257,Rangiora Express,,1,131,2506,1,1
 140,2,2597,Russley & Hornby via Eastgate,,0,1401,2132,1,1
 60,2,3167,Hillmorton & Wigram via City,,1,6005,2421,1,1
-130,2,3504,Hei Hei & Hornby,,0,1302,2602,1,1
+130,2,3504,Hei Hei & Hornby,,0,1302,2702,1,1
 3,2,4216,Sumner via City,,0,3017,2415,1,1
 3,2,4193,Airport via University,,1,3015,2418,1,1
 125,2,3731,Westlake & Halswell via Hornby,,0,2504,2124,1,1
 125,2,3704,Westlake & Halswell via Hornby,,0,2506,2124,1,1
 60,2,3217,Southshore via City,,0,6014,2170,1,1
 125,2,3748,Redwood via Hornby,,1,2502,2510,1,1
-130,2,3543,Avonhead,,1,1306,2514,1,1
+130,2,3543,Avonhead,,1,1306,2705,1,1
 7,2,5351,Halswell via City,,0,7013,2519,1,1
 44,2,3410,Westmorland via City,,0,4403,2161,1,1
 7,2,5299,Halswell via City,,0,7003,2519,1,1
 80,2,1719,Lincoln via City,,1,8001,2180,1,1
-130,2,3517,Hei Hei & Hornby,,0,1307,2602,1,1
+130,2,3517,Hei Hei & Hornby,,0,1307,2702,1,1
 17,2,6920,Huntsbury via City,,0,1701,2137,1,1
 44,2,3380,Westmorland via City,,0,4401,2161,1,1
 29,2,2417,Airport via Fendalton,,1,2902,2151,1,1
@@ -1248,16 +1248,16 @@ Oc,2,18082,Orbiter via St Martins,,1,89007,2524,1,1
 107,2,7372,Styx Mill & Supa Centa,,1,10701,2119,1,1
 60,2,3181,Hillmorton & Wigram via City,,1,6014,2421,1,1
 120,2,4029,Spreydon & Barrington,,0,1203,2508,1,1
-28,2,7152,Lyttelton & Rapaki,,0,2807,2608,1,1
+28,2,7152,Lyttelton & Rapaki,,0,2807,2807,1,1
 100,2,4846,The Palms,,0,10016,2114,1,1
 135,2,7577,The Palms via Prestons,,1,1352,2302,1,1
 29,2,2399,Airport via Fendalton,,1,2902,2151,1,1
 Oa,2,18020,Orbiter via The Palms,,0,99007,2615,1,1
-820,2,3934,Lincoln,,0,8201,2184,1,1
+820,2,3934,Lincoln,,0,8201,2709,1,1
 Oc,2,18104,Orbiter via Burnside High School,,1,89008,2525,1,1
 125,2,3715,Westlake & Halswell via Hornby,,0,2505,2124,1,1
 Oc,2,18132,Orbiter via St Martins,,1,89008,2524,1,1
-28,2,7180,Northwood via City,,1,2805,2410,1,1
+28,2,7180,Northwood via City,,1,2805,2803,1,1
 1,2,1291,Princess Margaret Hospital,,0,121,2113,1,1
 3,2,4282,Sumner via City,,0,3006,2153,1,1
 80,2,1690,Lincoln via City,,1,8001,2180,1,1
@@ -1276,7 +1276,7 @@ F,2,7012,Lyttelton,,0,5555,2206,1,1
 60,2,3205,Southshore via City,,0,6001,2170,1,1
 120,2,3998,Burnside,,1,1203,2509,1,1
 125,2,3752,Redwood via Hornby,,1,2508,2510,1,1
-130,2,3487,Hei Hei & Hornby,,0,1301,2602,1,1
+130,2,3487,Hei Hei & Hornby,,0,1301,2702,1,1
 17,2,6932,Huntsbury via City,,0,1701,2137,1,1
 120,2,4040,Spreydon & Barrington,,0,1204,2508,1,1
 140,2,2576,Mt Pleasant via Eastgate,,1,1405,2134,1,1
@@ -1284,7 +1284,7 @@ F,2,7012,Lyttelton,,0,5555,2206,1,1
 95,2,1864,City & Ara Institute,,0,9504,2200,1,1
 125,2,3742,Redwood via Hornby,,1,2502,2510,1,1
 100,2,4819,The Palms,,0,10002,2114,1,1
-130,2,3533,Avonhead,,1,8502,2514,1,1
+130,2,3533,Avonhead,,1,8502,2705,1,1
 3,2,4235,Sumner via City,,0,3018,2153,1,1
 44,2,3426,Westmorland via City,,0,4406,2161,1,1
 3,2,4130,Airport & National Trade Academy via University,,1,3020,2420,1,1
@@ -1305,7 +1305,7 @@ F,2,7009,Lyttelton,,0,5555,2206,1,1
 1,2,1225,Rangiora via City,,1,107,2503,1,1
 125,2,3733,Redwood via Hornby,,1,2507,2510,1,1
 29,2,2413,Airport via Fendalton,,1,2903,2151,1,1
-820,2,3935,Lincoln,,0,8202,2184,1,1
+820,2,3935,Lincoln,,0,8202,2709,1,1
 Oa,2,18067,Orbiter via The Palms,,0,99005,2615,1,1
 Oa,2,18056,Orbiter via The Palms,,0,99003,2615,1,1
 135,2,7589,New Brighton via Prestons,,0,1352,2303,1,1
@@ -1319,7 +1319,7 @@ Oa,2,18056,Orbiter via The Palms,,0,99003,2615,1,1
 125,2,3732,Redwood via Hornby,,1,2504,2510,1,1
 1,2,1279,Princess Margaret Hospital,,0,107,2408,1,1
 F,2,7004,Lyttelton,,0,5555,2206,1,1
-820,2,3929,Lincoln,,0,8202,2184,1,1
+820,2,3929,Lincoln,,0,8202,2709,1,1
 Oc,2,18078,Orbiter via St Martins,,1,89001,2524,1,1
 5,2,2809,New Brighton via City,,0,5008,2166,1,1
 1,2,1244,Belfast via City,,1,117,2502,1,1
@@ -1333,14 +1333,14 @@ Oa,2,18027,Orbiter via The Palms,,0,99007,2615,1,1
 140,2,2571,Mt Pleasant via Eastgate,,1,1406,2134,1,1
 1,2,1336,Princess Margaret Hospital,,0,112,2408,1,1
 F,2,7029,Diamond Harbour,,1,5555,2207,1,1
-28,2,7144,Lyttelton,,0,2810,2516,1,1
+28,2,7144,Lyttelton,,0,2810,2805,1,1
 97,2,1944,Pegasus,,0,9503,2205,1,1
-820,2,3942,Lincoln,,0,8201,2184,1,1
+820,2,3942,Lincoln,,0,8201,2709,1,1
 7,2,5334,Halswell via City,,0,7013,2519,1,1
 3,2,4191,Sheffield Cres via University,,1,3013,2417,1,1
 28,2,7177,City & Manchester Street Express,,1,3010,2605,1,1
 Oa,2,18070,Orbiter via The Palms,,0,99005,2615,1,1
-28,2,7156,Lyttelton,,0,2818,2516,1,1
+28,2,7156,Lyttelton,,0,2818,2805,1,1
 120,2,4054,Spreydon & Barrington,,0,1204,2508,1,1
 29,2,2410,Airport via Fendalton,,1,2903,2151,1,1
 17,2,6884,Bryndwr,,1,1701,2138,1,1
@@ -1355,20 +1355,20 @@ Oc,2,18092,Orbiter via St Martins,,1,89001,2524,1,1
 100,2,4810,Halswell,,1,10009,2116,1,1
 97,2,1958,Acacia Ave Rangiora,,1,9503,2204,1,1
 Oc,2,18138,Orbiter via St Martins,,1,89008,2524,1,1
-130,2,3496,Hei Hei & Hornby,,0,1304,2602,1,1
+130,2,3496,Hei Hei & Hornby,,0,1304,2702,1,1
 Oa,2,18050,Orbiter via The Palms,,0,99007,2615,1,1
 5,2,2892,Hornby via City,,1,5005,2163,1,1
 1,2,1348,Princess Margaret Hospital,,0,125,2408,1,1
 120,2,4037,Spreydon & Barrington,,0,1201,2508,1,1
 100,2,4849,The Palms,,0,10007,2114,1,1
-28,2,7137,Lyttelton,,0,2810,2516,1,1
+28,2,7137,Lyttelton,,0,2810,2805,1,1
 3,2,4229,Sumner via City,,0,3012,2153,1,1
 29,2,2421,Airport via Fendalton,,1,2901,2151,1,1
 81,2,1654,City & Ara Institute,,0,8701,2183,1,1
 44,2,3393,Shirley & Dallington,,1,4403,2162,1,1
 5,2,2808,New Brighton via City,,0,5019,2612,1,1
 Oc,2,18084,Orbiter via St Martins,,1,89006,2524,1,1
-28,2,7200,Northwood via City,,1,2821,2410,1,1
+28,2,7200,Northwood via City,,1,2821,2803,1,1
 60,2,3198,Southshore via City,,0,6001,2170,1,1
 100,2,4850,The Palms,,0,10009,2114,1,1
 1,2,1312,Princess Margaret Hospital & Cashmere,,0,112,2108,1,1
@@ -1380,8 +1380,8 @@ Oc,2,18084,Orbiter via St Martins,,1,89006,2524,1,1
 1,2,1319,Princess Margaret Hospital & Cashmere,,0,114,2108,1,1
 3,2,4179,Sheffield Cres via University,,1,3002,2417,1,1
 80,2,1653,Parklands via City,,0,8011,2176,1,1
-28,2,7130,Lyttelton,,0,2805,2516,1,1
-28,2,7154,Lyttelton,,0,2817,2414,1,1
+28,2,7130,Lyttelton,,0,2805,2805,1,1
+28,2,7154,Lyttelton,,0,2817,2806,1,1
 29,2,2391,City via Fendalton,,0,2901,2150,1,1
 1,2,1334,Princess Margaret Hospital,,0,130,2408,1,1
 3,2,4124,Sheffield Cres via University,,1,3004,2417,1,1
@@ -1405,14 +1405,14 @@ Oc,2,18084,Orbiter via St Martins,,1,89006,2524,1,1
 3,2,4209,Airport via University,,1,3023,2418,1,1
 140,2,2553,Mt Pleasant via Eastgate,,1,1402,2134,1,1
 5,2,2870,Hornby via City,,1,5015,2163,1,1
-130,2,3512,Hei Hei & Hornby,,0,1302,2602,1,1
+130,2,3512,Hei Hei & Hornby,,0,1302,2702,1,1
 5,2,2916,Rolleston via City,,1,5026,2610,1,1
 107,2,7358,Northlands,,0,10701,2120,1,1
 80,2,1704,Lincoln via City,,1,8007,2180,1,1
-28,2,7206,Northwood via City,,1,2805,2410,1,1
+28,2,7206,Northwood via City,,1,2805,2803,1,1
 3,2,4292,Sumner via City,,0,3018,2153,1,1
 135,2,7584,New Brighton via Prestons,,0,1351,2303,1,1
-130,2,3553,Avonhead,,1,1303,2514,1,1
+130,2,3553,Avonhead,,1,1303,2705,1,1
 5,2,2840,New Brighton via City,,0,5008,2166,1,1
 60,2,3221,Southshore via City,,0,6013,2170,1,1
 140,2,2570,Mt Pleasant via Eastgate,,1,1405,2134,1,1
@@ -1433,11 +1433,11 @@ Oc,2,18108,Orbiter via St Martins,,1,89002,2524,1,1
 5,2,2845,New Brighton via City,,0,5004,2612,1,1
 1,2,1198,Rangiora via City,,1,101,2503,1,1
 140,2,2549,Mt Pleasant via Eastgate,,1,1405,2134,1,1
-28,2,7135,Lyttelton,,0,2801,2516,1,1
+28,2,7135,Lyttelton,,0,2801,2805,1,1
 44,2,3385,Shirley & Dallington,,1,4403,2162,1,1
-820,2,3924,Burnham,,1,8202,2185,1,1
-130,2,3495,Hei Hei & Hornby,,0,1303,2602,1,1
-130,2,3547,Avonhead,,1,1303,2514,1,1
+820,2,3924,Burnham,,1,8202,2710,1,1
+130,2,3495,Hei Hei & Hornby,,0,1303,2702,1,1
+130,2,3547,Avonhead,,1,1303,2705,1,1
 135,2,7586,New Brighton via Prestons,,0,1351,2303,1,1
 7,2,5307,Halswell via City,,0,7012,2519,1,1
 5,2,2896,Hornby via City,,1,5019,2163,1,1
@@ -1448,7 +1448,7 @@ Oc,2,18108,Orbiter via St Martins,,1,89002,2524,1,1
 F,2,7011,Lyttelton,,0,5555,2206,1,1
 5,2,2881,Rolleston via City,,1,5015,2610,1,1
 44,2,3422,Westmorland via City,,0,4405,2161,1,1
-28,2,7182,Northwood via City,,1,2814,2606,1,1
+28,2,7182,Northwood via City,,1,2814,2804,1,1
 3,2,4213,Sumner via City,,0,3014,2153,1,1
 1,2,1304,Princess Margaret Hospital & Cashmere,,0,113,2108,1,1
 5,2,2856,Hornby via City,,1,5011,2163,1,1
@@ -1480,29 +1480,29 @@ Oa,2,18047,Orbiter via The Palms,,0,99002,2615,1,1
 80,2,1678,Parklands via City,,0,8007,2176,1,1
 F,2,7042,Diamond Harbour,,1,5555,2207,1,1
 107,2,7377,Styx Mill & Supa Centa,,1,10701,2119,1,1
-130,2,3531,Avonhead,,1,1303,2514,1,1
+130,2,3531,Avonhead,,1,1303,2705,1,1
 60,2,3192,Southshore via City,,0,6002,2170,1,1
 29,2,2365,City via Fendalton,,0,2901,2150,1,1
 Oc,2,18086,Orbiter via St Martins,,1,89002,2524,1,1
 29,2,2422,Airport via Fendalton,,1,2903,2151,1,1
-28,2,7128,Lyttelton,,0,3018,2414,1,1
+28,2,7128,Lyttelton,,0,3018,2806,1,1
 60,2,3212,Southshore via City,,0,6005,2170,1,1
 F,2,7020,Lyttelton,,0,5555,2206,1,1
 Oc,2,18121,Orbiter via St Martins,,1,89005,2524,1,1
 44,2,3381,Shirley & Dallington,,1,4401,2162,1,1
 1,2,1200,Belfast via City,,1,103,2502,1,1
 1,2,1344,Princess Margaret Hospital,,0,133,2408,1,1
-130,2,3556,Avonhead,,1,1307,2514,1,1
+130,2,3556,Avonhead,,1,1307,2705,1,1
 60,2,3158,Hillmorton & Wigram via City,,1,6012,2421,1,1
 29,2,2367,City via Fendalton,,0,2902,2150,1,1
 120,2,4053,Spreydon & Barrington,,0,1206,2508,1,1
 80,2,1662,Parklands via City,,0,8010,2176,1,1
 5,2,2851,New Brighton via City,,0,5021,2612,1,1
-820,2,3937,Lincoln,,0,8202,2184,1,1
+820,2,3937,Lincoln,,0,8202,2709,1,1
 91,2,1585,City & Public Hospital,,0,9104,2424,1,1
 7,2,5247,Queenspark via City,,1,7009,2518,1,1
 3,2,4281,Sumner via City,,0,3005,2153,1,1
-28,2,7183,Northwood via City,,1,2807,2410,1,1
+28,2,7183,Northwood via City,,1,2807,2803,1,1
 7,2,5234,Queenspark via City,,1,7009,2518,1,1
 1,2,1297,Princess Margaret Hospital,,0,105,2408,1,1
 17,2,6926,Huntsbury via City,,0,1706,2137,1,1
@@ -1513,35 +1513,35 @@ Oc,2,18114,Orbiter via St Martins,,1,89006,2524,1,1
 107,2,7360,Northlands,,0,10701,2120,1,1
 1,2,1203,Rangiora via City,,1,105,2503,1,1
 100,2,4848,The Palms,,0,10005,2114,1,1
-28,2,7190,Northwood via City,,1,2807,2410,1,1
+28,2,7190,Northwood via City,,1,2807,2803,1,1
 86,2,1642,City & Manchester Street,,0,8601,2307,1,1
 5,2,2806,New Brighton via City,,0,5017,2612,1,1
 5,2,2844,New Brighton via City,,0,5021,2166,1,1
-28,2,7161,Lyttelton,,0,2820,2516,1,1
+28,2,7161,Lyttelton,,0,2820,2805,1,1
 95,2,1854,Pegasus,,1,9513,2520,1,1
 17,2,6885,Bryndwr,,1,1703,2138,1,1
-28,2,7146,Lyttelton,,0,2814,2516,1,1
+28,2,7146,Lyttelton,,0,2814,2805,1,1
 17,2,6922,Huntsbury via City,,0,1705,2137,1,1
-130,2,3514,Hei Hei & Hornby,,0,1308,2602,1,1
-28,2,7170,Lyttelton,,0,2809,2516,1,1
+130,2,3514,Hei Hei & Hornby,,0,1308,2702,1,1
+28,2,7170,Lyttelton,,0,2809,2805,1,1
 3,2,4207,Airport via University,,1,3018,2418,1,1
 7,2,5267,Queenspark via City,,1,7003,2518,1,1
 44,2,3396,Westmorland via City,,0,4401,2161,1,1
 F,2,7015,Lyttelton,,0,5555,2206,1,1
 3,2,4162,Sheffield Cres via University,,1,3004,2417,1,1
-820,2,3930,Lincoln,,0,8201,2184,1,1
+820,2,3930,Lincoln,,0,8201,2709,1,1
 44,2,3417,Shirley & Dallington,,1,4402,2162,1,1
 1,2,1251,Rangiora Express,,1,113,2506,1,1
 3,2,4200,Sheffield Cres via University,,1,3002,2417,1,1
 60,2,3228,Southshore via City,,0,6009,2170,1,1
-28,2,7204,Northwood via City,,1,2817,2410,1,1
+28,2,7204,Northwood via City,,1,2817,2803,1,1
 60,2,3197,Southshore via City,,0,6010,2170,1,1
 60,2,3215,Southshore via City,,0,6010,2170,1,1
 3,2,4210,Airport via University,,1,3011,2418,1,1
 3,2,4225,Sumner via City,,0,3008,2415,1,1
 100,2,4796,Halswell,,1,10015,2116,1,1
-130,2,3539,Avonhead,,1,1301,2514,1,1
-5,2,2903,Rolleston Express,,1,5005,2611,1,1
+130,2,3539,Avonhead,,1,1301,2705,1,1
+5,2,2903,Rolleston Express,,1,5005,2707,1,1
 100,2,4843,The Palms,,0,10004,2114,1,1
 Oa,2,18042,Orbiter via The Palms,,0,99007,2615,1,1
 5,2,2790,New Brighton via City,,0,5006,2169,1,1
@@ -1558,7 +1558,7 @@ F,2,7022,Diamond Harbour,,1,5555,2207,1,1
 120,2,4009,Burnside,,1,1204,2509,1,1
 1,2,1255,Belfast via City,,1,123,2504,1,1
 Oc,2,18098,Orbiter via St Martins,,1,89006,2524,1,1
-28,2,7167,Lyttelton,,0,2814,2516,1,1
+28,2,7167,Lyttelton,,0,2814,2805,1,1
 140,2,2550,Mt Pleasant via Eastgate,,1,1406,2134,1,1
 87,2,1646,Leeston & Southbridge,,1,8702,2190,1,1
 7,2,5297,Halswell via City,,0,7014,2519,1,1
@@ -1569,9 +1569,9 @@ Oc,2,18098,Orbiter via St Martins,,1,89006,2524,1,1
 140,2,2590,Russley & Hornby via Eastgate,,0,1401,2132,1,1
 60,2,3159,Hillmorton & Wigram via City,,1,6003,2421,1,1
 60,2,3147,Hillmorton & Wigram via City,,1,6002,2421,1,1
-155,2,1188,Lyttelton,,0,1551,2135,1,1
+155,2,1188,Lyttelton,,0,1551,2802,1,1
 29,2,2428,Airport via Fendalton,,1,2901,2151,1,1
-28,2,7173,Northwood via City,,1,2801,2410,1,1
+28,2,7173,Northwood via City,,1,2801,2803,1,1
 140,2,2585,Russley & Hornby via Eastgate,,0,1403,2132,1,1
 1,2,1331,Princess Margaret Hospital & Cashmere,,0,114,2108,1,1
 120,2,4001,Burnside,,1,1204,2509,1,1
@@ -1583,9 +1583,9 @@ Oa,2,18052,Orbiter via The Palms,,0,99005,2615,1,1
 7,2,5349,Halswell via City,,0,7018,2519,1,1
 3,2,4177,Sheffield Cres via University,,1,3019,2417,1,1
 Oc,2,18113,Orbiter via St Martins,,1,89005,2524,1,1
-28,2,7176,Northwood via City,,1,2810,2410,1,1
+28,2,7176,Northwood via City,,1,2810,2803,1,1
 125,2,3747,Redwood via Hornby,,1,2501,2510,1,1
-820,2,3938,Lincoln,,0,8201,2184,1,1
+820,2,3938,Lincoln,,0,8201,2709,1,1
 17,2,6917,Huntsbury via City,,0,1703,2137,1,1
 7,2,5330,Halswell via City,,0,7009,2519,1,1
 1,2,1276,Princess Margaret Hospital,,0,105,2110,1,1
@@ -1598,7 +1598,7 @@ Oa,2,18065,Orbiter via The Palms,,0,99006,2615,1,1
 7,2,5251,Queenspark via City,,1,7013,2518,1,1
 100,2,4804,Halswell,,1,10012,2116,1,1
 17,2,6914,Huntsbury via City,,0,1705,2137,1,1
-28,2,7139,Lyttelton,,0,2814,2516,1,1
+28,2,7139,Lyttelton,,0,2814,2805,1,1
 Oc,2,18081,Orbiter via St Martins,,1,89004,2524,1,1
 107,2,7371,Styx Mill & Supa Centa,,1,10701,2119,1,1
 3,2,4279,Sumner via City,,0,3003,2153,1,1
@@ -1621,17 +1621,17 @@ Oc,2,18105,Orbiter via St Martins,,1,89005,2524,1,1
 120,2,3999,Burnside,,1,1202,2509,1,1
 3,2,4275,Sumner via City,,0,3019,2153,1,1
 120,2,4044,Spreydon & Barrington,,0,1204,2508,1,1
-28,2,7205,Northwood via City,,1,2818,2410,1,1
+28,2,7205,Northwood via City,,1,2818,2803,1,1
 125,2,3700,Westlake & Halswell via Hornby,,0,2503,2124,1,1
 Oa,2,18044,Orbiter via The Palms,,0,99005,2615,1,1
 125,2,3761,Redwood via Hornby,,1,2503,2510,1,1
 7,2,5243,Queenspark via City,,1,7004,2518,1,1
 17,2,6890,Bryndwr,,1,1705,2138,1,1
 140,2,2573,Mt Pleasant via Eastgate,,1,1401,2134,1,1
-28,2,7129,Lyttelton,,0,2804,2516,1,1
+28,2,7129,Lyttelton,,0,2804,2805,1,1
 80,2,1714,Lincoln via City,,1,8008,2180,1,1
 7,2,5315,Halswell via City,,0,7008,2519,1,1
-28,2,7195,Northwood via City,,1,2805,2410,1,1
+28,2,7195,Northwood via City,,1,2805,2803,1,1
 120,2,4013,Burnside,,1,1204,2509,1,1
 44,2,3407,Shirley & Dallington,,1,4402,2162,1,1
 7,2,5295,Halswell via City,,0,7013,2519,1,1
@@ -1640,19 +1640,19 @@ Oa,2,18044,Orbiter via The Palms,,0,99005,2615,1,1
 44,2,3387,Shirley & Dallington,,1,4405,2162,1,1
 125,2,3720,Westlake & Halswell via Hornby,,0,2503,2124,1,1
 60,2,3166,Hillmorton & Wigram via City,,1,6003,2421,1,1
-820,2,3921,Burnham,,1,8201,2185,1,1
-130,2,3511,Hei Hei & Hornby,,0,1307,2602,1,1
+820,2,3921,Burnham,,1,8201,2710,1,1
+130,2,3511,Hei Hei & Hornby,,0,1307,2702,1,1
 7,2,5272,Queenspark via City,,1,7018,2518,1,1
-130,2,3555,Avonhead,,1,1301,2514,1,1
+130,2,3555,Avonhead,,1,1301,2705,1,1
 1,2,1221,Rangiora via City,,1,137,2503,1,1
 100,2,4795,Halswell,,1,10011,2116,1,1
 97,2,1962,Acacia Ave Rangiora,,1,9511,2204,1,1
 100,2,4842,The Palms,,0,10012,2114,1,1
 Oc,2,18072,Orbiter via St Martins,,1,89002,2524,1,1
 Oc,2,18123,Orbiter via St Martins,,1,89001,2524,1,1
-820,2,3936,Lincoln,,0,8201,2184,1,1
+820,2,3936,Lincoln,,0,8201,2709,1,1
 140,2,2604,Russley & Hornby via Eastgate,,0,1401,2132,1,1
-130,2,3535,Avonhead,,1,1302,2514,1,1
+130,2,3535,Avonhead,,1,1302,2705,1,1
 Oc,2,18073,Orbiter via St Martins,,1,89003,2524,1,1
 3,2,4297,Sumner via City,,0,3011,2415,1,1
 3,2,4206,Airport via University,,1,3013,2418,1,1
@@ -1661,43 +1661,43 @@ Oc,2,18073,Orbiter via St Martins,,1,89003,2524,1,1
 140,2,2599,Russley & Hornby via Eastgate,,0,1403,2132,1,1
 1,2,1210,Belfast via City,,1,111,2502,1,1
 7,2,5250,Queenspark via City,,1,7012,2518,1,1
-130,2,3502,Hei Hei & Hornby,,0,1306,2602,1,1
-28,2,7164,Lyttelton,,0,2809,2516,1,1
+130,2,3502,Hei Hei & Hornby,,0,1306,2702,1,1
+28,2,7164,Lyttelton,,0,2809,2805,1,1
 100,2,4856,The Palms,,0,10009,2114,1,1
 44,2,3427,Shirley & Dallington,,1,4406,2162,1,1
-28,2,7149,Lyttelton,,0,2808,2516,1,1
+28,2,7149,Lyttelton,,0,2808,2805,1,1
 29,2,2366,City via Fendalton,,0,2903,2150,1,1
 Oa,2,18049,Orbiter via The Palms,,0,99004,2615,1,1
 3,2,4208,Airport via University,,1,3001,2418,1,1
 107,2,7367,Northlands,,0,10701,2120,1,1
 7,2,5274,Queenspark via City,,1,7011,2518,1,1
-28,2,7150,Lyttelton,,0,2816,2414,1,1
+28,2,7150,Lyttelton,,0,2816,2806,1,1
 107,2,7378,Styx Mill & Supa Centa,,1,10701,2119,1,1
 5,2,2873,Rolleston via City,,1,5016,2610,1,1
 44,2,3382,Westmorland via City,,0,4402,2161,1,1
-130,2,3518,Hei Hei & Hornby,,0,1303,2602,1,1
+130,2,3518,Hei Hei & Hornby,,0,1303,2702,1,1
 44,2,3412,Westmorland via City,,0,4405,2161,1,1
-28,2,7147,Lyttelton,,0,2807,2516,1,1
+28,2,7147,Lyttelton,,0,2807,2805,1,1
 Oc,2,18101,Orbiter via St Martins,,1,89003,2524,1,1
 F,2,7028,Diamond Harbour,,1,5555,2207,1,1
 60,2,3187,Hillmorton & Wigram via City,,1,6014,2421,1,1
 44,2,3420,Westmorland via City,,0,4403,2161,1,1
-5,2,2788,City & Ara Institute Express,,0,5014,2613,1,1
+5,2,2788,City & Ara Institute Express,,0,5014,2708,1,1
 Oa,2,18045,Orbiter via The Palms,,0,99006,2615,1,1
 140,2,2606,Russley & Hornby via Eastgate,,0,1404,2132,1,1
-820,2,3915,Burnham,,1,8201,2185,1,1
+820,2,3915,Burnham,,1,8201,2710,1,1
 5,2,2872,Hornby via City,,1,5008,2163,1,1
-28,2,7165,Lyttelton,,0,2817,2516,1,1
+28,2,7165,Lyttelton,,0,2817,2805,1,1
 3,2,4188,Sheffield Cres via University,,1,3010,2417,1,1
 Oa,2,18035,Orbiter via The Palms,,0,99008,2209,1,1
 3,2,4202,Sheffield Cres via University,,1,3004,2417,1,1
-28,2,7210,Northwood via City,,1,2809,2410,1,1
+28,2,7210,Northwood via City,,1,2809,2803,1,1
 140,2,2607,Russley & Hornby via Eastgate,,0,1405,2132,1,1
-28,2,7148,Lyttelton,,0,2815,2414,1,1
+28,2,7148,Lyttelton,,0,2815,2806,1,1
 125,2,3743,Redwood via Hornby,,1,2503,2510,1,1
 100,2,4794,Halswell,,1,10004,2116,1,1
 3,2,4258,Sumner via City,,0,3003,2415,1,1
-130,2,3524,Hei Hei & Hornby,,0,1301,2602,1,1
+130,2,3524,Hei Hei & Hornby,,0,1301,2702,1,1
 44,2,3376,Westmorland via City,,0,4404,2161,1,1
 29,2,2416,Airport via Fendalton,,1,2903,2151,1,1
 1,2,1231,Rangiora via City,,1,123,2503,1,1
@@ -1709,7 +1709,7 @@ Oa,2,18035,Orbiter via The Palms,,0,99008,2209,1,1
 5,2,2889,Hornby via City,,1,5002,2163,1,1
 29,2,2387,City via Fendalton,,0,2903,2150,1,1
 29,2,2382,City via Fendalton,,0,2902,2150,1,1
-130,2,3510,Hei Hei & Hornby,,0,1301,2602,1,1
+130,2,3510,Hei Hei & Hornby,,0,1301,2702,1,1
 80,2,1682,Parklands via City,,0,8010,2176,1,1
 1,2,1223,Rangiora via City,,1,136,2503,1,1
 3,2,4127,Airport via University,,1,3008,2418,1,1
@@ -1729,10 +1729,10 @@ F,2,7007,Lyttelton,,0,5555,2206,1,1
 7,2,5256,Queenspark via City,,1,7005,2518,1,1
 3,2,4149,Airport via University,,1,3010,2418,1,1
 3,2,4134,Sheffield Cres via University,,1,3021,2417,1,1
-130,2,3532,Avonhead,,1,1304,2514,1,1
+130,2,3532,Avonhead,,1,1304,2705,1,1
 Oc,2,18074,Orbiter via St Martins,,1,89004,2524,1,1
 7,2,5331,Halswell via City,,0,7010,2519,1,1
-130,2,3540,Avonhead,,1,1302,2514,1,1
+130,2,3540,Avonhead,,1,1302,2705,1,1
 100,2,4803,Halswell,,1,10002,2116,1,1
 60,2,3161,Hillmorton & Wigram via City,,1,6009,2421,1,1
 100,2,4784,Halswell,,1,10005,2116,1,1
@@ -1740,7 +1740,7 @@ Oc,2,18074,Orbiter via St Martins,,1,89004,2524,1,1
 1,2,1211,Rangiora via City,,1,115,2503,1,1
 107,2,7376,Styx Mill & Supa Centa,,1,10701,2119,1,1
 F,2,7027,Diamond Harbour,,1,5555,2207,1,1
-130,2,3505,Hei Hei & Hornby,,0,1303,2602,1,1
+130,2,3505,Hei Hei & Hornby,,0,1303,2702,1,1
 5,3,2960,New Brighton via City,,0,5606,2612,1,1
 100,3,4920,The Palms,,0,10066,2114,1,1
 125,3,3788,Westlake & Halswell via Hornby,,0,25604,2124,1,1
@@ -1751,11 +1751,11 @@ F,2,7027,Diamond Harbour,,1,5555,2207,1,1
 7,3,5453,Halswell via City,,0,7609,2519,1,1
 107,3,7383,Northlands,,0,10761,2120,1,1
 29,3,2450,City via Fendalton,,0,2963,2150,1,1
-820,3,3959,Lincoln,,0,82061,2184,1,1
+820,3,3959,Lincoln,,0,82061,2709,1,1
 100,3,4898,The Palms,,0,10062,2114,1,1
-820,3,3943,Burnham,,1,82061,2185,1,1
+820,3,3943,Burnham,,1,82061,2710,1,1
 Oc,3,18245,Orbiter via St Martins,,1,89604,2524,1,1
-28,3,7225,Lyttelton,,0,2862,2516,1,1
+28,3,7225,Lyttelton,,0,2862,2805,1,1
 125,3,3824,Redwood via Hornby,,1,25603,2510,1,1
 95,3,1895,City & Ara Institute,,0,9562,2200,1,1
 60,3,3288,Southshore via City,,0,6061,2170,1,1
@@ -1764,7 +1764,7 @@ Oa,3,18153,Orbiter via The Palms,,0,99601,2615,1,1
 44,3,3436,Westmorland via City,,0,4461,2161,1,1
 125,3,3784,Westlake & Halswell via Hornby,,0,25605,2124,1,1
 1,3,1440,Princess Margaret Hospital,,0,1613,2408,1,1
-130,3,3616,Avonhead,,1,13062,2514,1,1
+130,3,3616,Avonhead,,1,13062,2705,1,1
 29,3,2455,City via Fendalton,,0,2963,2150,1,1
 7,3,5370,Queenspark via City,,1,7609,2518,1,1
 5,3,2968,New Brighton via City,,0,5607,2612,1,1
@@ -1799,10 +1799,10 @@ F,3,7047,Lyttelton,,0,6666,2206,1,1
 7,3,5429,Halswell via City,,0,7603,2519,1,1
 Oc,3,18204,Orbiter via St Martins,,1,89602,2524,1,1
 3,3,4419,Sumner via City,,0,3612,2153,1,1
-820,3,3958,Lincoln,,0,82062,2184,1,1
-820,3,3955,Lincoln,,0,82061,2184,1,1
+820,3,3958,Lincoln,,0,82062,2709,1,1
+820,3,3955,Lincoln,,0,82061,2709,1,1
 Oa,3,18159,Orbiter via The Palms,,0,99601,2615,1,1
-130,3,3623,Avonhead,,1,13063,2514,1,1
+130,3,3623,Avonhead,,1,13063,2705,1,1
 60,3,3244,Hillmorton & Wigram via City,,1,6062,2421,1,1
 7,3,5403,Queenspark via City,,1,7610,2518,1,1
 44,3,3430,Westmorland via City,,0,4462,2161,1,1
@@ -1811,7 +1811,7 @@ Oa,3,18159,Orbiter via The Palms,,0,99601,2615,1,1
 3,3,4399,Sumner via City,,0,3605,2153,1,1
 60,3,3280,Southshore via City,,0,6066,2170,1,1
 Oc,3,18236,Orbiter via St Martins,,1,89603,2524,1,1
-28,3,7231,Lyttelton,,0,2861,2516,1,1
+28,3,7231,Lyttelton,,0,2861,2805,1,1
 1,3,1466,Princess Margaret Hospital,,0,1604,2408,1,1
 140,3,2616,Mt Pleasant via Eastgate,,1,1464,2134,1,1
 29,3,2440,City via Fendalton,,0,2962,2150,1,1
@@ -1825,7 +1825,7 @@ Oa,3,18195,Orbiter via The Palms,,0,99603,2615,1,1
 5,3,2924,New Brighton via City,,0,5602,2166,1,1
 Oc,3,18263,Orbiter via St Martins,,1,89601,2524,1,1
 Oc,3,18259,Orbiter via St Martins,,1,89603,2524,1,1
-28,3,7224,Lyttelton,,0,2861,2516,1,1
+28,3,7224,Lyttelton,,0,2861,2805,1,1
 125,3,3801,Redwood via Hornby,,1,25603,2510,1,1
 1,3,1386,Belfast via City,,1,1606,2502,1,1
 7,3,5432,Halswell via City,,0,7612,2519,1,1
@@ -1839,8 +1839,8 @@ F,3,7057,Lyttelton,,0,6666,2206,1,1
 5,3,2959,New Brighton via City,,0,5611,2166,1,1
 97,3,1973,Pegasus,,0,9562,2205,1,1
 1,3,1379,Rangiora via City,,1,1615,2503,1,1
-130,3,3572,Hei Hei & Hornby,,0,13065,2602,1,1
-28,3,7233,Lyttelton,,0,2863,2516,1,1
+130,3,3572,Hei Hei & Hornby,,0,13065,2702,1,1
+28,3,7233,Lyttelton,,0,2863,2805,1,1
 3,3,4429,Sumner via City,,0,3603,2415,1,1
 120,3,4079,Spreydon & Barrington,,0,12061,2508,1,1
 97,3,1983,Acacia Ave Rangiora,,1,9564,2204,1,1
@@ -1852,7 +1852,7 @@ F,3,7085,Diamond Harbour,,1,6666,2207,1,1
 3,3,4430,Sumner via City,,0,3606,2415,1,1
 125,3,3781,Westlake & Halswell via Hornby,,0,25603,2124,1,1
 1,3,1427,Princess Margaret Hospital & Cashmere,,0,1607,2108,1,1
-28,3,7277,Northwood via City,,1,2865,2410,1,1
+28,3,7277,Northwood via City,,1,2865,2803,1,1
 5,3,3004,Rolleston via City,,1,5613,2610,1,1
 29,3,2453,City via Fendalton,,0,2962,2150,1,1
 100,3,4884,Halswell,,1,10062,2116,1,1
@@ -1879,24 +1879,24 @@ F,3,7085,Diamond Harbour,,1,6666,2207,1,1
 140,3,2631,Mt Pleasant via Eastgate,,1,1465,2134,1,1
 60,3,3246,Hillmorton & Wigram via City,,1,6064,2421,1,1
 7,3,5409,Halswell via City,,0,7602,2519,1,1
-130,3,3622,Avonhead,,1,13065,2514,1,1
+130,3,3622,Avonhead,,1,13065,2705,1,1
 95,3,1881,Pegasus,,1,9563,2520,1,1
-820,3,3947,Burnham,,1,82061,2185,1,1
+820,3,3947,Burnham,,1,82061,2710,1,1
 5,3,2941,New Brighton via City,,0,5601,2166,1,1
 125,3,3766,Westlake & Halswell via Hornby,,0,25605,2124,1,1
 140,3,2662,Russley & Hornby via Eastgate,,0,1467,2132,1,1
 5,3,3010,Rolleston via City,,1,5606,2610,1,1
 3,3,4421,Sumner via City,,0,3602,2153,1,1
-130,3,3613,Avonhead,,1,13065,2514,1,1
+130,3,3613,Avonhead,,1,13065,2705,1,1
 Oa,3,18190,Orbiter via The Palms,,0,99603,2615,1,1
-130,3,3619,Avonhead,,1,13063,2514,1,1
+130,3,3619,Avonhead,,1,13063,2705,1,1
 Oa,3,18178,Orbiter via The Palms,,0,99606,2615,1,1
 3,3,4353,Airport via University,,1,3603,2418,1,1
 3,3,4306,Sheffield Cres via University,,1,3606,2417,1,1
 F,3,7065,Diamond Harbour,,1,6666,2207,1,1
 7,3,5410,Halswell via City,,0,7603,2519,1,1
 95,3,1902,City & Ara Institute,,0,9563,2200,1,1
-130,3,3584,Hei Hei & Hornby,,0,13064,2602,1,1
+130,3,3584,Hei Hei & Hornby,,0,13064,2702,1,1
 100,3,4867,Halswell,,1,10064,2116,1,1
 5,3,3032,Hornby via City,,1,5601,2163,1,1
 125,3,3812,Redwood via Hornby,,1,25603,2510,1,1
@@ -1919,7 +1919,7 @@ Oc,3,18232,Orbiter via St Martins,,1,89602,2524,1,1
 Oc,3,18258,Orbiter via St Martins,,1,89605,2524,1,1
 80,3,1783,Lincoln via City,,1,8067,2180,1,1
 Oa,3,18149,Orbiter via The Palms,,0,99602,2615,1,1
-28,3,7223,Lyttelton,,0,2866,2516,1,1
+28,3,7223,Lyttelton,,0,2866,2805,1,1
 1,3,1451,Princess Margaret Hospital & Cashmere,,0,1606,2108,1,1
 1,3,1383,Rangiora via City,,1,1604,2503,1,1
 29,3,2474,Airport via Fendalton,,1,2961,2151,1,1
@@ -1934,18 +1934,18 @@ Oc,3,18218,Orbiter via St Martins,,1,89604,2524,1,1
 60,3,3284,Southshore via City,,0,6063,2170,1,1
 Oa,3,18183,Orbiter via The Palms,,0,99605,2615,1,1
 80,3,1747,Parklands via City,,0,8061,2176,1,1
-130,3,3598,Avonhead,,1,13061,2514,1,1
+130,3,3598,Avonhead,,1,13061,2705,1,1
 135,3,7595,The Palms via Prestons,,1,13561,2302,1,1
 3,3,4371,Sumner via City,,0,3602,2153,1,1
 140,3,2670,Russley & Hornby via Eastgate,,0,1464,2132,1,1
-130,3,3563,Hei Hei & Hornby,,0,13063,2602,1,1
-130,3,3606,Avonhead,,1,13062,2514,1,1
+130,3,3563,Hei Hei & Hornby,,0,13063,2702,1,1
+130,3,3606,Avonhead,,1,13062,2705,1,1
 5,3,2993,Rolleston via City,,1,5607,2610,1,1
 120,3,4074,Spreydon & Barrington,,0,12062,2508,1,1
 7,3,5405,Queenspark via City,,1,7608,2518,1,1
 80,3,1742,Parklands via City,,0,8067,2176,1,1
 Oc,3,18225,Orbiter via St Martins,,1,89602,2524,1,1
-130,3,3604,Avonhead,,1,13063,2514,1,1
+130,3,3604,Avonhead,,1,13063,2705,1,1
 5,3,3028,Rolleston via City,,1,5608,2610,1,1
 5,3,3022,Rolleston via City,,1,5610,2610,1,1
 F,3,7076,Diamond Harbour,,1,6666,2207,1,1
@@ -1962,7 +1962,7 @@ F,3,7076,Diamond Harbour,,1,6666,2207,1,1
 107,3,7399,Styx Mill & Supa Centa,,1,10761,2119,1,1
 7,3,5374,Queenspark via City,,1,7604,2518,1,1
 44,3,3456,Westmorland via City,,0,4461,2161,1,1
-820,3,3948,Burnham,,1,82062,2185,1,1
+820,3,3948,Burnham,,1,82062,2710,1,1
 100,3,4909,The Palms,,0,10062,2114,1,1
 Oa,3,18144,Orbiter via The Palms,,0,99602,2615,1,1
 Oc,3,18256,Orbiter via St Martins,,1,89604,2524,1,1
@@ -1972,9 +1972,9 @@ Oc,3,18256,Orbiter via St Martins,,1,89604,2524,1,1
 97,3,1971,Pegasus,,0,9565,2205,1,1
 7,3,5444,Halswell via City,,0,7612,2519,1,1
 80,3,1784,Lincoln via City,,1,8062,2180,1,1
-130,3,3583,Hei Hei & Hornby,,0,13063,2602,1,1
+130,3,3583,Hei Hei & Hornby,,0,13063,2702,1,1
 5,3,3034,Hornby via City,,1,5606,2163,1,1
-130,3,3625,Avonhead,,1,13061,2514,1,1
+130,3,3625,Avonhead,,1,13061,2705,1,1
 80,3,1771,Lincoln via City,,1,8066,2180,1,1
 Oa,3,18141,Orbiter via The Palms,,0,99603,2615,1,1
 7,3,5421,Halswell via City,,0,7607,2519,1,1
@@ -1991,13 +1991,13 @@ Oa,3,18201,Orbiter via The Palms,,0,99605,2615,1,1
 Oc,3,18264,Orbiter via St Martins,,1,89604,2524,1,1
 60,3,3241,Hillmorton & Wigram via City,,1,6066,2421,1,1
 5,3,3043,Hornby via City,,1,5613,2163,1,1
-130,3,3580,Hei Hei & Hornby,,0,13062,2602,1,1
+130,3,3580,Hei Hei & Hornby,,0,13062,2702,1,1
 135,3,7607,New Brighton via Prestons,,0,13562,2303,1,1
 80,3,1757,Parklands via City,,0,8062,2176,1,1
 125,3,3789,Westlake & Halswell via Hornby,,0,25605,2124,1,1
 125,3,3778,Westlake & Halswell via Hornby,,0,25605,2124,1,1
 F,3,7084,Diamond Harbour,,1,6666,2207,1,1
-130,3,3575,Hei Hei & Hornby,,0,13062,2602,1,1
+130,3,3575,Hei Hei & Hornby,,0,13062,2702,1,1
 3,3,4323,Sheffield Cres via University,,1,3612,2417,1,1
 5,3,2938,New Brighton via City,,0,5605,2612,1,1
 29,3,2449,City via Fendalton,,0,2962,2150,1,1
@@ -2030,7 +2030,7 @@ F,3,7052,Lyttelton,,0,6666,2206,1,1
 5,3,2992,Hornby via City,,1,5608,2163,1,1
 7,3,5436,Halswell via City,,0,7610,2519,1,1
 5,3,2998,Rolleston via City,,1,5611,2610,1,1
-28,3,7247,Lyttelton,,0,2864,2516,1,1
+28,3,7247,Lyttelton,,0,2864,2805,1,1
 135,3,7593,The Palms via Prestons,,1,13561,2302,1,1
 125,3,3830,Redwood via Hornby,,1,25604,2510,1,1
 3,3,4374,Sumner via City,,0,3605,2415,1,1
@@ -2042,19 +2042,19 @@ F,3,7052,Lyttelton,,0,6666,2206,1,1
 120,3,4078,Spreydon & Barrington,,0,12062,2508,1,1
 5,3,2950,New Brighton via City,,0,5612,2612,1,1
 120,3,4055,Burnside,,1,12062,2509,1,1
-130,3,3579,Hei Hei & Hornby,,0,13064,2602,1,1
+130,3,3579,Hei Hei & Hornby,,0,13064,2702,1,1
 3,3,4364,Airport via University,,1,3608,2418,1,1
-28,3,7236,Lyttelton,,0,2865,2516,1,1
+28,3,7236,Lyttelton,,0,2865,2805,1,1
 Oc,3,18227,Orbiter via St Martins,,1,89605,2524,1,1
 80,3,1769,Lincoln via City,,1,8062,2180,1,1
-130,3,3629,Avonhead,,1,13061,2514,1,1
+130,3,3629,Avonhead,,1,13061,2705,1,1
 17,3,6953,Huntsbury via City,,0,1762,2137,1,1
 5,3,2974,New Brighton via City,,0,5611,2612,1,1
 3,3,4393,Sumner via City,,0,3612,2153,1,1
 80,3,1782,Lincoln via City,,1,8066,2180,1,1
 60,3,3300,Southshore via City,,0,6061,2170,1,1
 5,3,3006,Rolleston via City,,1,5601,2610,1,1
-28,3,7228,Lyttelton,,0,2867,2516,1,1
+28,3,7228,Lyttelton,,0,2867,2805,1,1
 29,3,2443,City via Fendalton,,0,2962,2150,1,1
 1,3,1415,Princess Margaret Hospital,,0,1602,2110,1,1
 120,3,4073,Spreydon & Barrington,,0,12061,2508,1,1
@@ -2065,35 +2065,35 @@ Oc,3,18227,Orbiter via St Martins,,1,89605,2524,1,1
 29,3,2432,City via Fendalton,,0,2962,2150,1,1
 1,3,1454,Princess Margaret Hospital,,0,1604,2408,1,1
 1,3,1436,Princess Margaret Hospital,,0,1616,2408,1,1
-130,3,3564,Hei Hei & Hornby,,0,13064,2602,1,1
+130,3,3564,Hei Hei & Hornby,,0,13064,2702,1,1
 Oc,3,18222,Orbiter via St Martins,,1,89603,2524,1,1
 Oa,3,18174,Orbiter via The Palms,,0,99604,2615,1,1
-820,3,3946,Burnham,,1,82062,2185,1,1
+820,3,3946,Burnham,,1,82062,2710,1,1
 1,3,1371,Rangiora via City,,1,1608,2503,1,1
 97,3,1974,Pegasus,,0,9563,2205,1,1
 Oa,3,18196,Orbiter via The Palms,,0,99601,2615,1,1
 Oc,3,18224,Orbiter via St Martins,,1,89604,2524,1,1
 135,3,7602,New Brighton via Prestons,,0,13561,2303,1,1
 60,3,3298,Southshore via City,,0,6064,2170,1,1
-28,3,7280,Northwood via City,,1,2862,2410,1,1
+28,3,7280,Northwood via City,,1,2862,2803,1,1
 1,3,1377,Rangiora via City,,1,1614,2503,1,1
 1,3,1429,Princess Margaret Hospital & Cashmere,,0,1603,2108,1,1
 3,3,4324,Airport via University,,1,3613,2418,1,1
-28,3,7248,Lyttelton,,0,2865,2516,1,1
-28,3,7257,Northwood via City,,1,2865,2410,1,1
+28,3,7248,Lyttelton,,0,2865,2805,1,1
+28,3,7257,Northwood via City,,1,2865,2803,1,1
 5,3,3029,Hornby via City,,1,5605,2163,1,1
 7,3,5356,Queenspark via City,,1,7604,2518,1,1
 5,3,2942,New Brighton via City,,0,5607,2612,1,1
 100,3,4875,Halswell,,1,10063,2116,1,1
 5,3,2961,New Brighton via City,,0,5612,2166,1,1
 3,3,4418,Sumner via City,,0,3611,2415,1,1
-820,3,3945,Burnham,,1,82061,2185,1,1
+820,3,3945,Burnham,,1,82061,2710,1,1
 95,3,1898,City & Ara Institute,,0,9564,2200,1,1
-820,3,3962,Lincoln,,0,82062,2184,1,1
+820,3,3962,Lincoln,,0,82062,2709,1,1
 140,3,2657,Russley & Hornby via Eastgate,,0,1464,2132,1,1
 140,3,2663,Russley & Hornby via Eastgate,,0,1463,2132,1,1
-130,3,3609,Avonhead,,1,13063,2514,1,1
-28,3,7229,Lyttelton,,0,2865,2516,1,1
+130,3,3609,Avonhead,,1,13063,2705,1,1
+28,3,7229,Lyttelton,,0,2865,2805,1,1
 60,3,3263,Hillmorton & Wigram via City,,1,6062,2421,1,1
 29,3,2446,City via Fendalton,,0,2962,2150,1,1
 3,3,4355,Airport via University,,1,3606,2418,1,1
@@ -2118,23 +2118,23 @@ F,3,7061,Lyttelton,,0,6666,2206,1,1
 1,3,1390,Belfast via City,,1,1601,2502,1,1
 100,3,4913,The Palms,,0,10065,2114,1,1
 17,3,6956,Huntsbury via City,,0,1761,2137,1,1
-820,3,3957,Lincoln,,0,82061,2184,1,1
-28,3,7249,Lyttelton,,0,2866,2516,1,1
+820,3,3957,Lincoln,,0,82061,2709,1,1
+28,3,7249,Lyttelton,,0,2866,2805,1,1
 F,3,7069,Diamond Harbour,,1,6666,2207,1,1
 5,3,2954,New Brighton via City,,0,5613,2612,1,1
 Oa,3,18197,Orbiter via The Palms,,0,99604,2615,1,1
-28,3,7238,Lyttelton,,0,2861,2516,1,1
+28,3,7238,Lyttelton,,0,2861,2805,1,1
 107,3,7394,Styx Mill & Supa Centa,,1,10761,2119,1,1
 29,3,2438,City via Fendalton,,0,2963,2150,1,1
 7,3,5385,Queenspark via City,,1,7607,2518,1,1
 5,3,2975,New Brighton via City,,0,5601,2166,1,1
 5,3,3041,Hornby via City,,1,5611,2163,1,1
 3,3,4341,Sheffield Cres via University,,1,3604,2417,1,1
-130,3,3585,Hei Hei & Hornby,,0,13061,2602,1,1
+130,3,3585,Hei Hei & Hornby,,0,13061,2702,1,1
 29,3,2459,Airport via Fendalton,,1,2961,2151,1,1
 125,3,3827,Redwood via Hornby,,1,25601,2510,1,1
 140,3,2658,Russley & Hornby via Eastgate,,0,1465,2132,1,1
-130,3,3568,Hei Hei & Hornby,,0,13063,2602,1,1
+130,3,3568,Hei Hei & Hornby,,0,13063,2702,1,1
 140,3,2672,Russley & Hornby via Eastgate,,0,1461,2132,1,1
 60,3,3281,Southshore via City,,0,6061,2170,1,1
 125,3,3799,Redwood via Hornby,,1,25601,2510,1,1
@@ -2150,7 +2150,7 @@ Oa,3,18200,Orbiter via The Palms,,0,99604,2615,1,1
 135,3,7608,New Brighton via Prestons,,0,13561,2303,1,1
 3,3,4394,Sumner via City,,0,3613,2415,1,1
 135,3,7591,The Palms via Prestons,,1,13561,2302,1,1
-130,3,3624,Avonhead,,1,13064,2514,1,1
+130,3,3624,Avonhead,,1,13064,2705,1,1
 1,3,1358,Rangiora via City,,1,1602,2503,1,1
 17,3,6936,Bryndwr,,1,1762,2138,1,1
 80,3,1749,Parklands via City,,0,8067,2176,1,1
@@ -2173,7 +2173,7 @@ Oa,3,18193,Orbiter via The Palms,,0,99602,2615,1,1
 95,3,1889,Pegasus,,1,9561,2520,1,1
 3,3,4307,Airport via University,,1,3608,2418,1,1
 44,3,3431,Shirley & Dallington,,1,4462,2162,1,1
-130,3,3574,Hei Hei & Hornby,,0,13064,2602,1,1
+130,3,3574,Hei Hei & Hornby,,0,13064,2702,1,1
 44,3,3451,Shirley & Dallington,,1,4462,2162,1,1
 140,3,2634,Mt Pleasant via Eastgate,,1,1462,2134,1,1
 107,3,7387,Northlands,,0,10761,2120,1,1
@@ -2183,7 +2183,7 @@ Oa,3,18193,Orbiter via The Palms,,0,99602,2615,1,1
 1,3,1437,Princess Margaret Hospital & Cashmere,,0,1617,2108,1,1
 3,3,4337,Sheffield Cres via University,,1,3613,2417,1,1
 107,3,7384,Northlands,,0,10761,2120,1,1
-130,3,3569,Hei Hei & Hornby,,0,13064,2602,1,1
+130,3,3569,Hei Hei & Hornby,,0,13064,2702,1,1
 95,3,1878,Pegasus,,1,9565,2520,1,1
 3,3,4332,Airport via University,,1,3608,2418,1,1
 125,3,3776,Westlake & Halswell via Hornby,,0,25604,2124,1,1
@@ -2208,7 +2208,7 @@ Oc,3,18237,Orbiter via St Martins,,1,89601,2524,1,1
 29,3,2469,Airport via Fendalton,,1,2962,2151,1,1
 F,3,7072,Diamond Harbour,,1,6666,2207,1,1
 3,3,4404,Sumner via City,,0,3610,2415,1,1
-130,3,3607,Avonhead,,1,13061,2514,1,1
+130,3,3607,Avonhead,,1,13061,2705,1,1
 7,3,5423,Halswell via City,,0,7605,2519,1,1
 5,3,3020,Rolleston via City,,1,5609,2610,1,1
 7,3,5397,Queenspark via City,,1,7604,2518,1,1
@@ -2219,7 +2219,7 @@ F,3,7071,Diamond Harbour,,1,6666,2207,1,1
 60,3,3260,Hillmorton & Wigram via City,,1,6065,2421,1,1
 95,3,1901,City & Ara Institute,,0,9562,2200,1,1
 Oc,3,18266,Orbiter via St Martins,,1,89601,2524,1,1
-28,3,7261,Northwood via City,,1,2863,2410,1,1
+28,3,7261,Northwood via City,,1,2863,2803,1,1
 97,3,1986,Acacia Ave Rangiora,,1,9562,2204,1,1
 120,3,4062,Burnside,,1,12061,2509,1,1
 7,3,5442,Halswell via City,,0,7609,2519,1,1
@@ -2228,15 +2228,15 @@ F,3,7056,Lyttelton,,0,6666,2206,1,1
 107,3,7401,Styx Mill & Supa Centa,,1,10761,2119,1,1
 140,3,2621,Mt Pleasant via Eastgate,,1,1467,2134,1,1
 7,3,5378,Queenspark via City,,1,7602,2518,1,1
-28,3,7243,Lyttelton,,0,2866,2516,1,1
+28,3,7243,Lyttelton,,0,2866,2805,1,1
 1,3,1453,Princess Margaret Hospital & Cashmere,,0,1610,2108,1,1
-130,3,3603,Avonhead,,1,13065,2514,1,1
+130,3,3603,Avonhead,,1,13065,2705,1,1
 Oa,3,18143,Orbiter via The Palms,,0,99604,2615,1,1
 5,3,2952,New Brighton via City,,0,5608,2612,1,1
 3,3,4304,Sheffield Cres via University,,1,3604,2417,1,1
 1,3,1439,Princess Margaret Hospital & Cashmere,,0,1603,2108,1,1
 60,3,3282,Southshore via City,,0,6067,2170,1,1
-130,3,3602,Avonhead,,1,13061,2514,1,1
+130,3,3602,Avonhead,,1,13061,2705,1,1
 7,3,5426,Halswell via City,,0,7602,2519,1,1
 1,3,1380,Belfast via City,,1,1601,2502,1,1
 7,3,5430,Halswell via City,,0,7609,2519,1,1
@@ -2244,7 +2244,7 @@ Oa,3,18143,Orbiter via The Palms,,0,99604,2615,1,1
 3,3,4378,Sumner via City,,0,3610,2415,1,1
 5,3,2995,Hornby via City,,1,5601,2163,1,1
 5,3,2937,New Brighton via City,,0,5608,2166,1,1
-130,3,3627,Avonhead,,1,13063,2514,1,1
+130,3,3627,Avonhead,,1,13063,2705,1,1
 1,3,1424,Princess Margaret Hospital,,0,1604,2408,1,1
 1,3,1455,Princess Margaret Hospital & Cashmere,,0,1601,2108,1,1
 Oc,3,18262,Orbiter via St Martins,,1,89605,2524,1,1
@@ -2265,14 +2265,14 @@ Oc,3,18242,Orbiter via St Martins,,1,89606,2524,1,1
 Oc,3,18205,Orbiter via St Martins,,1,89603,2524,1,1
 107,3,7389,Northlands,,0,10761,2120,1,1
 1,3,1370,Belfast via City,,1,1601,2502,1,1
-130,3,3600,Avonhead,,1,13064,2514,1,1
+130,3,3600,Avonhead,,1,13064,2705,1,1
 80,3,1765,Lincoln via City,,1,8061,2180,1,1
 29,3,2471,Airport via Fendalton,,1,2961,2151,1,1
 107,3,7390,Northlands,,0,10761,2120,1,1
 Oc,3,18230,Orbiter via St Martins,,1,89601,2524,1,1
 5,3,2973,New Brighton via City,,0,5602,2166,1,1
 5,3,2996,Rolleston via City,,1,5610,2610,1,1
-28,3,7237,Lyttelton,,0,2866,2516,1,1
+28,3,7237,Lyttelton,,0,2866,2805,1,1
 95,3,1888,Pegasus,,1,9562,2520,1,1
 1,3,1362,Rangiora via City,,1,1614,2503,1,1
 3,3,4401,Sumner via City,,0,3607,2153,1,1
@@ -2280,7 +2280,7 @@ Oc,3,18230,Orbiter via St Martins,,1,89601,2524,1,1
 Oa,3,18186,Orbiter via The Palms,,0,99601,2615,1,1
 5,3,2964,New Brighton via City,,0,5605,2612,1,1
 107,3,7400,Styx Mill & Supa Centa,,1,10761,2119,1,1
-820,3,3960,Lincoln,,0,82062,2184,1,1
+820,3,3960,Lincoln,,0,82062,2709,1,1
 29,3,2472,Airport via Fendalton,,1,2962,2151,1,1
 F,3,7073,Diamond Harbour,,1,6666,2207,1,1
 125,3,3805,Redwood via Hornby,,1,25602,2510,1,1
@@ -2297,7 +2297,7 @@ Oa,3,18177,Orbiter via The Palms,,0,99605,2615,1,1
 1,3,1458,Princess Margaret Hospital,,0,1608,2408,1,1
 140,3,2647,Russley & Hornby via Eastgate,,0,1462,2132,1,1
 1,3,1367,Rangiora via City,,1,1604,2503,1,1
-28,3,7258,Northwood via City,,1,2866,2410,1,1
+28,3,7258,Northwood via City,,1,2866,2803,1,1
 F,3,7079,Diamond Harbour,,1,6666,2207,1,1
 107,3,7385,Northlands,,0,10761,2120,1,1
 1,3,1385,Rangiora via City,,1,1613,2503,1,1
@@ -2306,29 +2306,29 @@ Oa,3,18158,Orbiter via The Palms,,0,99603,2615,1,1
 3,3,4335,Sheffield Cres via University,,1,3611,2417,1,1
 7,3,5448,Halswell via City,,0,7610,2519,1,1
 1,3,1421,Princess Margaret Hospital & Cashmere,,0,1606,2108,1,1
-28,3,7281,Northwood via City,,1,2863,2410,1,1
+28,3,7281,Northwood via City,,1,2863,2803,1,1
 125,3,3807,Redwood via Hornby,,1,25604,2510,1,1
 29,3,2485,Airport via Fendalton,,1,2963,2151,1,1
 7,3,5399,Queenspark via City,,1,7602,2518,1,1
 7,3,5358,Queenspark via City,,1,7602,2518,1,1
-28,3,7276,Northwood via City,,1,2864,2410,1,1
+28,3,7276,Northwood via City,,1,2864,2803,1,1
 3,3,4347,Sheffield Cres via University,,1,3610,2417,1,1
 125,3,3782,Westlake & Halswell via Hornby,,0,25604,2124,1,1
 3,3,4398,Sumner via City,,0,3604,2415,1,1
 Oa,3,18172,Orbiter via The Palms,,0,99603,2615,1,1
 29,3,2463,Airport via Fendalton,,1,2962,2151,1,1
-28,3,7232,Lyttelton,,0,2862,2516,1,1
+28,3,7232,Lyttelton,,0,2862,2805,1,1
 80,3,1744,Parklands via City,,0,8062,2176,1,1
 1,3,1382,Belfast via City,,1,1617,2502,1,1
 3,3,4388,Sumner via City,,0,3607,2415,1,1
 F,3,7048,Lyttelton,,0,6666,2206,1,1
-28,3,7275,Northwood via City,,1,2863,2410,1,1
+28,3,7275,Northwood via City,,1,2863,2803,1,1
 7,3,5372,Queenspark via City,,1,7612,2518,1,1
-820,3,3961,Lincoln,,0,82061,2184,1,1
-820,3,3949,Burnham,,1,82061,2185,1,1
+820,3,3961,Lincoln,,0,82061,2709,1,1
+820,3,3949,Burnham,,1,82061,2710,1,1
 100,3,4924,The Palms,,0,10065,2114,1,1
 140,3,2661,Russley & Hornby via Eastgate,,0,1462,2132,1,1
-28,3,7250,Lyttelton,,0,2861,2516,1,1
+28,3,7250,Lyttelton,,0,2861,2805,1,1
 140,3,2651,Russley & Hornby via Eastgate,,0,1465,2132,1,1
 100,3,4903,The Palms,,0,10062,2114,1,1
 140,3,2622,Mt Pleasant via Eastgate,,1,1463,2134,1,1
@@ -2342,7 +2342,7 @@ F,3,7048,Lyttelton,,0,6666,2206,1,1
 Oc,3,18247,Orbiter via St Martins,,1,89605,2524,1,1
 100,3,4880,Halswell,,1,10061,2116,1,1
 1,3,1473,Princess Margaret Hospital,,0,1617,2110,1,1
-130,3,3621,Avonhead,,1,13061,2514,1,1
+130,3,3621,Avonhead,,1,13061,2705,1,1
 125,3,3815,Redwood via Hornby,,1,25605,2510,1,1
 Oc,3,18208,Orbiter via St Martins,,1,89602,2524,1,1
 7,3,5393,Queenspark via City,,1,7603,2518,1,1
@@ -2354,15 +2354,15 @@ Oc,3,18208,Orbiter via St Martins,,1,89602,2524,1,1
 3,3,4417,Sumner via City,,0,3610,2153,1,1
 140,3,2627,Mt Pleasant via Eastgate,,1,1462,2134,1,1
 140,3,2625,Mt Pleasant via Eastgate,,1,1466,2134,1,1
-28,3,7272,Northwood via City,,1,2866,2410,1,1
-28,3,7252,Northwood via City,,1,2866,2410,1,1
+28,3,7272,Northwood via City,,1,2866,2803,1,1
+28,3,7252,Northwood via City,,1,2866,2803,1,1
 Oc,3,18207,Orbiter via St Martins,,1,89604,2524,1,1
 1,3,1369,Rangiora via City,,1,1613,2503,1,1
 1,3,1401,Rangiora via City,,1,1613,2503,1,1
 80,3,1767,Lincoln via City,,1,8067,2180,1,1
 Oc,3,18234,Orbiter via St Martins,,1,89605,2524,1,1
 1,3,1450,Princess Margaret Hospital,,0,1615,2408,1,1
-130,3,3617,Avonhead,,1,13061,2514,1,1
+130,3,3617,Avonhead,,1,13061,2705,1,1
 Oa,3,18161,Orbiter via The Palms,,0,99602,2615,1,1
 1,3,1404,Belfast via City,,1,1610,2504,1,1
 Oa,3,18160,Orbiter via The Palms,,0,99604,2615,1,1
@@ -2378,7 +2378,7 @@ Oc,3,18211,Orbiter via St Martins,,1,89601,2524,1,1
 140,3,2636,Mt Pleasant via Eastgate,,1,1464,2134,1,1
 7,3,5462,Halswell via City,,0,7608,2519,1,1
 29,3,2457,City via Fendalton,,0,2963,2150,1,1
-28,3,7270,Northwood via City,,1,2867,2410,1,1
+28,3,7270,Northwood via City,,1,2867,2803,1,1
 100,3,4908,The Palms,,0,10066,2114,1,1
 100,3,4904,The Palms,,0,10064,2114,1,1
 140,3,2668,Russley & Hornby via Eastgate,,0,1462,2132,1,1
@@ -2398,18 +2398,18 @@ F,3,7045,Lyttelton,,0,6666,2206,1,1
 125,3,3811,Redwood via Hornby,,1,25602,2510,1,1
 Oc,3,18257,Orbiter via St Martins,,1,89602,2524,1,1
 3,3,4389,Sumner via City,,0,3608,2153,1,1
-130,3,3612,Avonhead,,1,13061,2514,1,1
+130,3,3612,Avonhead,,1,13061,2705,1,1
 Oa,3,18170,Orbiter via The Palms,,0,99605,2615,1,1
-130,3,3570,Hei Hei & Hornby,,0,13062,2602,1,1
+130,3,3570,Hei Hei & Hornby,,0,13062,2702,1,1
 135,3,7611,New Brighton via Prestons,,0,13562,2303,1,1
 Oc,3,18244,Orbiter via St Martins,,1,89601,2524,1,1
 1,3,1457,Princess Margaret Hospital & Cashmere,,0,1617,2108,1,1
 125,3,3787,Westlake & Halswell via Hornby,,0,25603,2124,1,1
 1,3,1397,Rangiora via City,,1,1616,2503,1,1
 140,3,2642,Mt Pleasant via Eastgate,,1,1461,2134,1,1
-28,3,7260,Northwood via City,,1,2862,2410,1,1
+28,3,7260,Northwood via City,,1,2862,2803,1,1
 17,3,6954,Huntsbury via City,,0,1761,2137,1,1
-130,3,3611,Avonhead,,1,13062,2514,1,1
+130,3,3611,Avonhead,,1,13062,2705,1,1
 60,3,3292,Southshore via City,,0,6064,2170,1,1
 7,3,5386,Queenspark via City,,1,7604,2518,1,1
 44,3,3439,Shirley & Dallington,,1,4462,2162,1,1
@@ -2418,20 +2418,20 @@ Oc,3,18244,Orbiter via St Martins,,1,89601,2524,1,1
 125,3,3772,Westlake & Halswell via Hornby,,0,25605,2124,1,1
 7,3,5437,Halswell via City,,0,7611,2519,1,1
 7,3,5388,Queenspark via City,,1,7610,2518,1,1
-130,3,3593,Hei Hei & Hornby,,0,13061,2602,1,1
+130,3,3593,Hei Hei & Hornby,,0,13061,2702,1,1
 7,3,5431,Halswell via City,,0,7601,2519,1,1
-130,3,3614,Avonhead,,1,13063,2514,1,1
+130,3,3614,Avonhead,,1,13063,2705,1,1
 1,3,1444,Princess Margaret Hospital,,0,1618,2408,1,1
 100,3,4866,Halswell,,1,10062,2116,1,1
 7,3,5415,Halswell via City,,0,7606,2519,1,1
-28,3,7226,Lyttelton,,0,2863,2516,1,1
+28,3,7226,Lyttelton,,0,2863,2805,1,1
 100,3,4863,Halswell,,1,10061,2116,1,1
 120,3,4070,Burnside,,1,12061,2509,1,1
-28,3,7241,Lyttelton,,0,2864,2516,1,1
+28,3,7241,Lyttelton,,0,2864,2805,1,1
 7,3,5419,Halswell via City,,0,7601,2519,1,1
 1,3,1396,Belfast via City,,1,1606,2502,1,1
 7,3,5408,Queenspark via City,,1,7610,2518,1,1
-820,3,3954,Burnham,,1,82062,2185,1,1
+820,3,3954,Burnham,,1,82062,2710,1,1
 125,3,3779,Westlake & Halswell via Hornby,,0,25601,2124,1,1
 7,3,5396,Queenspark via City,,1,7612,2518,1,1
 3,3,4381,Sumner via City,,0,3613,2153,1,1
@@ -2462,11 +2462,11 @@ Oa,3,18163,Orbiter via The Palms,,0,99605,2615,1,1
 Oc,3,18233,Orbiter via St Martins,,1,89607,2524,1,1
 Oa,3,18150,Orbiter via The Palms,,0,99607,2615,1,1
 Oc,3,18238,Orbiter via St Martins,,1,89604,2524,1,1
-130,3,3594,Hei Hei & Hornby,,0,13065,2602,1,1
+130,3,3594,Hei Hei & Hornby,,0,13065,2702,1,1
 140,3,2648,Russley & Hornby via Eastgate,,0,1467,2132,1,1
 1,3,1425,Princess Margaret Hospital & Cashmere,,0,1601,2108,1,1
 95,3,1903,City & Ara Institute,,0,9564,2200,1,1
-28,3,7267,Northwood via City,,1,2862,2410,1,1
+28,3,7267,Northwood via City,,1,2862,2803,1,1
 1,3,1426,Princess Margaret Hospital,,0,1608,2408,1,1
 5,3,2939,New Brighton via City,,0,5613,2166,1,1
 Oc,3,18223,Orbiter via St Martins,,1,89601,2524,1,1
@@ -2479,7 +2479,7 @@ Oc,3,18240,Orbiter via St Martins,,1,89607,2524,1,1
 125,3,3806,Redwood via Hornby,,1,25603,2510,1,1
 60,3,3240,Hillmorton & Wigram via City,,1,6065,2421,1,1
 60,3,3250,Hillmorton & Wigram via City,,1,6067,2421,1,1
-820,3,3964,Lincoln,,0,82062,2184,1,1
+820,3,3964,Lincoln,,0,82062,2709,1,1
 120,3,4060,Burnside,,1,12061,2509,1,1
 17,3,6964,Huntsbury via City,,0,1761,2137,1,1
 100,3,4894,Halswell,,1,10062,2116,1,1
@@ -2500,17 +2500,17 @@ Oa,3,18187,Orbiter via The Palms,,0,99604,2615,1,1
 80,3,1772,Lincoln via City,,1,8061,2180,1,1
 140,3,2650,Russley & Hornby via Eastgate,,0,1464,2132,1,1
 60,3,3264,Hillmorton & Wigram via City,,1,6063,2421,1,1
-28,3,7222,Lyttelton,,0,2865,2516,1,1
+28,3,7222,Lyttelton,,0,2865,2805,1,1
 5,3,3003,Hornby via City,,1,5605,2163,1,1
 80,3,1752,Parklands via City,,0,8066,2176,1,1
-28,3,7242,Lyttelton,,0,2865,2516,1,1
+28,3,7242,Lyttelton,,0,2865,2805,1,1
 100,3,4897,The Palms,,0,10065,2114,1,1
 100,3,4930,The Palms,,0,10066,2114,1,1
 3,3,4361,Airport via University,,1,3612,2418,1,1
-28,3,7268,Northwood via City,,1,2863,2410,1,1
+28,3,7268,Northwood via City,,1,2863,2803,1,1
 F,3,7051,Lyttelton,,0,6666,2206,1,1
 80,3,1786,Lincoln via City,,1,8067,2180,1,1
-820,3,3952,Burnham,,1,82062,2185,1,1
+820,3,3952,Burnham,,1,82062,2710,1,1
 140,3,2649,Russley & Hornby via Eastgate,,0,1463,2132,1,1
 5,3,2986,Rolleston via City,,1,5603,2610,1,1
 97,3,1975,Pegasus,,0,9564,2205,1,1
@@ -2534,7 +2534,7 @@ Oc,3,18261,Orbiter via St Martins,,1,89604,2524,1,1
 7,3,5406,Queenspark via City,,1,7609,2518,1,1
 Oc,3,18226,Orbiter via St Martins,,1,89607,2524,1,1
 5,3,3018,Rolleston via City,,1,5607,2610,1,1
-130,3,3562,Hei Hei & Hornby,,0,13061,2602,1,1
+130,3,3562,Hei Hei & Hornby,,0,13061,2702,1,1
 29,3,2456,City via Fendalton,,0,2963,2150,1,1
 1,3,1465,Princess Margaret Hospital,,0,1617,2110,1,1
 F,3,7064,Lyttelton,,0,6666,2206,1,1
@@ -2546,7 +2546,7 @@ Oa,3,18182,Orbiter via The Palms,,0,99602,2615,1,1
 60,3,3249,Hillmorton & Wigram via City,,1,6061,2421,1,1
 17,3,6958,Huntsbury via City,,0,1761,2137,1,1
 3,3,4340,Airport via University,,1,3603,2418,1,1
-28,3,7245,Lyttelton,,0,2862,2516,1,1
+28,3,7245,Lyttelton,,0,2862,2805,1,1
 140,3,2626,Mt Pleasant via Eastgate,,1,1461,2134,1,1
 125,3,3792,Westlake & Halswell via Hornby,,0,25603,2124,1,1
 1,3,1402,Belfast via City,,1,1617,2502,1,1
@@ -2563,12 +2563,12 @@ Oa,3,18185,Orbiter via The Palms,,0,99603,2615,1,1
 17,3,6937,Bryndwr,,1,1761,2138,1,1
 107,3,7395,Styx Mill & Supa Centa,,1,10761,2119,1,1
 1,3,1361,Belfast via City,,1,1607,2502,1,1
-28,3,7255,Northwood via City,,1,2863,2410,1,1
-28,3,7262,Northwood via City,,1,2864,2410,1,1
+28,3,7255,Northwood via City,,1,2863,2803,1,1
+28,3,7262,Northwood via City,,1,2864,2803,1,1
 120,3,4082,Spreydon & Barrington,,0,12062,2508,1,1
 100,3,4906,The Palms,,0,10063,2114,1,1
 5,3,2966,New Brighton via City,,0,5604,2612,1,1
-130,3,3608,Avonhead,,1,13065,2514,1,1
+130,3,3608,Avonhead,,1,13065,2705,1,1
 5,3,2970,New Brighton via City,,0,5609,2612,1,1
 80,3,1751,Parklands via City,,0,8062,2176,1,1
 7,3,5439,Halswell via City,,0,7606,2519,1,1
@@ -2581,7 +2581,7 @@ Oc,3,18209,Orbiter via St Martins,,1,89605,2524,1,1
 80,3,1759,Lincoln via City,,1,8061,2180,1,1
 7,3,5390,Queenspark via City,,1,7602,2518,1,1
 125,3,3777,Westlake & Halswell via Hornby,,0,25606,2124,1,1
-130,3,3605,Avonhead,,1,13064,2514,1,1
+130,3,3605,Avonhead,,1,13064,2705,1,1
 120,3,4076,Spreydon & Barrington,,0,12062,2508,1,1
 17,3,6963,Huntsbury via City,,0,1762,2137,1,1
 100,3,4917,The Palms,,0,10061,2114,1,1
@@ -2592,7 +2592,7 @@ Oc,3,18220,Orbiter via St Martins,,1,89605,2524,1,1
 120,3,4084,Spreydon & Barrington,,0,12062,2508,1,1
 17,3,6943,Bryndwr,,1,1761,2138,1,1
 107,3,7381,Northlands,,0,10761,2120,1,1
-28,3,7278,Northwood via City,,1,2866,2410,1,1
+28,3,7278,Northwood via City,,1,2866,2803,1,1
 5,3,2951,New Brighton via City,,0,5604,2166,1,1
 29,3,2454,City via Fendalton,,0,2963,2150,1,1
 125,3,3832,Redwood via Hornby,,1,25602,2510,1,1
@@ -2601,8 +2601,8 @@ Oc,3,18220,Orbiter via St Martins,,1,89605,2524,1,1
 140,3,2630,Mt Pleasant via Eastgate,,1,1464,2134,1,1
 60,3,3229,Hillmorton & Wigram via City,,1,6061,2421,1,1
 97,3,1976,Pegasus,,0,9567,2205,1,1
-130,3,3628,Avonhead,,1,13064,2514,1,1
-28,3,7251,Lyttelton,,0,2862,2516,1,1
+130,3,3628,Avonhead,,1,13064,2705,1,1
+28,3,7251,Lyttelton,,0,2862,2805,1,1
 Oc,3,18239,Orbiter via St Martins,,1,89602,2524,1,1
 29,3,2468,Airport via Fendalton,,1,2961,2151,1,1
 7,3,5395,Queenspark via City,,1,7601,2518,1,1
@@ -2625,7 +2625,7 @@ F,3,7066,Diamond Harbour,,1,6666,2207,1,1
 80,3,1740,Parklands via City,,0,8061,2176,1,1
 3,3,4310,Sheffield Cres via University,,1,3611,2417,1,1
 80,3,1741,Parklands via City,,0,8063,2176,1,1
-130,3,3599,Avonhead,,1,13063,2514,1,1
+130,3,3599,Avonhead,,1,13063,2705,1,1
 5,3,2976,New Brighton via City,,0,5613,2612,1,1
 5,3,3011,Hornby via City,,1,5610,2163,1,1
 5,3,2988,Rolleston via City,,1,5602,2610,1,1
@@ -2634,13 +2634,13 @@ Oa,3,18179,Orbiter via The Palms,,0,99603,2615,1,1
 140,3,2640,Mt Pleasant via Eastgate,,1,1463,2134,1,1
 29,3,2458,City via Fendalton,,0,2963,2150,1,1
 80,3,1764,Lincoln via City,,1,8066,2180,1,1
-28,3,7234,Lyttelton,,0,2864,2516,1,1
+28,3,7234,Lyttelton,,0,2864,2805,1,1
 3,3,4540,Airport via University,,1,3612,2418,1,1
 44,3,3443,Shirley & Dallington,,1,4462,2162,1,1
 80,3,1773,Lincoln via City,,1,8063,2180,1,1
 1,3,1373,Rangiora via City,,1,1618,2503,1,1
 120,3,4057,Burnside,,1,12062,2509,1,1
-28,3,7256,Northwood via City,,1,2864,2410,1,1
+28,3,7256,Northwood via City,,1,2864,2803,1,1
 29,3,2433,City via Fendalton,,0,2961,2150,1,1
 1,3,1417,Princess Margaret Hospital & Cashmere,,0,1607,2108,1,1
 7,3,5355,Queenspark via City,,1,7601,2518,1,1
@@ -2658,7 +2658,7 @@ Oa,3,18179,Orbiter via The Palms,,0,99603,2615,1,1
 7,3,5449,Halswell via City,,0,7611,2519,1,1
 Oa,3,18168,Orbiter via The Palms,,0,99602,2615,1,1
 7,3,5375,Queenspark via City,,1,7605,2518,1,1
-28,3,7230,Lyttelton,,0,2866,2516,1,1
+28,3,7230,Lyttelton,,0,2866,2805,1,1
 3,3,4391,Sumner via City,,0,3610,2153,1,1
 100,3,4911,The Palms,,0,10061,2114,1,1
 5,3,3000,Rolleston via City,,1,5612,2610,1,1
@@ -2672,10 +2672,10 @@ Oa,3,18191,Orbiter via The Palms,,0,99601,2615,1,1
 7,3,5380,Queenspark via City,,1,7608,2518,1,1
 100,3,4888,Halswell,,1,10066,2116,1,1
 97,3,1978,Pegasus,,0,9567,2205,1,1
-28,3,7219,Lyttelton,,0,2862,2414,1,1
+28,3,7219,Lyttelton,,0,2862,2806,1,1
 107,3,7396,Styx Mill & Supa Centa,,1,10761,2119,1,1
 95,3,1899,City & Ara Institute,,0,9565,2200,1,1
-28,3,7246,Lyttelton,,0,2863,2516,1,1
+28,3,7246,Lyttelton,,0,2863,2805,1,1
 F,3,7078,Diamond Harbour,,1,6666,2207,1,1
 60,3,3236,Hillmorton & Wigram via City,,1,6067,2421,1,1
 80,3,1758,City,,0,8066,2178,1,1
@@ -2683,7 +2683,7 @@ Oc,3,18217,Orbiter via St Martins,,1,89601,2524,1,1
 80,3,1756,Parklands via City,,0,8067,2176,1,1
 100,3,4893,Halswell,,1,10066,2116,1,1
 44,3,3457,Shirley & Dallington,,1,4461,2162,1,1
-28,3,7269,Northwood via City,,1,2864,2410,1,1
+28,3,7269,Northwood via City,,1,2864,2803,1,1
 60,3,3248,Hillmorton & Wigram via City,,1,6066,2421,1,1
 44,3,3444,Westmorland via City,,0,4461,2161,1,1
 44,3,3437,Shirley & Dallington,,1,4461,2162,1,1
@@ -2692,7 +2692,7 @@ Oc,3,18217,Orbiter via St Martins,,1,89601,2524,1,1
 125,3,3800,Redwood via Hornby,,1,25602,2510,1,1
 7,3,5368,Queenspark via City,,1,7608,2518,1,1
 100,3,4864,Halswell,,1,10063,2116,1,1
-130,3,3615,Avonhead,,1,13064,2514,1,1
+130,3,3615,Avonhead,,1,13064,2705,1,1
 F,3,7080,Diamond Harbour,,1,6666,2207,1,1
 5,3,2989,Rolleston via City,,1,5605,2610,1,1
 100,3,4929,The Palms,,0,10065,2114,1,1
@@ -2701,25 +2701,25 @@ F,3,7080,Diamond Harbour,,1,6666,2207,1,1
 5,3,3008,Rolleston via City,,1,5603,2610,1,1
 60,3,3294,Southshore via City,,0,6061,2170,1,1
 Oc,3,18213,Orbiter via St Martins,,1,89602,2524,1,1
-130,3,3592,Hei Hei & Hornby,,0,13064,2602,1,1
+130,3,3592,Hei Hei & Hornby,,0,13064,2702,1,1
 100,3,4871,Halswell,,1,10066,2116,1,1
 3,3,4412,Sumner via City,,0,3605,2415,1,1
 100,3,4914,The Palms,,0,10066,2114,1,1
 44,3,3445,Shirley & Dallington,,1,4461,2162,1,1
 100,3,4869,Halswell,,1,10063,2116,1,1
-130,3,3567,Hei Hei & Hornby,,0,13065,2602,1,1
+130,3,3567,Hei Hei & Hornby,,0,13065,2702,1,1
 80,3,1785,Lincoln via City,,1,8066,2180,1,1
-28,3,7271,Northwood via City,,1,2865,2410,1,1
+28,3,7271,Northwood via City,,1,2865,2803,1,1
 7,3,5416,Halswell via City,,0,7608,2519,1,1
 7,3,5379,Queenspark via City,,1,7606,2518,1,1
-28,3,7264,Northwood via City,,1,2865,2410,1,1
-130,3,3620,Avonhead,,1,13064,2514,1,1
+28,3,7264,Northwood via City,,1,2865,2803,1,1
+130,3,3620,Avonhead,,1,13064,2705,1,1
 7,3,5456,Halswell via City,,0,7602,2519,1,1
 60,3,3266,Southshore via City,,0,6065,2170,1,1
 80,3,1738,Parklands via City,,0,8064,2176,1,1
 3,3,4316,Airport via University,,1,3605,2418,1,1
 5,3,2955,New Brighton via City,,0,5609,2166,1,1
-820,3,3950,Burnham,,1,82062,2185,1,1
+820,3,3950,Burnham,,1,82062,2710,1,1
 1,3,1363,Rangiora via City,,1,1615,2503,1,1
 107,3,7391,Northlands,,0,10761,2120,1,1
 97,3,1969,Pegasus,,0,9566,2205,1,1
@@ -2727,30 +2727,30 @@ Oc,3,18213,Orbiter via St Martins,,1,89602,2524,1,1
 F,3,7049,Lyttelton,,0,6666,2206,1,1
 1,3,1387,Rangiora via City,,1,1608,2503,1,1
 F,3,7050,Lyttelton,,0,6666,2206,1,1
-130,3,3589,Hei Hei & Hornby,,0,13061,2602,1,1
+130,3,3589,Hei Hei & Hornby,,0,13061,2702,1,1
 60,3,3296,Southshore via City,,0,6062,2170,1,1
 120,3,4069,Burnside,,1,12062,2509,1,1
 3,3,4387,Sumner via City,,0,3606,2153,1,1
 3,3,4322,Airport via University,,1,3611,2418,1,1
-130,3,3587,Hei Hei & Hornby,,0,13063,2602,1,1
-28,3,7265,Northwood via City,,1,2866,2410,1,1
+130,3,3587,Hei Hei & Hornby,,0,13063,2702,1,1
+28,3,7265,Northwood via City,,1,2866,2803,1,1
 1,3,1443,Princess Margaret Hospital & Cashmere,,0,1610,2108,1,1
 29,3,2434,City via Fendalton,,0,2962,2150,1,1
 17,3,6948,Bryndwr,,1,1762,2138,1,1
-130,3,3590,Hei Hei & Hornby,,0,13065,2602,1,1
+130,3,3590,Hei Hei & Hornby,,0,13065,2702,1,1
 80,3,1732,Parklands via City,,0,8064,2176,1,1
-130,3,3582,Hei Hei & Hornby,,0,13065,2602,1,1
+130,3,3582,Hei Hei & Hornby,,0,13065,2702,1,1
 1,3,1411,Rangiora via City,,1,1619,2503,1,1
 F,3,7046,Lyttelton,,0,6666,2206,1,1
 1,3,1461,Princess Margaret Hospital,,0,1606,2110,1,1
 7,3,5371,Queenspark via City,,1,7601,2518,1,1
 Oa,3,18139,Orbiter via The Palms,,0,99601,2615,1,1
-28,3,7240,Lyttelton,,0,2863,2516,1,1
+28,3,7240,Lyttelton,,0,2863,2805,1,1
 3,3,4314,Airport via University,,1,3603,2418,1,1
 100,3,4890,Halswell,,1,10064,2116,1,1
 5,3,2997,Hornby via City,,1,5603,2163,1,1
 Oa,3,18148,Orbiter via The Palms,,0,99604,2615,1,1
-820,3,3944,Burnham,,1,82062,2185,1,1
+820,3,3944,Burnham,,1,82062,2710,1,1
 100,3,4896,Halswell,,1,10063,2116,1,1
 3,3,4305,Airport via University,,1,3605,2418,1,1
 F,3,7067,Diamond Harbour,,1,6666,2207,1,1
@@ -2769,10 +2769,10 @@ Oa,3,18202,Orbiter via The Palms,,0,99601,2615,1,1
 7,3,5434,Halswell via City,,0,7604,2519,1,1
 7,3,5427,Halswell via City,,0,7606,2519,1,1
 3,3,4400,Sumner via City,,0,3606,2415,1,1
-130,3,3566,Hei Hei & Hornby,,0,13061,2602,1,1
+130,3,3566,Hei Hei & Hornby,,0,13061,2702,1,1
 100,3,4891,Halswell,,1,10063,2116,1,1
-820,3,3956,Lincoln,,0,82062,2184,1,1
-28,3,7253,Northwood via City,,1,2861,2410,1,1
+820,3,3956,Lincoln,,0,82062,2709,1,1
+28,3,7253,Northwood via City,,1,2861,2803,1,1
 95,3,1879,Pegasus,,1,9561,2520,1,1
 5,3,2981,New Brighton via City,,0,5613,2166,1,1
 125,3,3804,Redwood via Hornby,,1,25601,2510,1,1
@@ -2783,7 +2783,7 @@ Oa,3,18202,Orbiter via The Palms,,0,99601,2615,1,1
 5,3,3037,Rolleston via City,,1,5601,2610,1,1
 3,3,4369,Sumner via City,,0,3611,2153,1,1
 80,3,1735,Parklands via City,,0,8063,2176,1,1
-820,3,3953,Burnham,,1,82061,2185,1,1
+820,3,3953,Burnham,,1,82061,2710,1,1
 100,3,4862,Halswell,,1,10064,2116,1,1
 1,3,1449,Princess Margaret Hospital & Cashmere,,0,1603,2108,1,1
 5,3,2949,New Brighton via City,,0,5605,2166,1,1
@@ -2800,7 +2800,7 @@ Oa,3,18202,Orbiter via The Palms,,0,99601,2615,1,1
 29,3,2431,City via Fendalton,,0,2961,2150,1,1
 95,3,1880,Pegasus,,1,9562,2520,1,1
 125,3,3793,Westlake & Halswell via Hornby,,0,25604,2124,1,1
-28,3,7239,Lyttelton,,0,2862,2516,1,1
+28,3,7239,Lyttelton,,0,2862,2805,1,1
 5,3,3027,Hornby via City,,1,5602,2163,1,1
 Oc,3,18246,Orbiter via St Martins,,1,89602,2524,1,1
 80,3,1731,Parklands via City,,0,8062,2176,1,1
@@ -2812,7 +2812,7 @@ Oa,3,18145,Orbiter via The Palms,,0,99607,2615,1,1
 1,3,1374,Belfast via City,,1,1603,2502,1,1
 5,3,2947,New Brighton via City,,0,5602,2166,1,1
 Oc,3,18210,Orbiter via St Martins,,1,89603,2524,1,1
-28,3,7235,Lyttelton,,0,2867,2516,1,1
+28,3,7235,Lyttelton,,0,2867,2805,1,1
 100,3,4899,The Palms,,0,10064,2114,1,1
 95,3,1904,City & Ara Institute,,0,9562,2200,1,1
 3,3,4344,Airport via University,,1,3607,2418,1,1
@@ -2820,10 +2820,10 @@ Oc,3,18210,Orbiter via St Martins,,1,89603,2524,1,1
 7,3,5452,Halswell via City,,0,7608,2519,1,1
 F,3,7063,Lyttelton,,0,6666,2206,1,1
 95,3,1900,City & Ara Institute,,0,9561,2200,1,1
-130,3,3596,Avonhead,,1,13064,2514,1,1
+130,3,3596,Avonhead,,1,13064,2705,1,1
 100,3,4881,Halswell,,1,10063,2116,1,1
 100,3,4885,Halswell,,1,10064,2116,1,1
-820,3,3963,Lincoln,,0,82061,2184,1,1
+820,3,3963,Lincoln,,0,82061,2709,1,1
 5,3,2956,New Brighton via City,,0,5601,2612,1,1
 100,3,4872,Halswell,,1,10062,2116,1,1
 17,3,6940,Bryndwr,,1,1762,2138,1,1
@@ -2836,7 +2836,7 @@ Oa,3,18155,Orbiter via The Palms,,0,99602,2615,1,1
 F,3,7053,Lyttelton,,0,6666,2206,1,1
 1,3,1438,Princess Margaret Hospital,,0,1604,2408,1,1
 135,3,7594,The Palms via Prestons,,1,13562,2302,1,1
-130,3,3601,Avonhead,,1,13062,2514,1,1
+130,3,3601,Avonhead,,1,13062,2705,1,1
 7,3,5363,Queenspark via City,,1,7605,2518,1,1
 29,3,2447,City via Fendalton,,0,2963,2150,1,1
 3,3,4423,Sumner via City,,0,3605,2153,1,1
@@ -2860,7 +2860,7 @@ Oa,3,18154,Orbiter via The Palms,,0,99604,2615,1,1
 Oc,3,18241,Orbiter via St Martins,,1,89605,2524,1,1
 17,3,6961,Huntsbury via City,,0,1762,2137,1,1
 60,3,3262,Hillmorton & Wigram via City,,1,6067,2421,1,1
-130,3,3591,Hei Hei & Hornby,,0,13063,2602,1,1
+130,3,3591,Hei Hei & Hornby,,0,13063,2702,1,1
 17,3,6959,Huntsbury via City,,0,1762,2137,1,1
 80,3,1763,Lincoln via City,,1,8064,2180,1,1
 Oc,3,18249,Orbiter via St Martins,,1,89603,2524,1,1
@@ -2869,7 +2869,7 @@ Oc,3,18249,Orbiter via St Martins,,1,89603,2524,1,1
 1,3,1419,Princess Margaret Hospital & Cashmere,,0,1603,2108,1,1
 17,3,6938,Bryndwr,,1,1762,2138,1,1
 135,3,7590,The Palms via Prestons,,1,13562,2302,1,1
-28,3,7266,Northwood via City,,1,2861,2410,1,1
+28,3,7266,Northwood via City,,1,2861,2803,1,1
 F,3,7082,Diamond Harbour,,1,6666,2207,1,1
 140,3,2619,Mt Pleasant via Eastgate,,1,1461,2134,1,1
 100,3,4923,The Palms,,0,10063,2114,1,1
@@ -2879,26 +2879,26 @@ F,3,7082,Diamond Harbour,,1,6666,2207,1,1
 3,3,4425,Sumner via City,,0,3607,2153,1,1
 125,3,3816,Redwood via Hornby,,1,25601,2510,1,1
 Oa,3,18192,Orbiter via The Palms,,0,99604,2615,1,1
-28,3,7263,Northwood via City,,1,2867,2410,1,1
-28,3,7273,Northwood via City,,1,2861,2410,1,1
+28,3,7263,Northwood via City,,1,2867,2803,1,1
+28,3,7273,Northwood via City,,1,2861,2803,1,1
 80,3,1779,Lincoln via City,,1,8061,2180,1,1
 125,3,3814,Redwood via Hornby,,1,25606,2510,1,1
 7,3,5365,Queenspark via City,,1,7611,2518,1,1
 Oa,3,18173,Orbiter via The Palms,,0,99601,2615,1,1
 Oa,3,18156,Orbiter via The Palms,,0,99607,2615,1,1
-28,3,7274,Northwood via City,,1,2862,2410,1,1
+28,3,7274,Northwood via City,,1,2862,2803,1,1
 120,3,4083,Spreydon & Barrington,,0,12061,2508,1,1
 80,3,1754,Parklands via City,,0,8062,2176,1,1
 44,3,3438,Westmorland via City,,0,4462,2161,1,1
 Oa,3,18171,Orbiter via The Palms,,0,99606,2615,1,1
 80,3,1774,Lincoln via City,,1,8067,2180,1,1
-130,3,3578,Hei Hei & Hornby,,0,13063,2602,1,1
+130,3,3578,Hei Hei & Hornby,,0,13063,2702,1,1
 Oa,3,18166,Orbiter via The Palms,,0,99601,2615,1,1
 60,3,3273,Southshore via City,,0,6066,2170,1,1
 Oa,3,18157,Orbiter via The Palms,,0,99606,2615,1,1
 Oa,3,18181,Orbiter via The Palms,,0,99604,2615,1,1
 5,3,3040,Hornby via City,,1,5603,2163,1,1
-28,3,7220,Lyttelton,,0,2863,2414,1,1
+28,3,7220,Lyttelton,,0,2863,2806,1,1
 3,3,4345,Sheffield Cres via University,,1,3608,2417,1,1
 Oc,3,18228,Orbiter via St Martins,,1,89606,2524,1,1
 7,3,5435,Halswell via City,,0,7605,2519,1,1
@@ -2907,17 +2907,17 @@ Oc,3,18228,Orbiter via St Martins,,1,89606,2524,1,1
 5,3,2994,Rolleston via City,,1,5609,2610,1,1
 60,3,3255,Hillmorton & Wigram via City,,1,6061,2421,1,1
 7,3,5424,Halswell via City,,0,7610,2519,1,1
-130,3,3595,Hei Hei & Hornby,,0,13063,2602,1,1
+130,3,3595,Hei Hei & Hornby,,0,13063,2702,1,1
 F,3,7074,Diamond Harbour,,1,6666,2207,1,1
-130,3,3586,Hei Hei & Hornby,,0,13065,2602,1,1
-130,3,3597,Avonhead,,1,13062,2514,1,1
+130,3,3586,Hei Hei & Hornby,,0,13065,2702,1,1
+130,3,3597,Avonhead,,1,13062,2705,1,1
 125,3,3770,Westlake & Halswell via Hornby,,0,25604,2124,1,1
 100,3,4918,The Palms,,0,10063,2114,1,1
 140,3,2643,Russley & Hornby via Eastgate,,0,1463,2132,1,1
 3,3,4373,Sumner via City,,0,3604,2153,1,1
 1,3,1392,Belfast via City,,1,1617,2502,1,1
 80,3,1737,Parklands via City,,0,8062,2176,1,1
-130,3,3573,Hei Hei & Hornby,,0,13063,2602,1,1
+130,3,3573,Hei Hei & Hornby,,0,13063,2702,1,1
 Oc,3,18250,Orbiter via St Martins,,1,89601,2524,1,1
 Oa,3,18169,Orbiter via The Palms,,0,99607,2615,1,1
 Oa,3,18146,Orbiter via The Palms,,0,99603,2615,1,1
@@ -2929,11 +2929,11 @@ F,3,7081,Diamond Harbour,,1,6666,2207,1,1
 97,3,1991,Acacia Ave Rangiora,,1,9567,2204,1,1
 7,3,5457,Halswell via City,,0,7608,2519,1,1
 7,3,5407,Queenspark via City,,1,7604,2518,1,1
-28,3,7218,Lyttelton,,0,2861,2414,1,1
+28,3,7218,Lyttelton,,0,2861,2806,1,1
 F,3,7077,Diamond Harbour,,1,6666,2207,1,1
 120,3,4061,Burnside,,1,12062,2509,1,1
 5,3,2935,New Brighton via City,,0,5612,2166,1,1
-28,3,7254,Northwood via City,,1,2862,2410,1,1
+28,3,7254,Northwood via City,,1,2862,2803,1,1
 3,3,4327,Sheffield Cres via University,,1,3603,2417,1,1
 107,3,7386,Northlands,,0,10761,2120,1,1
 F,3,7060,Lyttelton,,0,6666,2206,1,1
@@ -2973,7 +2973,7 @@ Oa,3,18152,Orbiter via The Palms,,0,99603,2615,1,1
 140,3,2655,Russley & Hornby via Eastgate,,0,1467,2132,1,1
 Oc,3,18235,Orbiter via St Martins,,1,89606,2524,1,1
 100,3,4921,The Palms,,0,10062,2114,1,1
-820,3,3966,Lincoln,,0,82062,2184,1,1
+820,3,3966,Lincoln,,0,82062,2709,1,1
 125,3,3767,Westlake & Halswell via Hornby,,0,25601,2124,1,1
 125,3,3791,Westlake & Halswell via Hornby,,0,25602,2124,1,1
 80,3,1775,Lincoln via City,,1,8065,2180,1,1
@@ -2991,7 +2991,7 @@ F,3,7059,Lyttelton,,0,6666,2206,1,1
 3,3,4405,Sumner via City,,0,3611,2153,1,1
 140,3,2644,Russley & Hornby via Eastgate,,0,1464,2132,1,1
 125,3,3773,Westlake & Halswell via Hornby,,0,25601,2124,1,1
-130,3,3581,Hei Hei & Hornby,,0,13061,2602,1,1
+130,3,3581,Hei Hei & Hornby,,0,13061,2702,1,1
 120,3,4067,Burnside,,1,12062,2509,1,1
 1,3,1422,Princess Margaret Hospital,,0,1611,2408,1,1
 60,3,3283,Southshore via City,,0,6062,2170,1,1
@@ -3012,7 +3012,7 @@ Oc,3,18260,Orbiter via St Martins,,1,89601,2524,1,1
 135,3,7598,The Palms via Prestons,,1,13562,2302,1,1
 1,3,1394,Belfast via City,,1,1603,2502,1,1
 1,3,1448,Princess Margaret Hospital,,0,1614,2408,1,1
-130,3,3610,Avonhead,,1,13064,2514,1,1
+130,3,3610,Avonhead,,1,13064,2705,1,1
 44,3,3455,Shirley & Dallington,,1,4462,2162,1,1
 3,3,4392,Sumner via City,,0,3611,2415,1,1
 7,3,5381,Queenspark via City,,1,7603,2518,1,1
@@ -3024,30 +3024,30 @@ Oc,3,18260,Orbiter via St Martins,,1,89601,2524,1,1
 3,3,4424,Sumner via City,,0,3606,2415,1,1
 100,3,4879,Halswell,,1,10064,2116,1,1
 1,3,1420,Princess Margaret Hospital,,0,1609,2408,1,1
-28,3,7259,Northwood via City,,1,2861,2410,1,1
+28,3,7259,Northwood via City,,1,2861,2803,1,1
 3,3,4431,City,,0,3608,2416,1,1
 60,3,3230,Hillmorton & Wigram via City,,1,6062,2421,1,1
 3,3,4372,Sumner via City,,0,3603,2415,1,1
 100,3,4878,Halswell,,1,10062,2116,1,1
-820,3,3965,Lincoln,,0,82061,2184,1,1
+820,3,3965,Lincoln,,0,82061,2709,1,1
 1,3,1352,Belfast via City,,1,1601,2504,1,1
 Oc,3,18248,Orbiter via St Martins,,1,89606,2524,1,1
 5,3,2963,New Brighton via City,,0,5608,2166,1,1
-130,3,3571,Hei Hei & Hornby,,0,13061,2602,1,1
+130,3,3571,Hei Hei & Hornby,,0,13061,2702,1,1
 7,3,5459,Halswell via City,,0,7604,2519,1,1
-820,3,3951,Burnham,,1,82061,2185,1,1
+820,3,3951,Burnham,,1,82061,2710,1,1
 7,3,5383,Queenspark via City,,1,7601,2518,1,1
-130,3,3577,Hei Hei & Hornby,,0,13065,2602,1,1
+130,3,3577,Hei Hei & Hornby,,0,13065,2702,1,1
 7,3,5401,Queenspark via City,,1,7609,2518,1,1
 F,3,7058,Lyttelton,,0,6666,2206,1,1
 Oc,3,18252,Orbiter via St Martins,,1,89602,2524,1,1
 1,3,1388,Belfast via City,,1,1610,2502,1,1
 100,3,4900,The Palms,,0,10061,2114,1,1
-28,3,7279,Northwood via City,,1,2861,2410,1,1
+28,3,7279,Northwood via City,,1,2861,2803,1,1
 Oa,3,18180,Orbiter via The Palms,,0,99601,2615,1,1
 3,3,4416,Sumner via City,,0,3609,2415,1,1
 29,3,2480,Airport via Fendalton,,1,2962,2151,1,1
-130,3,3576,Hei Hei & Hornby,,0,13061,2602,1,1
+130,3,3576,Hei Hei & Hornby,,0,13061,2702,1,1
 5,3,3039,Rolleston via City,,1,5606,2610,1,1
 1,3,1372,Belfast via City,,1,1617,2502,1,1
 29,3,2484,Airport via Fendalton,,1,2963,2151,1,1
@@ -3055,7 +3055,7 @@ Oa,3,18180,Orbiter via The Palms,,0,99601,2615,1,1
 140,3,2654,Russley & Hornby via Eastgate,,0,1462,2132,1,1
 Oa,3,18184,Orbiter via The Palms,,0,99606,2615,1,1
 60,3,3254,Hillmorton & Wigram via City,,1,6065,2421,1,1
-130,3,3618,Avonhead,,1,13065,2514,1,1
+130,3,3618,Avonhead,,1,13065,2705,1,1
 5,3,3001,Hornby via City,,1,5602,2163,1,1
 3,3,4415,Sumner via City,,0,3608,2153,1,1
 29,3,2435,City via Fendalton,,0,2963,2150,1,1
@@ -3068,8 +3068,8 @@ F,3,7044,Lyttelton,,0,6666,2206,1,1
 140,3,2667,Russley & Hornby via Eastgate,,0,1461,2132,1,1
 29,3,2465,Airport via Fendalton,,1,2961,2151,1,1
 1,3,1470,Princess Margaret Hospital,,0,1619,2408,1,1
-28,3,7244,Lyttelton,,0,2861,2516,1,1
-28,3,7227,Lyttelton,,0,2864,2516,1,1
+28,3,7244,Lyttelton,,0,2861,2805,1,1
+28,3,7227,Lyttelton,,0,2864,2805,1,1
 7,3,5425,Halswell via City,,0,7611,2519,1,1
 5,3,3036,Hornby via City,,1,5611,2163,1,1
 120,3,4080,Spreydon & Barrington,,0,12062,2508,1,1
@@ -3086,14 +3086,14 @@ Oc,3,18253,Orbiter via St Martins,,1,89605,2524,1,1
 107,3,7398,Styx Mill & Supa Centa,,1,10761,2119,1,1
 125,3,3795,Westlake & Halswell via Hornby,,0,25601,2124,1,1
 125,3,3831,Redwood via Hornby,,1,25605,2510,1,1
-130,3,3588,Hei Hei & Hornby,,0,13064,2602,1,1
+130,3,3588,Hei Hei & Hornby,,0,13064,2702,1,1
 125,3,3794,Westlake & Halswell via Hornby,,0,25605,2124,1,1
 1,3,1435,Princess Margaret Hospital & Cashmere,,0,1601,2108,1,1
 140,3,2632,Mt Pleasant via Eastgate,,1,1466,2134,1,1
 1,3,1442,Princess Margaret Hospital,,0,1608,2408,1,1
-28,3,7221,Lyttelton,,0,2864,2516,1,1
-130,3,3565,Hei Hei & Hornby,,0,13062,2602,1,1
-130,3,3626,Avonhead,,1,13065,2514,1,1
+28,3,7221,Lyttelton,,0,2864,2805,1,1
+130,3,3565,Hei Hei & Hornby,,0,13062,2702,1,1
+130,3,3626,Avonhead,,1,13065,2705,1,1
 140,3,2629,Mt Pleasant via Eastgate,,1,1463,2134,1,1
 3,3,4409,Sumner via City,,0,3602,2153,1,1
 29,3,2445,City via Fendalton,,0,2961,2150,1,1
@@ -3111,17 +3111,17 @@ Oa,3,18198,Orbiter via The Palms,,0,99605,2615,1,1
 Oa,3,18189,Orbiter via The Palms,,0,99605,2615,1,1
 120,3,4056,Burnside,,1,12061,2509,1,1
 140,3,2673,Russley & Hornby via Eastgate,,0,1463,2132,1,1
-28,4,7287,Lyttelton,,0,2873,2516,1,1
+28,4,7287,Lyttelton,,0,2873,2805,1,1
 29,4,2521,Airport via Fendalton,,1,2972,2151,1,1
 28,4,7346,Northlands via City,,1,2877,2411,1,1
 60,4,3357,Southshore via City,,0,6071,2170,1,1
-28,4,7286,Lyttelton,,0,2872,2414,1,1
+28,4,7286,Lyttelton,,0,2872,2806,1,1
 3,4,4458,Sheffield Cres via University,,1,3709,2417,1,1
 97,4,1996,Pegasus,,0,9575,2205,1,1
 5,4,3075,New Brighton via City,,0,5704,2166,1,1
 60,4,3358,Southshore via City,,0,6072,2170,1,1
 107,4,7408,Northlands,,0,10771,2120,1,1
-28,4,7327,Northwood via City,,1,2877,2410,1,1
+28,4,7327,Northwood via City,,1,2877,2803,1,1
 60,4,3345,Southshore via City,,0,6073,2170,1,1
 1,4,1508,Rangiora via City,,1,1072,2503,1,1
 17,4,6984,Huntsbury via City,,0,1772,2137,1,1
@@ -3139,16 +3139,16 @@ Oa,4,5070,Orbiter via The Palms,,0,99705,2615,1,1
 5,4,3054,New Brighton via City,,0,5705,2166,1,1
 Oc,4,5570,Orbiter via St Martins,,1,89701,2524,1,1
 Oa,4,5610,Orbiter via The Palms,,0,99706,2615,1,1
-28,4,7324,Northwood via City,,1,2872,2410,1,1
+28,4,7324,Northwood via City,,1,2872,2803,1,1
 44,4,3466,Westmorland via City,,0,4471,2161,1,1
 Oc,4,5553,Orbiter via St Martins,,1,89706,2524,1,1
-130,4,3680,Avonhead,,1,13073,2514,1,1
+130,4,3680,Avonhead,,1,13073,2705,1,1
 17,4,6991,Huntsbury via City,,0,1771,2137,1,1
 7,4,5527,Halswell via City,,0,7706,2519,1,1
 97,4,2010,Acacia Ave Rangiora,,1,9572,2204,1,1
 17,4,6975,Bryndwr,,1,1771,2138,1,1
 1,4,1495,Belfast via City,,1,1075,2502,1,1
-820,4,3972,Burnham,,1,82072,2185,1,1
+820,4,3972,Burnham,,1,82072,2710,1,1
 7,4,5515,Halswell via City,,0,7701,2519,1,1
 3,4,4539,City,,0,3709,2416,1,1
 3,4,4498,Sumner via City,,0,3703,2415,1,1
@@ -3156,14 +3156,14 @@ Oc,4,5553,Orbiter via St Martins,,1,89706,2524,1,1
 1,4,1555,Princess Margaret Hospital & Cashmere,,0,1082,2108,1,1
 Oc,4,5564,Orbiter via St Martins,,1,89701,2524,1,1
 44,4,3471,Shirley & Dallington,,1,4471,2162,1,1
-28,4,7323,Northwood via City,,1,2871,2410,1,1
+28,4,7323,Northwood via City,,1,2871,2803,1,1
 100,4,4972,The Palms,,0,10071,2114,1,1
 1,4,1483,Belfast via City,,1,1076,2504,1,1
 1,4,1569,Princess Margaret Hospital,,0,1074,2110,1,1
 3,4,4439,Airport via University,,1,3703,2418,1,1
 7,4,5495,Queenspark via City,,1,7701,2518,1,1
 80,4,1810,Parklands via City,,0,8075,2176,1,1
-820,4,3977,Lincoln,,0,82072,2184,1,1
+820,4,3977,Lincoln,,0,82072,2709,1,1
 29,4,2523,Airport via Fendalton,,1,2973,2151,1,1
 29,4,2500,City via Fendalton,,0,2971,2150,1,1
 5,4,3112,Hornby via City,,1,5703,2163,1,1
@@ -3174,11 +3174,11 @@ Oc,4,5564,Orbiter via St Martins,,1,89701,2524,1,1
 120,4,4087,Burnside,,1,12072,2509,1,1
 5,4,3128,Rolleston via City,,1,5708,2610,1,1
 1,4,1503,Belfast via City,,1,1083,2502,1,1
-130,4,3642,Hei Hei & Hornby,,0,13074,2602,1,1
-28,4,7301,Lyttelton,,0,2874,2516,1,1
+130,4,3642,Hei Hei & Hornby,,0,13074,2702,1,1
+28,4,7301,Lyttelton,,0,2874,2805,1,1
 3,4,4489,Sumner via City,,0,3705,2415,1,1
 120,4,4096,Burnside,,1,12071,2509,1,1
-28,4,7341,Northwood via City,,1,2875,2410,1,1
+28,4,7341,Northwood via City,,1,2875,2803,1,1
 Oc,4,5206,Orbiter via St Martins,,1,89704,2524,1,1
 7,4,5472,Queenspark via City,,1,7709,2518,1,1
 3,4,4454,Sheffield Cres via University,,1,3705,2417,1,1
@@ -3191,7 +3191,7 @@ Oc,4,5212,Orbiter via St Martins,,1,89704,2524,1,1
 125,4,3871,Redwood via Hornby,,1,25701,2510,1,1
 5,4,3134,Hornby via City,,1,5710,2163,1,1
 100,4,4960,Halswell,,1,10076,2116,1,1
-28,4,7288,Lyttelton,,0,2877,2516,1,1
+28,4,7288,Lyttelton,,0,2877,2805,1,1
 1,4,1517,Rangiora via City,,1,1071,2505,1,1
 Oc,4,5568,Orbiter via St Martins,,1,89703,2524,1,1
 5,4,3085,New Brighton via City,,0,5713,2612,1,1
@@ -3206,7 +3206,7 @@ Oa,4,5077,Orbiter via The Palms,,0,99706,2615,1,1
 60,4,3323,Hillmorton & Wigram via City,,1,6072,2421,1,1
 100,4,4980,The Palms,,0,10072,2114,1,1
 Oc,4,5571,Orbiter via St Martins,,1,89703,2524,1,1
-28,4,7302,Lyttelton,,0,2877,2516,1,1
+28,4,7302,Lyttelton,,0,2877,2805,1,1
 Oa,4,5616,Orbiter via The Palms,,0,99706,2615,1,1
 3,4,4520,Sumner via City,,0,3712,2415,1,1
 125,4,3861,Redwood via Hornby,,1,25701,2510,1,1
@@ -3243,19 +3243,19 @@ Oa,4,5079,Orbiter via The Palms,,0,99705,2615,1,1
 1,4,1504,Rangiora via City,,1,1074,2503,1,1
 3,4,4432,Airport via University,,1,3703,2418,1,1
 60,4,3303,Hillmorton & Wigram via City,,1,6073,2421,1,1
-28,4,7319,Northwood via City,,1,2873,2410,1,1
+28,4,7319,Northwood via City,,1,2873,2803,1,1
 3,4,4471,Airport via University,,1,3709,2418,1,1
 140,4,2677,Mt Pleasant via Eastgate,,1,1475,2134,1,1
 29,4,2515,Airport via Fendalton,,1,2971,2151,1,1
 7,4,5486,Queenspark via City,,1,7702,2518,1,1
 7,4,5514,Halswell via City,,0,7707,2519,1,1
 7,4,5533,Halswell via City,,0,7708,2519,1,1
-130,4,3653,Hei Hei & Hornby,,0,13071,2602,1,1
+130,4,3653,Hei Hei & Hornby,,0,13071,2702,1,1
 5,4,3061,New Brighton via City,,0,5707,2166,1,1
 Oc,4,5218,Orbiter via St Martins,,1,89704,2524,1,1
 Oa,4,5612,Orbiter via The Palms,,0,99704,2615,1,1
 60,4,3317,Hillmorton & Wigram via City,,1,6073,2421,1,1
-130,4,3652,Hei Hei & Hornby,,0,13073,2602,1,1
+130,4,3652,Hei Hei & Hornby,,0,13073,2702,1,1
 125,4,3888,Redwood via Hornby,,1,25701,2510,1,1
 Oc,4,5209,Orbiter via St Martins,,1,89704,2524,1,1
 7,4,5466,Queenspark via City,,1,7703,2518,1,1
@@ -3263,16 +3263,16 @@ Oc,4,5209,Orbiter via St Martins,,1,89704,2524,1,1
 Oc,4,5555,Orbiter via St Martins,,1,89701,2524,1,1
 44,4,3481,Shirley & Dallington,,1,4472,2162,1,1
 Oc,4,5565,Orbiter via St Martins,,1,89703,2524,1,1
-28,4,7298,Lyttelton,,0,2871,2516,1,1
+28,4,7298,Lyttelton,,0,2871,2805,1,1
 3,4,4481,Airport via University,,1,3701,2418,1,1
-28,4,7315,Lyttelton,,0,2875,2516,1,1
+28,4,7315,Lyttelton,,0,2875,2805,1,1
 1,4,1501,Belfast via City,,1,1082,2502,1,1
 Oa,4,5613,Orbiter via The Palms,,0,99706,2615,1,1
 100,4,4938,Halswell,,1,10076,2116,1,1
 125,4,3870,Redwood via Hornby,,1,25704,2510,1,1
 F,4,7096,Lyttelton,,0,7777,2206,1,1
-820,4,3975,Lincoln,,0,82072,2184,1,1
-130,4,3641,Hei Hei & Hornby,,0,13075,2602,1,1
+820,4,3975,Lincoln,,0,82072,2709,1,1
+130,4,3641,Hei Hei & Hornby,,0,13075,2702,1,1
 3,4,4488,Sumner via City,,0,3703,2415,1,1
 107,4,7409,Northlands,,0,10771,2120,1,1
 97,4,2008,Acacia Ave Rangiora,,1,9576,2204,1,1
@@ -3290,40 +3290,40 @@ Oc,4,5200,Orbiter via St Martins,,1,89704,2524,1,1
 7,4,5464,Queenspark via City,,1,7704,2518,1,1
 60,4,3311,Hillmorton & Wigram via City,,1,6074,2421,1,1
 3,4,4510,Sumner via City,,0,3702,2415,1,1
-820,4,3979,Lincoln,,0,82072,2184,1,1
+820,4,3979,Lincoln,,0,82072,2709,1,1
 95,4,1915,Pegasus,,1,9576,2520,1,1
 125,4,3844,Westlake & Halswell via Hornby,,0,25704,2124,1,1
-130,4,3647,Hei Hei & Hornby,,0,13074,2602,1,1
+130,4,3647,Hei Hei & Hornby,,0,13074,2702,1,1
 5,4,3108,Hornby via City,,1,5706,2163,1,1
 1,4,1559,Princess Margaret Hospital & Cashmere,,0,1080,2108,1,1
 7,4,5538,Halswell via City,,0,7708,2519,1,1
 F,4,7102,Lyttelton,,0,7777,2206,1,1
 80,4,1794,Parklands via City,,0,8075,2176,1,1
 Oc,4,5567,Orbiter via St Martins,,1,89701,2524,1,1
-28,4,7309,Lyttelton,,0,2875,2516,1,1
+28,4,7309,Lyttelton,,0,2875,2805,1,1
 5,4,3060,New Brighton via City,,0,5703,2612,1,1
-28,4,7308,Lyttelton,,0,2877,2516,1,1
+28,4,7308,Lyttelton,,0,2877,2805,1,1
 1,4,1534,Princess Margaret Hospital,,0,1074,2110,1,1
 60,4,3361,Southshore via City,,0,6075,2170,1,1
 5,4,3055,New Brighton via City,,0,5711,2166,1,1
 100,4,4961,Halswell,,1,10072,2116,1,1
 3,4,4484,Airport via University,,1,3709,2418,1,1
-130,4,3678,Avonhead,,1,13075,2514,1,1
-820,4,3971,Burnham,,1,82071,2185,1,1
+130,4,3678,Avonhead,,1,13075,2705,1,1
+820,4,3971,Burnham,,1,82071,2710,1,1
 7,4,5517,Halswell via City,,0,7703,2519,1,1
-130,4,3660,Avonhead,,1,13074,2514,1,1
+130,4,3660,Avonhead,,1,13074,2705,1,1
 5,4,3096,Hornby via City,,1,5705,2163,1,1
 60,4,3313,Hillmorton & Wigram via City,,1,6075,2421,1,1
 7,4,5493,Queenspark via City,,1,7702,2518,1,1
-130,4,3662,Avonhead,,1,13071,2514,1,1
+130,4,3662,Avonhead,,1,13071,2705,1,1
 125,4,3839,Westlake & Halswell via Hornby,,0,25701,2124,1,1
 17,4,6981,Huntsbury via City,,0,1771,2137,1,1
 125,4,3846,Westlake & Halswell via Hornby,,0,25706,2124,1,1
 1,4,1563,Princess Margaret Hospital,,0,1073,2110,1,1
 80,4,1817,Lincoln via City,,1,8075,2180,1,1
-28,4,7340,Northwood via City,,1,2877,2410,1,1
+28,4,7340,Northwood via City,,1,2877,2803,1,1
 5,4,3107,Hornby via City,,1,5711,2163,1,1
-28,4,7332,Northwood via City,,1,2873,2410,1,1
+28,4,7332,Northwood via City,,1,2873,2803,1,1
 100,4,4981,The Palms,,0,10073,2114,1,1
 60,4,3341,Southshore via City,,0,6075,2170,1,1
 Oa,4,5061,Orbiter via The Palms,,0,99701,2615,1,1
@@ -3331,10 +3331,10 @@ Oa,4,5061,Orbiter via The Palms,,0,99701,2615,1,1
 17,4,6968,Bryndwr,,1,1772,2138,1,1
 Oa,4,5069,Orbiter via The Palms,,0,99704,2615,1,1
 125,4,3855,Westlake & Halswell via Hornby,,0,25704,2124,1,1
-130,4,3676,Avonhead,,1,13071,2514,1,1
+130,4,3676,Avonhead,,1,13071,2705,1,1
 140,4,2683,Mt Pleasant via Eastgate,,1,1474,2134,1,1
 3,4,4437,Airport via University,,1,3701,2418,1,1
-28,4,7297,Lyttelton,,0,2876,2516,1,1
+28,4,7297,Lyttelton,,0,2876,2805,1,1
 3,4,4440,Sheffield Cres via University,,1,3704,2417,1,1
 5,4,3129,Hornby via City,,1,5710,2163,1,1
 7,4,5487,Queenspark via City,,1,7704,2518,1,1
@@ -3355,7 +3355,7 @@ Oa,4,5076,Orbiter via The Palms,,0,99705,2615,1,1
 60,4,3335,Southshore via City,,0,6076,2170,1,1
 3,4,4449,Airport via University,,1,3713,2418,1,1
 100,4,4986,The Palms,,0,10072,2114,1,1
-130,4,3655,Hei Hei & Hornby,,0,13075,2602,1,1
+130,4,3655,Hei Hei & Hornby,,0,13075,2702,1,1
 60,4,3309,Hillmorton & Wigram via City,,1,6072,2421,1,1
 100,4,4965,The Palms,,0,10074,2114,1,1
 120,4,4100,Spreydon & Barrington,,0,12071,2508,1,1
@@ -3371,7 +3371,7 @@ Oa,4,5076,Orbiter via The Palms,,0,99705,2615,1,1
 3,4,4513,Sumner via City,,0,3705,2153,1,1
 100,4,4958,Halswell,,1,10075,2116,1,1
 7,4,5502,Halswell via City,,0,7701,2519,1,1
-130,4,3659,Hei Hei & Hornby,,0,13071,2602,1,1
+130,4,3659,Hei Hei & Hornby,,0,13071,2702,1,1
 120,4,4105,Spreydon & Barrington,,0,12072,2508,1,1
 3,4,4433,Airport via University,,1,3705,2418,1,1
 Oa,4,5059,Orbiter via The Palms,,0,99702,2615,1,1
@@ -3382,13 +3382,13 @@ Oc,4,5197,Orbiter via St Martins,,1,89703,2524,1,1
 17,4,6988,Huntsbury via City,,0,1772,2137,1,1
 Oa,4,5626,Orbiter via The Palms,,0,99702,2615,1,1
 120,4,4106,Spreydon & Barrington,,0,12071,2508,1,1
-28,4,7299,Lyttelton,,0,2872,2516,1,1
+28,4,7299,Lyttelton,,0,2872,2805,1,1
 1,4,1524,Belfast via City,,1,1085,2504,1,1
 Oa,4,5067,Orbiter via The Palms,,0,99705,2615,1,1
 80,4,1789,Parklands via City,,0,8071,2176,1,1
 60,4,3351,Southshore via City,,0,6072,2170,1,1
 95,4,1931,City & Ara Institute,,0,9572,2200,1,1
-820,4,3978,Lincoln,,0,82071,2184,1,1
+820,4,3978,Lincoln,,0,82071,2709,1,1
 120,4,4104,Spreydon & Barrington,,0,12071,2508,1,1
 5,4,3114,Hornby via City,,1,5712,2163,1,1
 3,4,4499,Sumner via City,,0,3704,2153,1,1
@@ -3401,7 +3401,7 @@ Oa,4,5631,Orbiter via The Palms,,0,99703,2615,1,1
 125,4,3884,Redwood via Hornby,,1,25706,2510,1,1
 5,4,3059,New Brighton via City,,0,5702,2166,1,1
 97,4,2000,Pegasus,,0,9573,2205,1,1
-820,4,3980,Lincoln,,0,82071,2184,1,1
+820,4,3980,Lincoln,,0,82071,2709,1,1
 100,4,4944,Halswell,,1,10076,2116,1,1
 3,4,4478,Airport via University,,1,3706,2418,1,1
 29,4,2512,City via Fendalton,,0,2972,2150,1,1
@@ -3409,10 +3409,10 @@ Oa,4,5631,Orbiter via The Palms,,0,99703,2615,1,1
 5,4,3100,Hornby via City,,1,5702,2163,1,1
 Oa,4,5080,Orbiter via The Palms,,0,99706,2615,1,1
 7,4,5478,Queenspark via City,,1,7704,2518,1,1
-28,4,7294,Lyttelton,,0,2874,2516,1,1
+28,4,7294,Lyttelton,,0,2874,2805,1,1
 140,4,2721,Russley & Hornby via Eastgate,,0,1473,2132,1,1
 125,4,3872,Redwood via Hornby,,1,25706,2510,1,1
-130,4,3675,Avonhead,,1,13073,2514,1,1
+130,4,3675,Avonhead,,1,13073,2705,1,1
 125,4,3878,Redwood via Hornby,,1,25706,2510,1,1
 F,4,7114,Diamond Harbour,,1,7777,2207,1,1
 F,4,7106,Diamond Harbour,,1,7777,2207,1,1
@@ -3420,7 +3420,7 @@ F,4,7106,Diamond Harbour,,1,7777,2207,1,1
 97,4,2003,Pegasus,,0,9571,2205,1,1
 F,4,7109,Diamond Harbour,,1,7777,2207,1,1
 125,4,3864,Redwood via Hornby,,1,25704,2510,1,1
-28,4,7314,Lyttelton,,0,2877,2516,1,1
+28,4,7314,Lyttelton,,0,2877,2805,1,1
 3,4,4463,Airport via University,,1,3701,2418,1,1
 60,4,3352,Southshore via City,,0,6073,2170,1,1
 Oa,4,5062,Orbiter via The Palms,,0,99702,2615,1,1
@@ -3430,7 +3430,7 @@ F,4,7099,Lyttelton,,0,7777,2206,1,1
 29,4,2536,Airport via Fendalton,,1,2971,2151,1,1
 125,4,3851,Westlake & Halswell via Hornby,,0,25701,2124,1,1
 Oc,4,5202,Orbiter via St Martins,,1,89706,2524,1,1
-28,4,7307,Lyttelton,,0,2873,2516,1,1
+28,4,7307,Lyttelton,,0,2873,2805,1,1
 80,4,1799,Parklands via City,,0,8076,2176,1,1
 140,4,2700,Russley & Hornby via Eastgate,,0,1471,2132,1,1
 125,4,3879,Redwood via Hornby,,1,25702,2510,1,1
@@ -3447,8 +3447,8 @@ F,4,7098,Lyttelton,,0,7777,2206,1,1
 Oc,4,5558,Orbiter via St Martins,,1,89701,2524,1,1
 80,4,1826,Lincoln via City,,1,8073,2180,1,1
 Oa,4,5614,Orbiter via The Palms,,0,99705,2615,1,1
-28,4,7290,Lyttelton,,0,2876,2516,1,1
-130,4,3646,Hei Hei & Hornby,,0,13075,2602,1,1
+28,4,7290,Lyttelton,,0,2876,2805,1,1
+130,4,3646,Hei Hei & Hornby,,0,13075,2702,1,1
 95,4,1917,Pegasus,,1,9572,2520,1,1
 29,4,2505,City via Fendalton,,0,2972,2150,1,1
 17,4,6983,Huntsbury via City,,0,1771,2137,1,1
@@ -3468,15 +3468,15 @@ Oa,4,5060,Orbiter via The Palms,,0,99703,2615,1,1
 140,4,2714,Russley & Hornby via Eastgate,,0,1471,2132,1,1
 17,4,6989,Huntsbury via City,,0,1771,2137,1,1
 7,4,5512,Halswell via City,,0,7702,2519,1,1
-130,4,3670,Avonhead,,1,13073,2514,1,1
-28,4,7333,Northwood via City,,1,2874,2410,1,1
+130,4,3670,Avonhead,,1,13073,2705,1,1
+28,4,7333,Northwood via City,,1,2874,2803,1,1
 60,4,3321,Hillmorton & Wigram via City,,1,6076,2421,1,1
 29,4,2499,City via Fendalton,,0,2972,2150,1,1
 107,4,7404,Northlands,,0,10771,2120,1,1
 1,4,1539,Princess Margaret Hospital & Cashmere,,0,1075,2108,1,1
 Oa,4,5078,Orbiter via The Palms,,0,99704,2615,1,1
 7,4,5476,Queenspark via City,,1,7708,2518,1,1
-130,4,3689,Avonhead,,1,13075,2514,1,1
+130,4,3689,Avonhead,,1,13075,2705,1,1
 125,4,3853,Westlake & Halswell via Hornby,,0,25705,2124,1,1
 7,4,5523,Halswell via City,,0,7707,2519,1,1
 1,4,1489,Belfast via City,,1,1081,2502,1,1
@@ -3487,9 +3487,9 @@ F,4,7091,Lyttelton,,0,7777,2206,1,1
 7,4,5505,Halswell via City,,0,7702,2519,1,1
 5,4,3065,New Brighton via City,,0,5705,2166,1,1
 44,4,3474,Westmorland via City,,0,4471,2161,1,1
-28,4,7310,Lyttelton,,0,2876,2516,1,1
-820,4,3970,Burnham,,1,82072,2185,1,1
-130,4,3644,Hei Hei & Hornby,,0,13071,2602,1,1
+28,4,7310,Lyttelton,,0,2876,2805,1,1
+820,4,3970,Burnham,,1,82072,2710,1,1
+130,4,3644,Hei Hei & Hornby,,0,13071,2702,1,1
 7,4,5467,Queenspark via City,,1,7705,2518,1,1
 29,4,2516,Airport via Fendalton,,1,2972,2151,1,1
 44,4,3475,Shirley & Dallington,,1,4471,2162,1,1
@@ -3502,14 +3502,14 @@ F,4,7091,Lyttelton,,0,7777,2206,1,1
 3,4,4536,Sumner via City,,0,3701,2415,1,1
 17,4,6972,Bryndwr,,1,1772,2138,1,1
 80,4,1791,Parklands via City,,0,8077,2176,1,1
-130,4,3665,Avonhead,,1,13073,2514,1,1
+130,4,3665,Avonhead,,1,13073,2705,1,1
 1,4,1556,Princess Margaret Hospital,,0,1071,2408,1,1
 100,4,4934,Halswell,,1,10073,2116,1,1
 29,4,2489,City via Fendalton,,0,2971,2150,1,1
 1,4,1497,Belfast via City,,1,1079,2502,1,1
 Oa,4,5632,Orbiter via The Palms,,0,99702,2615,1,1
 7,4,5529,Halswell via City,,0,7702,2519,1,1
-28,4,7318,Northwood via City,,1,2872,2410,1,1
+28,4,7318,Northwood via City,,1,2872,2803,1,1
 100,4,4971,The Palms,,0,10075,2114,1,1
 7,4,5490,Queenspark via City,,1,7709,2518,1,1
 100,4,4979,The Palms,,0,10076,2114,1,1
@@ -3522,10 +3522,10 @@ Oa,4,5632,Orbiter via The Palms,,0,99702,2615,1,1
 100,4,4942,Halswell,,1,10075,2116,1,1
 Oa,4,5634,Orbiter via The Palms,,0,99703,2615,1,1
 F,4,7112,Diamond Harbour,,1,7777,2207,1,1
-28,4,7335,Northwood via City,,1,2875,2410,1,1
+28,4,7335,Northwood via City,,1,2875,2803,1,1
 120,4,4091,Burnside,,1,12072,2509,1,1
-130,4,3656,Hei Hei & Hornby,,0,13073,2602,1,1
-130,4,3679,Avonhead,,1,13074,2514,1,1
+130,4,3656,Hei Hei & Hornby,,0,13073,2702,1,1
+130,4,3679,Avonhead,,1,13074,2705,1,1
 60,4,3347,Southshore via City,,0,6077,2170,1,1
 5,4,3110,Hornby via City,,1,5709,2163,1,1
 80,4,1797,Parklands via City,,0,8074,2176,1,1
@@ -3537,9 +3537,9 @@ F,4,7112,Diamond Harbour,,1,7777,2207,1,1
 5,4,3053,New Brighton via City,,0,5710,2166,1,1
 95,4,1930,City & Ara Institute,,0,9571,2200,1,1
 1,4,1505,Belfast via City,,1,1080,2502,1,1
-28,4,7321,Northwood via City,,1,2875,2410,1,1
+28,4,7321,Northwood via City,,1,2875,2803,1,1
 3,4,4490,Sumner via City,,0,3708,2415,1,1
-130,4,3683,Avonhead,,1,13075,2514,1,1
+130,4,3683,Avonhead,,1,13075,2705,1,1
 Oc,4,5219,Orbiter via St Martins,,1,89705,2524,1,1
 125,4,3886,Redwood via Hornby,,1,25703,2510,1,1
 F,4,7117,Diamond Harbour,,1,7777,2207,1,1
@@ -3548,7 +3548,7 @@ F,4,7117,Diamond Harbour,,1,7777,2207,1,1
 140,4,2693,Mt Pleasant via Eastgate,,1,1471,2134,1,1
 29,4,2495,City via Fendalton,,0,2973,2150,1,1
 5,4,3052,New Brighton via City,,0,5701,2612,1,1
-28,4,7304,Lyttelton,,0,2876,2516,1,1
+28,4,7304,Lyttelton,,0,2876,2805,1,1
 F,4,7088,Lyttelton,,0,7777,2206,1,1
 3,4,4496,Sumner via City,,0,3701,2415,1,1
 1,4,1519,Rangiora via City,,1,1083,2503,1,1
@@ -3561,10 +3561,10 @@ F,4,7088,Lyttelton,,0,7777,2206,1,1
 60,4,3353,Southshore via City,,0,6074,2170,1,1
 60,4,3332,Hillmorton & Wigram via City,,1,6075,2421,1,1
 29,4,2497,City via Fendalton,,0,2971,2150,1,1
-28,4,7342,Northwood via City,,1,2876,2410,1,1
+28,4,7342,Northwood via City,,1,2876,2803,1,1
 100,4,4946,Halswell,,1,10073,2116,1,1
 100,4,4973,The Palms,,0,10076,2114,1,1
-130,4,3658,Hei Hei & Hornby,,0,13075,2602,1,1
+130,4,3658,Hei Hei & Hornby,,0,13075,2702,1,1
 Oa,4,5615,Orbiter via The Palms,,0,99704,2615,1,1
 5,4,3066,New Brighton via City,,0,5711,2166,1,1
 F,4,7104,Diamond Harbour,,1,7777,2207,1,1
@@ -3577,9 +3577,9 @@ Oc,4,5547,Orbiter via St Martins,,1,89706,2524,1,1
 3,4,4473,Sheffield Cres via University,,1,3711,2417,1,1
 F,4,7118,Diamond Harbour,,1,7777,2207,1,1
 5,4,3121,Rolleston via City,,1,5710,2610,1,1
-130,4,3645,Hei Hei & Hornby,,0,13072,2602,1,1
+130,4,3645,Hei Hei & Hornby,,0,13072,2702,1,1
 60,4,3343,Southshore via City,,0,6071,2170,1,1
-28,4,7328,Northwood via City,,1,2875,2410,1,1
+28,4,7328,Northwood via City,,1,2875,2803,1,1
 60,4,3354,Southshore via City,,0,6077,2170,1,1
 80,4,1829,Lincoln via City,,1,8076,2180,1,1
 5,4,3081,New Brighton via City,,0,5710,2612,1,1
@@ -3592,17 +3592,17 @@ F,4,7118,Diamond Harbour,,1,7777,2207,1,1
 5,4,3124,Rolleston via City,,1,5701,2610,1,1
 107,4,7412,Styx Mill & Supa Centa,,1,10771,2119,1,1
 125,4,3887,Redwood via Hornby,,1,25704,2510,1,1
-130,4,3657,Hei Hei & Hornby,,0,13071,2602,1,1
-28,4,7306,Lyttelton,,0,2872,2516,1,1
+130,4,3657,Hei Hei & Hornby,,0,13071,2702,1,1
+28,4,7306,Lyttelton,,0,2872,2805,1,1
 7,4,5469,Queenspark via City,,1,7704,2518,1,1
 44,4,3469,Shirley & Dallington,,1,4472,2162,1,1
 80,4,1790,Parklands via City,,0,8073,2176,1,1
 125,4,3889,Redwood via Hornby,,1,25705,2510,1,1
 120,4,4101,Spreydon & Barrington,,0,12072,2508,1,1
-28,4,7331,Northwood via City,,1,2872,2410,1,1
+28,4,7331,Northwood via City,,1,2872,2803,1,1
 1,4,1574,Princess Margaret Hospital,,0,1083,2408,1,1
 5,4,3127,Hornby via City,,1,5705,2163,1,1
-130,4,3677,Avonhead,,1,13072,2514,1,1
+130,4,3677,Avonhead,,1,13072,2705,1,1
 1,4,1543,Princess Margaret Hospital & Cashmere,,0,1081,2108,1,1
 80,4,1822,Lincoln via City,,1,8076,2180,1,1
 7,4,5524,Halswell via City,,0,7701,2519,1,1
@@ -3627,14 +3627,14 @@ F,4,7097,Lyttelton,,0,7777,2206,1,1
 60,4,3331,Hillmorton & Wigram via City,,1,6077,2421,1,1
 3,4,4443,Airport via University,,1,3707,2418,1,1
 29,4,2535,Airport via Fendalton,,1,2972,2151,1,1
-28,4,7339,Northwood via City,,1,2873,2410,1,1
-28,4,7303,Lyttelton,,0,2875,2516,1,1
+28,4,7339,Northwood via City,,1,2873,2803,1,1
+28,4,7303,Lyttelton,,0,2875,2805,1,1
 3,4,4526,Sumner via City,,0,3705,2415,1,1
 95,4,1916,Pegasus,,1,9571,2520,1,1
-130,4,3668,Avonhead,,1,13075,2514,1,1
+130,4,3668,Avonhead,,1,13075,2705,1,1
 F,4,7101,Lyttelton,,0,7777,2206,1,1
 Oa,4,5074,Orbiter via The Palms,,0,99706,2615,1,1
-130,4,3650,Hei Hei & Hornby,,0,13072,2602,1,1
+130,4,3650,Hei Hei & Hornby,,0,13072,2702,1,1
 29,4,2519,Airport via Fendalton,,1,2971,2151,1,1
 80,4,1816,Lincoln via City,,1,8072,2180,1,1
 Oa,4,5624,Orbiter via The Palms,,0,99701,2615,1,1
@@ -3649,7 +3649,7 @@ F,4,7092,Lyttelton,,0,7777,2206,1,1
 60,4,3305,Hillmorton & Wigram via City,,1,6077,2421,1,1
 7,4,5471,Queenspark via City,,1,7701,2518,1,1
 Oa,4,5081,Orbiter via The Palms,,0,99704,2615,1,1
-130,4,3688,Avonhead,,1,13071,2514,1,1
+130,4,3688,Avonhead,,1,13071,2705,1,1
 125,4,3860,Westlake & Halswell via Hornby,,0,25701,2124,1,1
 7,4,5465,Queenspark via City,,1,7701,2518,1,1
 Oc,4,5203,Orbiter via St Martins,,1,89704,2524,1,1
@@ -3666,7 +3666,7 @@ Oc,4,5560,Orbiter via St Martins,,1,89702,2524,1,1
 29,4,2517,Airport via Fendalton,,1,2971,2151,1,1
 140,4,2680,Mt Pleasant via Eastgate,,1,1472,2134,1,1
 Oc,4,5559,Orbiter via St Martins,,1,89703,2524,1,1
-28,4,7291,Lyttelton,,0,2871,2516,1,1
+28,4,7291,Lyttelton,,0,2871,2805,1,1
 29,4,2520,Airport via Fendalton,,1,2973,2151,1,1
 100,4,4977,The Palms,,0,10075,2114,1,1
 29,4,2492,City via Fendalton,,0,2973,2150,1,1
@@ -3676,7 +3676,7 @@ Oc,4,5559,Orbiter via St Martins,,1,89703,2524,1,1
 5,4,3057,New Brighton via City,,0,5708,2166,1,1
 3,4,4456,Sheffield Cres via University,,1,3707,2417,1,1
 5,4,3068,New Brighton via City,,0,5710,2612,1,1
-130,4,3636,Hei Hei & Hornby,,0,13075,2602,1,1
+130,4,3636,Hei Hei & Hornby,,0,13075,2702,1,1
 7,4,5525,Halswell via City,,0,7709,2519,1,1
 F,4,7119,Diamond Harbour,,1,7777,2207,1,1
 120,4,4102,Spreydon & Barrington,,0,12071,2508,1,1
@@ -3694,10 +3694,10 @@ F,4,7119,Diamond Harbour,,1,7777,2207,1,1
 29,4,2538,Airport via Fendalton,,1,2972,2151,1,1
 1,4,1533,Princess Margaret Hospital,,0,1073,2408,1,1
 95,4,1933,City & Ara Institute,,0,9574,2200,1,1
-130,4,3686,Avonhead,,1,13072,2514,1,1
-28,4,7337,Northwood via City,,1,2871,2410,1,1
+130,4,3686,Avonhead,,1,13072,2705,1,1
+28,4,7337,Northwood via City,,1,2871,2803,1,1
 80,4,1805,Parklands via City,,0,8077,2176,1,1
-130,4,3685,Avonhead,,1,13071,2514,1,1
+130,4,3685,Avonhead,,1,13071,2705,1,1
 F,4,7113,Diamond Harbour,,1,7777,2207,1,1
 120,4,4090,Burnside,,1,12071,2509,1,1
 60,4,3326,Hillmorton & Wigram via City,,1,6075,2421,1,1
@@ -3715,32 +3715,32 @@ Oc,4,5208,Orbiter via St Martins,,1,89706,2524,1,1
 Oa,4,5627,Orbiter via The Palms,,0,99701,2615,1,1
 80,4,1835,Lincoln via City,,1,8075,2180,1,1
 3,4,4530,Sumner via City,,0,3712,2415,1,1
-130,4,3661,Avonhead,,1,13073,2514,1,1
-130,4,3639,Hei Hei & Hornby,,0,13071,2602,1,1
-28,4,7295,Lyttelton,,0,2877,2516,1,1
-28,4,7311,Lyttelton,,0,2871,2516,1,1
+130,4,3661,Avonhead,,1,13073,2705,1,1
+130,4,3639,Hei Hei & Hornby,,0,13071,2702,1,1
+28,4,7295,Lyttelton,,0,2877,2805,1,1
+28,4,7311,Lyttelton,,0,2871,2805,1,1
 5,4,3132,Rolleston via City,,1,5705,2610,1,1
 125,4,3848,Westlake & Halswell via Hornby,,0,25705,2124,1,1
 100,4,4953,Halswell,,1,10075,2116,1,1
 100,4,4952,Halswell,,1,10073,2116,1,1
 100,4,4949,Halswell,,1,10071,2116,1,1
-130,4,3633,Hei Hei & Hornby,,0,13073,2602,1,1
+130,4,3633,Hei Hei & Hornby,,0,13073,2702,1,1
 Oc,4,5205,Orbiter via St Martins,,1,89706,2524,1,1
 1,4,1564,Princess Margaret Hospital,,0,1074,2408,1,1
 107,4,7420,Styx Mill & Supa Centa,,1,10771,2119,1,1
 100,4,4987,The Palms,,0,10073,2114,1,1
 3,4,4503,Sumner via City,,0,3708,2153,1,1
-820,4,3968,Burnham,,1,82072,2185,1,1
+820,4,3968,Burnham,,1,82072,2710,1,1
 140,4,2675,Mt Pleasant via Eastgate,,1,1473,2134,1,1
 17,4,6990,Huntsbury via City,,0,1772,2137,1,1
-28,4,7326,Northwood via City,,1,2874,2410,1,1
+28,4,7326,Northwood via City,,1,2874,2803,1,1
 1,4,1507,Belfast via City,,1,1079,2502,1,1
 5,4,3051,New Brighton via City,,0,5707,2166,1,1
 100,4,4936,Halswell,,1,10075,2116,1,1
-28,4,7322,Northwood via City,,1,2876,2410,1,1
+28,4,7322,Northwood via City,,1,2876,2803,1,1
 100,4,4947,Halswell,,1,10074,2116,1,1
 17,4,6976,Bryndwr,,1,1772,2138,1,1
-820,4,3967,Burnham,,1,82071,2185,1,1
+820,4,3967,Burnham,,1,82071,2710,1,1
 107,4,7413,Styx Mill & Supa Centa,,1,10771,2119,1,1
 5,4,3097,Rolleston via City,,1,5703,2610,1,1
 5,4,3130,Rolleston via City,,1,5704,2610,1,1
@@ -3771,7 +3771,7 @@ Oc,4,5199,Orbiter via St Martins,,1,89702,2524,1,1
 1,4,1512,Rangiora via City,,1,1083,2503,1,1
 1,4,1487,Belfast via City,,1,1073,2504,1,1
 100,4,4969,The Palms,,0,10073,2114,1,1
-820,4,3969,Burnham,,1,82071,2185,1,1
+820,4,3969,Burnham,,1,82071,2710,1,1
 125,4,3857,Westlake & Halswell via Hornby,,0,25706,2124,1,1
 140,4,2702,Russley & Hornby via Eastgate,,0,1477,2132,1,1
 5,4,3123,Hornby via City,,1,5708,2163,1,1
@@ -3782,14 +3782,14 @@ Oc,4,5556,Orbiter via St Martins,,1,89703,2524,1,1
 Oa,4,5618,Orbiter via The Palms,,0,99701,2615,1,1
 1,4,1572,Princess Margaret Hospital,,0,1071,2408,1,1
 29,4,2506,City via Fendalton,,0,2971,2150,1,1
-820,4,3981,Lincoln,,0,82072,2184,1,1
+820,4,3981,Lincoln,,0,82072,2709,1,1
 60,4,3355,Southshore via City,,0,6075,2170,1,1
-130,4,3684,Avonhead,,1,13073,2514,1,1
+130,4,3684,Avonhead,,1,13073,2705,1,1
 107,4,7407,Northlands,,0,10771,2120,1,1
 1,4,1484,Rangiora via City,,1,1078,2503,1,1
-28,4,7305,Lyttelton,,0,2871,2516,1,1
+28,4,7305,Lyttelton,,0,2871,2805,1,1
 125,4,3842,Westlake & Halswell via Hornby,,0,25705,2124,1,1
-130,4,3638,Hei Hei & Hornby,,0,13073,2602,1,1
+130,4,3638,Hei Hei & Hornby,,0,13073,2702,1,1
 1,4,1546,Princess Margaret Hospital,,0,1077,2110,1,1
 60,4,3363,Southshore via City,,0,6071,2170,1,1
 140,4,2694,Mt Pleasant via Eastgate,,1,1473,2134,1,1
@@ -3805,15 +3805,15 @@ F,4,7107,Diamond Harbour,,1,7777,2207,1,1
 29,4,2528,Airport via Fendalton,,1,2971,2151,1,1
 29,4,2524,Airport via Fendalton,,1,2972,2151,1,1
 80,4,1802,Parklands via City,,0,8071,2176,1,1
-28,4,7292,Lyttelton,,0,2872,2516,1,1
-28,4,7330,Northwood via City,,1,2871,2410,1,1
+28,4,7292,Lyttelton,,0,2872,2805,1,1
+28,4,7330,Northwood via City,,1,2871,2803,1,1
 Oc,4,5563,Orbiter via St Martins,,1,89702,2524,1,1
 95,4,1924,City & Ara Institute,,0,9571,2200,1,1
 3,4,4436,Sheffield Cres via University,,1,3713,2417,1,1
 7,4,5481,Queenspark via City,,1,7709,2518,1,1
 60,4,3348,Southshore via City,,0,6075,2170,1,1
 3,4,4450,Sheffield Cres via University,,1,3701,2417,1,1
-130,4,3673,Avonhead,,1,13075,2514,1,1
+130,4,3673,Avonhead,,1,13075,2705,1,1
 140,4,2709,Russley & Hornby via Eastgate,,0,1477,2132,1,1
 120,4,4089,Burnside,,1,12072,2509,1,1
 80,4,1821,Lincoln via City,,1,8077,2180,1,1
@@ -3831,8 +3831,8 @@ Oc,4,5563,Orbiter via St Martins,,1,89702,2524,1,1
 F,4,7100,Lyttelton,,0,7777,2206,1,1
 Oc,4,5215,Orbiter via St Martins,,1,89704,2524,1,1
 29,4,2507,City via Fendalton,,0,2972,2150,1,1
-28,4,7296,Lyttelton,,0,2875,2516,1,1
-130,4,3637,Hei Hei & Hornby,,0,13074,2602,1,1
+28,4,7296,Lyttelton,,0,2875,2805,1,1
+130,4,3637,Hei Hei & Hornby,,0,13074,2702,1,1
 60,4,3320,Hillmorton & Wigram via City,,1,6075,2421,1,1
 44,4,3470,Westmorland via City,,0,4471,2161,1,1
 Oc,4,5211,Orbiter via St Martins,,1,89706,2524,1,1
@@ -3841,9 +3841,9 @@ Oa,4,5073,Orbiter via The Palms,,0,99705,2615,1,1
 Oa,4,5621,Orbiter via The Palms,,0,99701,2615,1,1
 3,4,4534,Sumner via City,,0,3709,2415,1,1
 1,4,1548,Princess Margaret Hospital,,0,1074,2408,1,1
-130,4,3640,Hei Hei & Hornby,,0,13072,2602,1,1
+130,4,3640,Hei Hei & Hornby,,0,13072,2702,1,1
 5,4,3111,Hornby via City,,1,5702,2163,1,1
-28,4,7313,Lyttelton,,0,2873,2516,1,1
+28,4,7313,Lyttelton,,0,2873,2805,1,1
 3,4,4500,Sumner via City,,0,3705,2415,1,1
 1,4,1554,Princess Margaret Hospital,,0,1081,2110,1,1
 5,4,3106,Hornby via City,,1,5705,2163,1,1
@@ -3852,7 +3852,7 @@ Oa,4,5621,Orbiter via The Palms,,0,99701,2615,1,1
 140,4,2705,Russley & Hornby via Eastgate,,0,1475,2132,1,1
 100,4,4951,Halswell,,1,10072,2116,1,1
 80,4,1830,Lincoln via City,,1,8072,2180,1,1
-28,4,7300,Lyttelton,,0,2873,2516,1,1
+28,4,7300,Lyttelton,,0,2873,2805,1,1
 7,4,5522,Halswell via City,,0,7704,2519,1,1
 7,4,5537,Halswell via City,,0,7703,2519,1,1
 3,4,4516,Sumner via City,,0,3708,2415,1,1
@@ -3860,12 +3860,12 @@ Oa,4,5621,Orbiter via The Palms,,0,99701,2615,1,1
 7,4,5499,Queenspark via City,,1,7707,2518,1,1
 7,4,5482,Queenspark via City,,1,7703,2518,1,1
 5,4,3089,New Brighton via City,,0,5704,2612,1,1
-130,4,3672,Avonhead,,1,13072,2514,1,1
-28,4,7320,Northwood via City,,1,2877,2410,1,1
+130,4,3672,Avonhead,,1,13072,2705,1,1
+28,4,7320,Northwood via City,,1,2877,2803,1,1
 3,4,4452,Sheffield Cres via University,,1,3703,2417,1,1
 140,4,2695,Mt Pleasant via Eastgate,,1,1475,2134,1,1
 5,4,3056,New Brighton via City,,0,5706,2612,1,1
-130,4,3671,Avonhead,,1,13071,2514,1,1
+130,4,3671,Avonhead,,1,13071,2705,1,1
 100,4,4945,Halswell,,1,10072,2116,1,1
 7,4,5510,Halswell via City,,0,7705,2519,1,1
 140,4,2710,Russley & Hornby via Eastgate,,0,1473,2132,1,1
@@ -3882,16 +3882,16 @@ Oa,4,5621,Orbiter via The Palms,,0,99701,2615,1,1
 1,4,1567,Princess Margaret Hospital,,0,1075,2110,1,1
 3,4,4501,Sumner via City,,0,3706,2153,1,1
 1,4,1549,Princess Margaret Hospital & Cashmere,,0,1080,2108,1,1
-28,4,7317,Northwood via City,,1,2871,2410,1,1
+28,4,7317,Northwood via City,,1,2871,2803,1,1
 95,4,1914,Pegasus,,1,9574,2520,1,1
 3,4,4521,Sumner via City,,0,3713,2153,1,1
-130,4,3682,Avonhead,,1,13072,2514,1,1
+130,4,3682,Avonhead,,1,13072,2705,1,1
 60,4,3349,Southshore via City,,0,6076,2170,1,1
 7,4,5532,Halswell via City,,0,7703,2519,1,1
 5,4,3047,New Brighton via City,,0,5705,2612,1,1
 97,4,2015,Acacia Ave Rangiora,,1,9572,2204,1,1
 60,4,3362,Southshore via City,,0,6076,2170,1,1
-130,4,3643,Hei Hei & Hornby,,0,13073,2602,1,1
+130,4,3643,Hei Hei & Hornby,,0,13073,2702,1,1
 44,4,3460,Westmorland via City,,0,4472,2161,1,1
 3,4,4460,Sheffield Cres via University,,1,3711,2417,1,1
 1,4,1557,Princess Margaret Hospital & Cashmere,,0,1077,2108,1,1
@@ -3903,10 +3903,10 @@ Oa,4,5621,Orbiter via The Palms,,0,99701,2615,1,1
 97,4,2007,Acacia Ave Rangiora,,1,9575,2204,1,1
 80,4,1832,Lincoln via City,,1,8071,2180,1,1
 120,4,4111,Spreydon & Barrington,,0,12072,2508,1,1
-820,4,3976,Lincoln,,0,82071,2184,1,1
+820,4,3976,Lincoln,,0,82071,2709,1,1
 5,4,3115,Hornby via City,,1,5701,2163,1,1
 7,4,5497,Queenspark via City,,1,7708,2518,1,1
-28,4,7334,Northwood via City,,1,2877,2410,1,1
+28,4,7334,Northwood via City,,1,2877,2803,1,1
 Oc,4,5562,Orbiter via St Martins,,1,89703,2524,1,1
 1,4,1540,Princess Margaret Hospital,,0,1071,2408,1,1
 F,4,7093,Lyttelton,,0,7777,2206,1,1
@@ -3914,7 +3914,7 @@ Oa,4,5619,Orbiter via The Palms,,0,99703,2615,1,1
 140,4,2689,Mt Pleasant via Eastgate,,1,1473,2134,1,1
 125,4,3843,Westlake & Halswell via Hornby,,0,25703,2124,1,1
 5,4,3122,Hornby via City,,1,5702,2163,1,1
-130,4,3632,Hei Hei & Hornby,,0,13074,2602,1,1
+130,4,3632,Hei Hei & Hornby,,0,13074,2702,1,1
 3,4,4465,Airport via University,,1,3703,2418,1,1
 80,4,1809,Parklands via City,,0,8076,2176,1,1
 60,4,3334,Southshore via City,,0,6075,2170,1,1
@@ -3932,7 +3932,7 @@ F,4,7103,Diamond Harbour,,1,7777,2207,1,1
 60,4,3325,Hillmorton & Wigram via City,,1,6077,2421,1,1
 3,4,4466,Sheffield Cres via University,,1,3704,2417,1,1
 5,4,3072,New Brighton via City,,0,5708,2612,1,1
-130,4,3648,Hei Hei & Hornby,,0,13073,2602,1,1
+130,4,3648,Hei Hei & Hornby,,0,13073,2702,1,1
 3,4,4464,Sheffield Cres via University,,1,3702,2417,1,1
 1,4,1509,Belfast via City,,1,1073,2502,1,1
 140,4,2676,Mt Pleasant via Eastgate,,1,1474,2134,1,1
@@ -3945,7 +3945,7 @@ Oa,4,5063,Orbiter via The Palms,,0,99704,2615,1,1
 3,4,4457,Airport via University,,1,3708,2418,1,1
 17,4,6987,Huntsbury via City,,0,1771,2137,1,1
 3,4,4462,Sheffield Cres via University,,1,3713,2417,1,1
-130,4,3631,Hei Hei & Hornby,,0,13072,2602,1,1
+130,4,3631,Hei Hei & Hornby,,0,13072,2702,1,1
 3,4,4447,Airport via University,,1,3711,2418,1,1
 29,4,2509,City via Fendalton,,0,2972,2150,1,1
 120,4,4110,Spreydon & Barrington,,0,12071,2508,1,1
@@ -3973,7 +3973,7 @@ F,4,7116,Diamond Harbour,,1,7777,2207,1,1
 125,4,3883,Redwood via Hornby,,1,25701,2510,1,1
 140,4,2708,Russley & Hornby via Eastgate,,0,1472,2132,1,1
 125,4,3836,Westlake & Halswell via Hornby,,0,25705,2124,1,1
-130,4,3654,Hei Hei & Hornby,,0,13072,2602,1,1
+130,4,3654,Hei Hei & Hornby,,0,13072,2702,1,1
 80,4,1796,Parklands via City,,0,8073,2176,1,1
 5,4,3058,New Brighton via City,,0,5709,2166,1,1
 3,4,4509,Sumner via City,,0,3701,2153,1,1
@@ -4006,7 +4006,7 @@ Oa,4,5622,Orbiter via The Palms,,0,99703,2615,1,1
 5,4,3092,Hornby via City,,1,5703,2163,1,1
 60,4,3328,Hillmorton & Wigram via City,,1,6071,2421,1,1
 125,4,3876,Redwood via Hornby,,1,25704,2510,1,1
-28,4,7338,Northwood via City,,1,2872,2410,1,1
+28,4,7338,Northwood via City,,1,2872,2803,1,1
 1,4,1515,Rangiora via City,,1,1084,2505,1,1
 5,4,3131,Hornby via City,,1,5701,2163,1,1
 80,4,1813,Lincoln via City,,1,8073,2180,1,1
@@ -4021,7 +4021,7 @@ F,4,7095,Lyttelton,,0,7777,2206,1,1
 80,4,1823,Lincoln via City,,1,8072,2180,1,1
 140,4,2674,Mt Pleasant via Eastgate,,1,1472,2134,1,1
 140,4,2687,Mt Pleasant via Eastgate,,1,1472,2134,1,1
-820,4,3974,Burnham,,1,82072,2185,1,1
+820,4,3974,Burnham,,1,82072,2710,1,1
 3,4,4468,Sheffield Cres via University,,1,3706,2417,1,1
 3,4,4482,Airport via University,,1,3703,2418,1,1
 Oc,4,5554,Orbiter via St Martins,,1,89702,2524,1,1
@@ -4030,10 +4030,10 @@ Oc,4,5554,Orbiter via St Martins,,1,89702,2524,1,1
 100,4,4954,Halswell,,1,10071,2116,1,1
 5,4,3073,New Brighton via City,,0,5712,2166,1,1
 3,4,4435,Airport via University,,1,3712,2418,1,1
-130,4,3649,Hei Hei & Hornby,,0,13071,2602,1,1
+130,4,3649,Hei Hei & Hornby,,0,13071,2702,1,1
 7,4,5474,Queenspark via City,,1,7706,2518,1,1
 100,4,4959,Halswell,,1,10071,2116,1,1
-130,4,3667,Avonhead,,1,13072,2514,1,1
+130,4,3667,Avonhead,,1,13072,2705,1,1
 125,4,3841,Westlake & Halswell via Hornby,,0,25702,2124,1,1
 29,4,2487,City via Fendalton,,0,2971,2150,1,1
 5,4,3071,New Brighton via City,,0,5703,2166,1,1
@@ -4042,7 +4042,7 @@ Oc,4,5554,Orbiter via St Martins,,1,89702,2524,1,1
 140,4,2685,Mt Pleasant via Eastgate,,1,1476,2134,1,1
 Oc,4,5196,Orbiter via St Martins,,1,89702,2524,1,1
 140,4,2707,Russley & Hornby via Eastgate,,0,1471,2132,1,1
-130,4,3634,Hei Hei & Hornby,,0,13071,2602,1,1
+130,4,3634,Hei Hei & Hornby,,0,13071,2702,1,1
 80,4,1834,Lincoln via City,,1,8076,2180,1,1
 29,4,2498,City via Fendalton,,0,2973,2150,1,1
 100,4,4963,The Palms,,0,10072,2114,1,1
@@ -4058,7 +4058,7 @@ Oa,4,5633,Orbiter via The Palms,,0,99701,2615,1,1
 1,4,1518,Belfast via City,,1,1075,2504,1,1
 1,4,1513,Belfast via City,,1,1080,2502,1,1
 3,4,4502,Sumner via City,,0,3707,2415,1,1
-28,4,7316,Lyttelton,,0,2876,2516,1,1
+28,4,7316,Lyttelton,,0,2876,2805,1,1
 7,4,5513,Halswell via City,,0,7704,2519,1,1
 97,4,2013,Acacia Ave Rangiora,,1,9576,2204,1,1
 97,4,2014,Acacia Ave Rangiora,,1,9571,2204,1,1
@@ -4072,7 +4072,7 @@ Oa,4,5630,Orbiter via The Palms,,0,99701,2615,1,1
 7,4,5480,Queenspark via City,,1,7701,2518,1,1
 80,4,1837,Lincoln via City,,1,8076,2180,1,1
 125,4,3885,Redwood via Hornby,,1,25705,2510,1,1
-130,4,3674,Avonhead,,1,13074,2514,1,1
+130,4,3674,Avonhead,,1,13074,2705,1,1
 Oc,4,5569,Orbiter via St Martins,,1,89702,2524,1,1
 60,4,3319,Hillmorton & Wigram via City,,1,6077,2421,1,1
 95,4,1934,City & Ara Institute,,0,9576,2200,1,1
@@ -4090,15 +4090,15 @@ Oc,4,5569,Orbiter via St Martins,,1,89702,2524,1,1
 Oa,4,5058,Orbiter via The Palms,,0,99701,2615,1,1
 29,4,2503,City via Fendalton,,0,2971,2150,1,1
 3,4,4493,Sumner via City,,0,3711,2153,1,1
-28,4,7325,Northwood via City,,1,2873,2410,1,1
+28,4,7325,Northwood via City,,1,2873,2803,1,1
 125,4,3877,Redwood via Hornby,,1,25701,2510,1,1
 100,4,4932,Halswell,,1,10071,2116,1,1
 3,4,4472,Airport via University,,1,3710,2418,1,1
-130,4,3635,Hei Hei & Hornby,,0,13072,2602,1,1
+130,4,3635,Hei Hei & Hornby,,0,13072,2702,1,1
 7,4,5489,Queenspark via City,,1,7701,2518,1,1
 Oc,4,5552,Orbiter via St Martins,,1,89704,2524,1,1
 60,4,3337,Southshore via City,,0,6072,2170,1,1
-130,4,3651,Hei Hei & Hornby,,0,13075,2602,1,1
+130,4,3651,Hei Hei & Hornby,,0,13075,2702,1,1
 5,4,3113,Rolleston via City,,1,5707,2610,1,1
 17,4,6971,Bryndwr,,1,1771,2138,1,1
 140,4,2698,Mt Pleasant via Eastgate,,1,1475,2134,1,1
@@ -4120,13 +4120,13 @@ Oc,4,5561,Orbiter via St Martins,,1,89701,2524,1,1
 1,4,1514,Belfast via City,,1,1075,2504,1,1
 125,4,3869,Redwood via Hornby,,1,25703,2510,1,1
 3,4,4511,Sumner via City,,0,3703,2153,1,1
-28,4,7329,Northwood via City,,1,2876,2410,1,1
+28,4,7329,Northwood via City,,1,2876,2803,1,1
 29,4,2488,City via Fendalton,,0,2972,2150,1,1
 Oc,4,5549,Orbiter via St Martins,,1,89704,2524,1,1
-130,4,3669,Avonhead,,1,13074,2514,1,1
+130,4,3669,Avonhead,,1,13074,2705,1,1
 140,4,2706,Russley & Hornby via Eastgate,,0,1476,2132,1,1
-130,4,3666,Avonhead,,1,13071,2514,1,1
-130,4,3687,Avonhead,,1,13075,2514,1,1
+130,4,3666,Avonhead,,1,13071,2705,1,1
+130,4,3687,Avonhead,,1,13075,2705,1,1
 100,4,4962,The Palms,,0,10071,2114,1,1
 44,4,3459,Shirley & Dallington,,1,4471,2162,1,1
 7,4,5468,Queenspark via City,,1,7702,2518,1,1
@@ -4138,15 +4138,15 @@ F,4,7108,Diamond Harbour,,1,7777,2207,1,1
 107,4,7418,Styx Mill & Supa Centa,,1,10771,2119,1,1
 60,4,3315,Hillmorton & Wigram via City,,1,6071,2421,1,1
 1,4,1538,Princess Margaret Hospital,,0,1080,2110,1,1
-130,4,3681,Avonhead,,1,13071,2514,1,1
+130,4,3681,Avonhead,,1,13071,2705,1,1
 3,4,4442,Sheffield Cres via University,,1,3706,2417,1,1
 60,4,3314,Hillmorton & Wigram via City,,1,6076,2421,1,1
 100,4,4974,The Palms,,0,10072,2114,1,1
 17,4,6978,Bryndwr,,1,1772,2138,1,1
 3,4,4508,Sumner via City,,0,3713,2415,1,1
-28,4,7285,Lyttelton,,0,2871,2414,1,1
+28,4,7285,Lyttelton,,0,2871,2806,1,1
 140,4,2682,Mt Pleasant via Eastgate,,1,1473,2134,1,1
-130,4,3664,Avonhead,,1,13074,2514,1,1
+130,4,3664,Avonhead,,1,13074,2705,1,1
 60,4,3356,Southshore via City,,0,6076,2170,1,1
 5,4,3095,Rolleston via City,,1,5706,2610,1,1
 80,4,1836,Lincoln via City,,1,8074,2180,1,1
@@ -4160,8 +4160,8 @@ F,4,7090,Lyttelton,,0,7777,2206,1,1
 97,4,2009,Acacia Ave Rangiora,,1,9571,2204,1,1
 140,4,2715,Russley & Hornby via Eastgate,,0,1472,2132,1,1
 F,4,7105,Diamond Harbour,,1,7777,2207,1,1
-820,4,3973,Burnham,,1,82071,2185,1,1
-820,4,3982,Lincoln,,0,82071,2184,1,1
+820,4,3973,Burnham,,1,82071,2710,1,1
+820,4,3982,Lincoln,,0,82071,2709,1,1
 F,4,7111,Diamond Harbour,,1,7777,2207,1,1
 120,4,4098,Burnside,,1,12071,2509,1,1
 17,4,6992,Huntsbury via City,,0,1772,2137,1,1
@@ -4170,7 +4170,7 @@ F,4,7111,Diamond Harbour,,1,7777,2207,1,1
 3,4,4446,Sheffield Cres via University,,1,3710,2417,1,1
 7,4,5479,Queenspark via City,,1,7707,2518,1,1
 7,4,5516,Halswell via City,,0,7709,2519,1,1
-28,4,7312,Lyttelton,,0,2872,2516,1,1
+28,4,7312,Lyttelton,,0,2872,2805,1,1
 80,4,1806,Parklands via City,,0,8076,2176,1,1
 140,4,2724,Russley & Hornby via Eastgate,,0,1473,2132,1,1
 Oa,4,5623,Orbiter via The Palms,,0,99702,2615,1,1
@@ -4179,24 +4179,24 @@ Oa,4,5623,Orbiter via The Palms,,0,99702,2615,1,1
 29,4,2508,City via Fendalton,,0,2971,2150,1,1
 17,4,6979,Bryndwr,,1,1771,2138,1,1
 F,4,7087,Lyttelton,,0,7777,2206,1,1
-130,4,3630,Hei Hei & Hornby,,0,13071,2602,1,1
+130,4,3630,Hei Hei & Hornby,,0,13071,2702,1,1
 29,4,2486,City via Fendalton,,0,2971,2150,1,1
 60,4,3350,Southshore via City,,0,6071,2170,1,1
-130,4,3663,Avonhead,,1,13072,2514,1,1
+130,4,3663,Avonhead,,1,13072,2705,1,1
 Oa,4,5617,Orbiter via The Palms,,0,99702,2615,1,1
 Oc,4,5213,Orbiter via St Martins,,1,89705,2524,1,1
 3,4,4529,Sumner via City,,0,3709,2415,1,1
 140,4,2697,Mt Pleasant via Eastgate,,1,1473,2134,1,1
 95,4,1913,Pegasus,,1,9573,2520,1,1
 100,4,4968,The Palms,,0,10072,2114,1,1
-28,4,7289,Lyttelton,,0,2875,2516,1,1
+28,4,7289,Lyttelton,,0,2875,2805,1,1
 125,4,3880,Redwood via Hornby,,1,25705,2510,1,1
 5,4,3087,New Brighton via City,,0,5708,2612,1,1
 7,4,5526,Halswell via City,,0,7703,2519,1,1
-28,4,7343,Northwood via City,,1,2871,2410,1,1
+28,4,7343,Northwood via City,,1,2871,2803,1,1
 1,4,1522,Belfast via City,,1,1075,2504,1,1
 100,4,4943,Halswell,,1,10071,2116,1,1
-28,4,7293,Lyttelton,,0,2873,2516,1,1
+28,4,7293,Lyttelton,,0,2873,2805,1,1
 7,4,5519,Halswell via City,,0,7705,2519,1,1
 100,4,4970,The Palms,,0,10074,2114,1,1
 3,4,4504,Sumner via City,,0,3709,2415,1,1
@@ -4219,7 +4219,7 @@ Oa,4,5611,Orbiter via The Palms,,0,99705,2615,1,1
 3,4,4533,Sumner via City,,0,3706,2415,1,1
 Oc,4,5210,Orbiter via St Martins,,1,89705,2524,1,1
 Oc,4,5204,Orbiter via St Martins,,1,89705,2524,1,1
-28,4,7336,Northwood via City,,1,2876,2410,1,1
+28,4,7336,Northwood via City,,1,2876,2803,1,1
 1,4,1560,Princess Margaret Hospital,,0,1078,2408,1,1
 7,4,5477,Queenspark via City,,1,7702,2518,1,1
 5,4,3088,New Brighton via City,,0,5701,2166,1,1

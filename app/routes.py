@@ -2,6 +2,8 @@ from flask import render_template, request, url_for, redirect
 from realtime import nextBus
 from app import app
 
+app.config['TEMPLATES_AUTO_RELOAD'] = True
+
 @app.route('/', methods=['GET', 'POST'])
 def index():
     return render_template('nextbus.html')
